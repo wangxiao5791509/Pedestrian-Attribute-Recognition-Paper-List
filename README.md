@@ -1,5 +1,8 @@
 # Pedestrian-Attribute-Recognition-Paper-List
-The paper list of person attribute recognition
+
+If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn 
+
+The paper list of person attribute recognition: 
 
 [1] Deng, Yubin, Ping Luo, Chen Change Loy, and Xiaoou Tang. "Pedestrian attribute recognition at far distance." In Proceedings of the 22nd ACM international conference on Multimedia, pp. 789-792. ACM, 2014. 
 
