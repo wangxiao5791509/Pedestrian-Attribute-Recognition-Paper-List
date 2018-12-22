@@ -1,6 +1,12 @@
 # Pedestrian-Attribute-Recognition-Paper-List
 
+![欢迎大家加入微信群讨论小组](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
+
+Welcome to our wechat group for further discussion, please scan this code: https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/wechat-Group.png
+
 If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn 
+
+
 
 The paper list of person attribute recognition: 
 
