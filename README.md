@@ -86,6 +86,8 @@ Code: https://github.com/YangZhou1994/WPAL-network
 [32] Lu, Yongxi, Abhishek Kumar, Shuangfei Zhai, Yu Cheng, Tara Javidi, and Rogério Schmidt Feris. "Fully-adaptive Feature Sharing in Multi-Task Networks with Applications in Person Attribute Classification." In CVPR, vol. 1, no. 2, p. 6. 2017. 
 
 [32] Sarafianos, Nikolaos, Xiang Xu, and Ioannis A. Kakadiaris. "Deep Imbalanced Attribute Classification using Visual Attention Aggregation." In Proceedings of the European Conference on Computer Vision (ECCV), pp. 680-697. 2018. 
+Paper: http://openaccess.thecvf.com/content_ECCV_2018/papers/Nikolaos_Sarafianos_Deep_Imbalanced_Attribute_ECCV_2018_paper.pdf 
+Code: https://github.com/cvcode18/imbalanced_learning 
 
 [33] Li, Mu, Wangmeng Zuo, and David Zhang. "Deep identity-aware transfer of facial attributes." arXiv preprint arXiv:1610.05586 (2016). 
 
