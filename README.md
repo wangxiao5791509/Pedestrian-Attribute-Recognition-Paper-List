@@ -7,6 +7,11 @@ Welcome to our wechat group for further discussion, please scan this code: https
 If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn 
 
 
+Dataset: 
+1. PETA dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html 
+2. RAP dataset: http://rap.idealtest.org/ 
+3. PA-100K Dataset: https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M 
+
 
 The paper list of person attribute recognition: 
 
@@ -55,12 +60,15 @@ The paper list of person attribute recognition:
 [22] Lin, Yutian, Liang Zheng, Zhedong Zheng, Yu Wu, and Yi Yang. "Improving person re-identification by attribute and identity learning." arXiv preprint arXiv:1703.07220 (2017). 
 
 [23] Liu, Xihui, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, and Xiaogang Wang. "Hydraplus-net: Attentive deep features for pedestrian analysis." arXiv preprint arXiv:1709.09930 (2017). 
+Code: https://github.com/xh-liu/HydraPlus-Net 
 
 [24] Fouhey, David F., Abhinav Gupta, and Andrew Zisserman. "3D shape attributes." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1516-1524. 2016. 
 
 [25] Fouhey, David F., Abhinav Gupta, and Andrew Zisserman. "Understanding higher-order shape via 3D shape attributes." IEEE TPAMI (2017). 
 
 [26] Zhou, Yang, Kai Yu, Biao Leng, Zhang Zhang, Dangwei Li, Kaiqi Huang, Bailan Feng, and Chunfeng Yao. "Weakly-supervised learning of mid-level features for pedestrian attribute recognition and localization." In BMVC. 2017. 
+Paper: 
+Code: https://github.com/YangZhou1994/WPAL-network 
 
 [27] Wang, Jing, Yu Cheng, and Rogerio Schmidt Feris. "Walk and learn: Facial attribute representation learning from egocentric video and contextual data." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2295-2304. 2016.
 
@@ -79,6 +87,12 @@ The paper list of person attribute recognition:
 [33] Li, Mu, Wangmeng Zuo, and David Zhang. "Deep identity-aware transfer of facial attributes." arXiv preprint arXiv:1610.05586 (2016). 
 
 [34] He, Keke, Zhanxiong Wang, Yanwei Fu, Rui Feng, Yu-Gang Jiang, and Xiangyang Xue. "Adaptively Weighted Multi-task Deep Network for Person Attribute Classification." In Proceedings of the 2017 ACM on Multimedia Conference, pp. 1636-1644. ACM, 2017. https://dl.acm.org/citation.cfm?id=3123424 
+
+[35] Sarfraz, M. Saquib, Arne Schumann, Yan Wang, and Rainer Stiefelhagen. "Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model." arXiv preprint arXiv:1707.06089 (2017). https://arxiv.org/pdf/1707.06089.pdf 
+
+[36] Liu, Xihui, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, and Xiaogang Wang. "HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis." In Proceedings of the IEEE International Conference on Computer Vision, pp. 350-359. 2017. 
+Paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_HydraPlus-Net_Attentive_Deep_ICCV_2017_paper.pdf
+Code: https://github.com/xh-liu/HydraPlus-Net 
 
 
 
