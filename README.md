@@ -78,3 +78,7 @@ The paper list of person attribute recognition:
 
 [33] Li, Mu, Wangmeng Zuo, and David Zhang. "Deep identity-aware transfer of facial attributes." arXiv preprint arXiv:1610.05586 (2016). 
 
+[34] He, Keke, Zhanxiong Wang, Yanwei Fu, Rui Feng, Yu-Gang Jiang, and Xiangyang Xue. "Adaptively Weighted Multi-task Deep Network for Person Attribute Classification." In Proceedings of the 2017 ACM on Multimedia Conference, pp. 1636-1644. ACM, 2017. https://dl.acm.org/citation.cfm?id=3123424 
+
+
+
