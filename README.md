@@ -94,5 +94,12 @@ Code: https://github.com/YangZhou1994/WPAL-network
 Paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_HydraPlus-Net_Attentive_Deep_ICCV_2017_paper.pdf
 Code: https://github.com/xh-liu/HydraPlus-Net 
 
+[37] Xin Zhao; Liufang Sang; guiguang ding; Jungong Han; Na Di; Chenggang Yan, Recurrent Attention Model for Pedestrian Attribute Recognition, AAAI-2019 
+
+[38] Qiaozhe Li*; Xin Zhao; Ran He; KAIQI HUANG, Visual-semantic Graph Reasoning for Pedestrian Attribute Recognition, AAAI-2019 
+
+
+
+
 
 
