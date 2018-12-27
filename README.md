@@ -47,9 +47,12 @@ The paper list of person attribute recognition:
 
 [16] Wang, Jingya, Xiatian Zhu, Shaogang Gong, and Wei Li. "Attribute Recognition by Joint Recurrent Learning of Context and Correlation." In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 531-540. IEEE, 2017. 
 
-[17] Chen, Tianshui, Zhouxia Wang, Guanbin Li, and Liang Lin. "Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition." arXiv preprint arXiv:1712.07465 (2017). 
+[17] Chen, Tianshui, Zhouxia Wang, Guanbin Li, and Liang Lin. "Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition." AAAI2018 
+Paper: http://www.linliang.net/wp-content/uploads/2018/01/AAAI2018_AttentionRL.pdf 
 
-[18] Wang, Zhouxia, Tianshui Chen, Guanbin Li, Ruijia Xu, and Liang Lin. "Multi-label image recognition by recurrently discovering attentional regions." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 464-472. 2017. 
+[18] Wang, Z., Chen, T., Li, G., Xu, R., & Lin, L. (2017, October). Multi-label Image Recognition by Recurrently Discovering Attentional Regions. In Computer Vision (ICCV), 2017 IEEE International Conference on (pp. 464-472). IEEE.
+Paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf 
+Code: https://github.com/James-Yip/AttentionImageClass 
 
 [19] Wang, Jiang, Yi Yang, Junhua Mao, Zhiheng Huang, Chang Huang, and Wei Xu. "Cnn-rnn: A unified framework for multi-label image classification." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2285-2294. 2016. 
 
