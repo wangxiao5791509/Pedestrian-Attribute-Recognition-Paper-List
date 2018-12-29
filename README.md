@@ -37,13 +37,13 @@ The paper list of person attribute recognition:
 
 [11] Gkioxari, Georgia, Ross Girshick, and Jitendra Malik. "Actions and attributes from wholes and parts." In Proceedings of the IEEE International Conference on Computer Vision, pp. 2470-2478. 2015. 
 
-[12] Li, Yining, Chen Huang, Chen Change Loy, and Xiaoou Tang. "Human attribute recognition by deep hierarchical contexts." In European Conference on Computer Vision, pp. 684-700. Springer, Cham, 2016. 
+[12] Li, Yining, Chen Huang, Chen Change Loy, and Xiaoou Tang. "Human attribute recognition by deep hierarchical contexts." In European Conference on Computer Vision, pp. 684-700. Springer, Cham, 2016. Paper: http://101.96.10.63/personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_human.pdf 
 
 [13] Zhang, Ning, Manohar Paluri, Marc'Aurelio Ranzato, Trevor Darrell, and Lubomir Bourdev. "Panda: Pose aligned networks for deep attribute modeling." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1637-1644. 2014. 
 
 [14] Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A poselet-based approach to attribute classification." In Computer Vision (ICCV), 2011 IEEE International Conference on, pp. 1543-1550. IEEE, 2011. 
 
-[15] Li, Yining, Chen Huang, Chen Change Loy, and Xiaoou Tang. "Human attribute recognition by deep hierarchical contexts." In European Conference on Computer Vision, pp. 684-700. Springer, Cham, 2016. 
+[15] 
 
 [16] Wang, Jingya, Xiatian Zhu, Shaogang Gong, and Wei Li. "Attribute Recognition by Joint Recurrent Learning of Context and Correlation." In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 531-540. IEEE, 2017. 
 
