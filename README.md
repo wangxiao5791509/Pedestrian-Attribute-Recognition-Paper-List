@@ -11,6 +11,13 @@ Dataset:
 1. PETA dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html 
 2. RAP dataset: http://rap.idealtest.org/ 
 3. PA-100K Dataset: https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M 
+4. WIDER Attribute Dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html 
+5. Database of Human Attributes (HAT): https://jurie.users.greyc.fr/datasets/hat.html
+6. Market-1501_Attribute: https://github.com/vana77/Market-1501_Attribute 
+7. DukeMTMC-Attribute: https://github.com/vana77/DukeMTMC-attribute 
+8. Clothing Attributes Dataset: https://purl.stanford.edu/tb980qz1002
+
+
 
 
 The paper list of person attribute recognition: 
@@ -37,13 +44,15 @@ The paper list of person attribute recognition:
 
 [11] Gkioxari, Georgia, Ross Girshick, and Jitendra Malik. "Actions and attributes from wholes and parts." In Proceedings of the IEEE International Conference on Computer Vision, pp. 2470-2478. 2015. 
 
-[12] Li, Yining, Chen Huang, Chen Change Loy, and Xiaoou Tang. "Human attribute recognition by deep hierarchical contexts." In European Conference on Computer Vision, pp. 684-700. Springer, Cham, 2016. Paper: http://101.96.10.63/personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_human.pdf 
+[12] Li, Yining, Chen Huang, Chen Change Loy, and Xiaoou Tang. "Human attribute recognition by deep hierarchical contexts." In European Conference on Computer Vision, pp. 684-700. Springer, Cham, 2016. 
+Paper: http://101.96.10.63/personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_human.pdf 
 
 [13] Zhang, Ning, Manohar Paluri, Marc'Aurelio Ranzato, Trevor Darrell, and Lubomir Bourdev. "Panda: Pose aligned networks for deep attribute modeling." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1637-1644. 2014. 
 
 [14] Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A poselet-based approach to attribute classification." In Computer Vision (ICCV), 2011 IEEE International Conference on, pp. 1543-1550. IEEE, 2011. 
 
-[15] 
+[15] Li, Dangwei, Xiaotang Chen, Zhang Zhang, and Kaiqi Huang. "Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios." In 2018 IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6. IEEE, 2018. 
+Paper: http://dangweili.github.io/misc/pdfs/icme18.pdf
 
 [16] Wang, Jingya, Xiatian Zhu, Shaogang Gong, and Wei Li. "Attribute Recognition by Joint Recurrent Learning of Context and Correlation." In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 531-540. IEEE, 2017. 
 
