@@ -117,6 +117,10 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [38] Qiaozhe Li*; Xin Zhao; Ran He; KAIQI HUANG, Visual-semantic Graph Reasoning for Pedestrian Attribute Recognition, AAAI-2019 
 
+[39] Zhao, Xin, Liufang Sang, Guiguang Ding, Yuchen Guo, and Xiaoming Jin. "Grouping Attribute Recognition for Pedestrian with Joint Recurrent Learning." In IJCAI, pp. 3177-3183. 2018. [Paper](https://www.ijcai.org/proceedings/2018/0441.pdf) 
+
+[40] 
+
 
 
 
