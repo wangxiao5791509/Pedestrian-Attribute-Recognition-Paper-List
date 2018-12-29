@@ -8,14 +8,15 @@ If you find more related papers about person attribute recognition, please email
 
 
 Dataset: 
-1. PETA dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html 
-2. RAP dataset: http://rap.idealtest.org/ 
+1. PETA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html 
+2. RAP Dataset: http://rap.idealtest.org/ 
 3. PA-100K Dataset: https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M 
 4. WIDER Attribute Dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html 
 5. Database of Human Attributes (HAT): https://jurie.users.greyc.fr/datasets/hat.html
 6. Market-1501_Attribute: https://github.com/vana77/Market-1501_Attribute 
 7. DukeMTMC-Attribute: https://github.com/vana77/DukeMTMC-attribute 
 8. Clothing Attributes Dataset: https://purl.stanford.edu/tb980qz1002
+9. Parse27k Dataset: https://www.vision.rwth-aachen.de/page/parse27k 
 
 
 
@@ -25,6 +26,7 @@ The paper list of person attribute recognition:
 [1] Deng, Yubin, Ping Luo, Chen Change Loy, and Xiaoou Tang. "Pedestrian attribute recognition at far distance." In Proceedings of the 22nd ACM international conference on Multimedia, pp. 789-792. ACM, 2014. 
 
 [2] Sudowe, Patrick, Hannah Spitzer, and Bastian Leibe. "Person attribute recognition with a jointly-trained holistic cnn model." In Proceedings of the IEEE International Conference on Computer Vision Workshops, pp. 87-95. 2015. 
+Paper：https://www.vision.rwth-aachen.de/page/parse27k 
 
 [3] Zhu, Jianqing, Shengcai Liao, Zhen Lei, Dong Yi, and Stan Li. "Pedestrian attribute classification in surveillance: Database and evaluation." In Proceedings of the IEEE International Conference on Computer Vision Workshops, pp. 331-338. 2013. 
 
