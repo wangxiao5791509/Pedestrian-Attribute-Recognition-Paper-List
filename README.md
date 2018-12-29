@@ -1,8 +1,8 @@
 # Pedestrian-Attribute-Recognition-Paper-List
 
-## Note：
 ![欢迎大家加入微信群讨论小组](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
 
+## Note：
 Welcome to our wechat group for further discussion, please scan this code: https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/wechat-Group.png
 
 If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn 
@@ -24,20 +24,20 @@ If you find more related papers about person attribute recognition, please email
 
 ## The paper list of person attribute recognition: 
 
-[1] Deng, Yubin, Ping Luo, Chen Change Loy, and Xiaoou Tang. "Pedestrian attribute recognition at far distance." In Proceedings of the 22nd ACM international conference on Multimedia, pp. 789-792. ACM, 2014. 
+[1] Deng, Yubin, Ping Luo, Chen Change Loy, and Xiaoou Tang. "Pedestrian attribute recognition at far distance." In Proceedings of the 22nd ACM international conference on Multimedia, pp. 789-792. ACM, 2014. [Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.683.9948&rep=rep1&type=pdf) [Project Page](http://mmlab.ie.cuhk.edu.hk/projects/PETA.html)
 
 [2] Sudowe, Patrick, Hannah Spitzer, and Bastian Leibe. "Person attribute recognition with a jointly-trained holistic cnn model." In Proceedings of the IEEE International Conference on Computer Vision Workshops, pp. 87-95. 2015. 
 [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w11/papers/Sudowe_Person_Attribute_Recognition_ICCV_2015_paper.pdf)  
 [Project Page](https://www.vision.rwth-aachen.de/page/parse27k)
 
 
-[3] Zhu, Jianqing, Shengcai Liao, Zhen Lei, Dong Yi, and Stan Li. "Pedestrian attribute classification in surveillance: Database and evaluation." In Proceedings of the IEEE International Conference on Computer Vision Workshops, pp. 331-338. 2013. 
+[3] Zhu, Jianqing, Shengcai Liao, Zhen Lei, Dong Yi, and Stan Li. "Pedestrian attribute classification in surveillance: Database and evaluation." In Proceedings of the IEEE International Conference on Computer Vision Workshops, pp. 331-338. 2013. [Paper](https://www.cv-foundation.org/openaccess/content_iccv_workshops_2013/W10/papers/Zhu_Pedestrian_Attribute_Classification_2013_ICCV_paper.pdf)
 
-[4] Li, Dangwei, Zhang Zhang, Xiaotang Chen, Haibin Ling, and Kaiqi Huang. "A richly annotated dataset for pedestrian attribute recognition." arXiv preprint arXiv:1603.07054 (2016). 
+[4] Li, Dangwei, Zhang Zhang, Xiaotang Chen, Haibin Ling, and Kaiqi Huang. "A richly annotated dataset for pedestrian attribute recognition." arXiv preprint arXiv:1603.07054 (2016). [Paper](https://arxiv.org/pdf/1603.07054.pdf) [Project Page](http://rap.idealtest.org/)
 
-[5] Fabbri, Matteo, Simone Calderara, and Rita Cucchiara. "Generative adversarial models for people attribute recognition in surveillance." In Advanced Video and Signal Based Surveillance (AVSS), 2017 14th IEEE International Conference on, pp. 1-6. IEEE, 2017. 
+[5] Fabbri, Matteo, Simone Calderara, and Rita Cucchiara. "Generative adversarial models for people attribute recognition in surveillance." In Advanced Video and Signal Based Surveillance (AVSS), 2017 14th IEEE International Conference on, pp. 1-6. IEEE, 2017. [Paper](https://arxiv.org/pdf/1707.02240.pdf)
 
-[6] Guo, Qi, Ce Zhu, Zhiqiang Xia, Zhengtao Wang, and Yipeng Liu. "Attribute-controlled face photo synthesis from simple line drawing." In Image Processing (ICIP), 2017 IEEE International Conference on, pp. 2946-2950. IEEE, 2017. 
+[6] Guo, Qi, Ce Zhu, Zhiqiang Xia, Zhengtao Wang, and Yipeng Liu. "Attribute-controlled face photo synthesis from simple line drawing." In Image Processing (ICIP), 2017 IEEE International Conference on, pp. 2946-2950. IEEE, 2017. [Paper](https://arxiv.org/pdf/1702.02805.pdf)
 
 [7] Yan, Xinchen, Jimei Yang, Kihyuk Sohn, and Honglak Lee. "Attribute2image: Conditional image generation from visual attributes." In European Conference on Computer Vision, pp. 776-791. Springer, Cham, 2016. 
 
