@@ -52,7 +52,7 @@ If you find more related papers about person attribute recognition, please email
 [12] Li, Yining, Chen Huang, Chen Change Loy, and Xiaoou Tang. "Human attribute recognition by deep hierarchical contexts." In European Conference on Computer Vision, pp. 684-700. Springer, Cham, 2016. 
 [Paper](http://101.96.10.63/personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_human.pdf) 
 
-[13] Zhang, Ning, Manohar Paluri, Marc'Aurelio Ranzato, Trevor Darrell, and Lubomir Bourdev. "Panda: Pose aligned networks for deep attribute modeling." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1637-1644. 2014. [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Zhang_PANDA_Pose_Aligned_2014_CVPR_paper.pdf)
+[13] Zhang, Ning, Manohar Paluri, Marc'Aurelio Ranzato, Trevor Darrell, and Lubomir Bourdev. "Panda: Pose aligned networks for deep attribute modeling." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1637-1644. 2014. [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Zhang_PANDA_Pose_Aligned_2014_CVPR_paper.pdf) [Code](https://github.com/facebookarchive/pose-aligned-deep-networks)
 
 [14] Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A poselet-based approach to attribute classification." In Computer Vision (ICCV), 2011 IEEE International Conference on, pp. 1543-1550. IEEE, 2011. 
 
