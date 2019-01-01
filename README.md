@@ -125,7 +125,10 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 [41] Park, Seyoung, Bruce Xiaohan Nie, and Song-Chun Zhu. "Attribute and-or grammar for joint parsing of human pose, parts and attributes." IEEE transactions on pattern analysis and machine intelligence 40, no. 7 (2018): 1555-1569. 
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7990516) 
 
-[42] 
+[42] Guo, Hao, Xiaochuan Fan, and Song Wang. "Human attribute recognition by refining attention heat map." Pattern Recognition Letters 94 (2017): 38-45. 
+[Paper](https://www.sciencedirect.com/science/article/pii/S0167865517301605) 
+
+[43] 
 
 
 
