@@ -119,7 +119,13 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [39] Zhao, Xin, Liufang Sang, Guiguang Ding, Yuchen Guo, and Xiaoming Jin. "Grouping Attribute Recognition for Pedestrian with Joint Recurrent Learning." In IJCAI, pp. 3177-3183. 2018. [Paper](https://www.ijcai.org/proceedings/2018/0441.pdf) 
 
-[40] 
+[40] Diba, Ali, Ali Mohammad Pazandeh, Hamed Pirsiavash, and Luc Van Gool. "Deepcamp: Deep convolutional action & attribute mid-level patterns." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3557-3565. 2016.
+[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Diba_DeepCAMP_Deep_Convolutional_CVPR_2016_paper.pdf) 
+
+[41] Park, Seyoung, Bruce Xiaohan Nie, and Song-Chun Zhu. "Attribute and-or grammar for joint parsing of human pose, parts and attributes." IEEE transactions on pattern analysis and machine intelligence 40, no. 7 (2018): 1555-1569. 
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7990516) 
+
+[42] 
 
 
 
