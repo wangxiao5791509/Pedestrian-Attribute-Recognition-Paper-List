@@ -128,7 +128,11 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 [42] Guo, Hao, Xiaochuan Fan, and Song Wang. "Human attribute recognition by refining attention heat map." Pattern Recognition Letters 94 (2017): 38-45. 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0167865517301605) 
 
-[43] 
+[43] Sarafianos, Nikolaos, Theodore Giannakopoulos, Christophoros Nikou, and Ioannis A. Kakadiaris. "Curriculum Learning for Multi-Task Classification of Visual Attributes." In Proceedings of the IEEE International Conference on Computer Vision, pp. 2608-2615. 2017. [Paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Sarafianos_Curriculum_Learning_for_ICCV_2017_paper.pdf) 
+
+[44] Sarafianos, Nikolaos, Theodoros Giannakopoulos, Christophoros Nikou, and Ioannis A. Kakadiaris. "Curriculum learning of visual attribute clusters for multi-task classification." Pattern Recognition 80 (2018): 94-108. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320318300840) 
+
+[45] 
 
 
 
