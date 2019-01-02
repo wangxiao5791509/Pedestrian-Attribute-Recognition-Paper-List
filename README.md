@@ -18,6 +18,7 @@ If you find more related papers about person attribute recognition, please email
 7. DukeMTMC-Attribute: https://github.com/vana77/DukeMTMC-attribute 
 8. Clothing Attributes Dataset: https://purl.stanford.edu/tb980qz1002
 9. Parse27k Dataset: https://www.vision.rwth-aachen.de/page/parse27k 
+10. RAP 2.0 Dataset: https://drive.google.com/file/d/1hoPIB5NJKf3YGMvLFZnIYG5JDcZTxHph/view 
 
 
 
