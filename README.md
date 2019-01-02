@@ -137,7 +137,9 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 [Paper](https://ieeexplore.ieee.org/abstract/document/8510891) 
 [Code](https://github.com/dangweili/RAP) 
 
-[46] 
+[46] Liu, Hao, Jingjing Wu, Jianguo Jiang, Meibin Qi, and Ren Bo. "Sequence-based Person Attribute Recognition with Joint CTC-Attention Model." arXiv preprint arXiv:1811.08115 (2018). [Paper](https://arxiv.org/pdf/1811.08115.pdf) 
+
+[47] 
 
 
 
