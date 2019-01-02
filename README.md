@@ -132,7 +132,11 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [44] Sarafianos, Nikolaos, Theodoros Giannakopoulos, Christophoros Nikou, and Ioannis A. Kakadiaris. "Curriculum learning of visual attribute clusters for multi-task classification." Pattern Recognition 80 (2018): 94-108. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320318300840) 
 
-[45] 
+[45] Li, Dangwei, Zhang Zhang, Xiaotang Chen, and Kaiqi Huang. "A richly annotated pedestrian dataset for person retrieval in real surveillance scenarios." IEEE transactions on image processing 28, no. 4 (2019): 1575-1590. 
+[Paper](https://ieeexplore.ieee.org/abstract/document/8510891) 
+[Code](https://github.com/dangweili/RAP) 
+
+[46] 
 
 
 
