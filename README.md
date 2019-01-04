@@ -147,7 +147,9 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [49] Hall, David, and Pietro Perona. "Fine-grained classification of pedestrians in video: Benchmark and state of the art." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5482-5491. 2015. [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hall_Fine-Grained_Classification_of_2015_CVPR_paper.pdf) 
 
-[50] 
+[50] Liu, P., Liu, X., Yan, J., & Shao, J. (2018). Localization guided learning for pedestrian attribute recognition. arXiv preprint arXiv:1808.09102. [BMVC-paper](http://bmvc2018.org/contents/papers/0573.pdf) 
+
+[51] 
 
 
 
