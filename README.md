@@ -19,6 +19,8 @@ If you find more related papers about person attribute recognition, please email
 8. Clothing Attributes Dataset: https://purl.stanford.edu/tb980qz1002
 9. Parse27k Dataset: https://www.vision.rwth-aachen.de/page/parse27k 
 10. RAP 2.0 Dataset: https://drive.google.com/file/d/1hoPIB5NJKf3YGMvLFZnIYG5JDcZTxHph/view 
+11. HAT Dataset: https://jurie.users.greyc.fr/datasets/hat.html 
+12. CRP Dataset: http://www.vision.caltech.edu/~dhall/projects/CRP/ 
 
 
 
@@ -141,7 +143,11 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [47] Joo, Jungseock, Shuo Wang, and Song-Chun Zhu. "Human attribute recognition by rich appearance dictionary." In Proceedings of the IEEE International Conference on Computer Vision, pp. 721-728. 2013. [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Joo_Human_Attribute_Recognition_2013_ICCV_paper.pdf) 
 
-[48] 
+[48] Sharma, G. and Jurie, F., 2011, August. Learning discriminative spatial representation for image classification. In BMVC 2011-British Machine Vision Conference (pp. 1-11). BMVA Press. [Paper](https://hal.inria.fr/file/index/docid/722820/filename/bmvc_final.pdf) 
+
+[49] Hall, David, and Pietro Perona. "Fine-grained classification of pedestrians in video: Benchmark and state of the art." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5482-5491. 2015. [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hall_Fine-Grained_Classification_of_2015_CVPR_paper.pdf) 
+
+[50] 
 
 
 
