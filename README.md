@@ -139,6 +139,10 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [46] Liu, Hao, Jingjing Wu, Jianguo Jiang, Meibin Qi, and Ren Bo. "Sequence-based Person Attribute Recognition with Joint CTC-Attention Model." arXiv preprint arXiv:1811.08115 (2018). [Paper](https://arxiv.org/pdf/1811.08115.pdf) 
 
+[47] Joo, Jungseock, Shuo Wang, and Song-Chun Zhu. "Human attribute recognition by rich appearance dictionary." In Proceedings of the IEEE International Conference on Computer Vision, pp. 721-728. 2013. [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Joo_Human_Attribute_Recognition_2013_ICCV_paper.pdf) 
+
+[48] 
+
 
 
 
