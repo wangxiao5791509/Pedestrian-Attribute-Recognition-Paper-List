@@ -5,7 +5,8 @@
 ## Note：
 Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190105202935.png)
 
-Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg)
+Or scan this to add my [wecheat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg)
+
 If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn 
 
 
