@@ -156,7 +156,10 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [53] Zhu, Jianqing, et al. "Multi-label convolutional neural network based pedestrian attribute classification." Image and Vision Computing 58 (2017): 224-229. [Paper](https://ac.els-cdn.com/S0262885616301135/1-s2.0-S0262885616301135-main.pdf?_tid=15a389b3-27a4-4e0b-9162-894fb1822213&acdnat=1546782569_52f9a946a09ca7b65ee38c85ed4bab6f) 
 
-[54] 
+[54] Pedestrian Attribute Detection using CNN, Standford University, CS231n, 2016, Agrim Gupta and Jayanth Ramesh, 
+Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf 
+
+[55] 
 
 
 
