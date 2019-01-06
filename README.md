@@ -150,7 +150,11 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 
 [50] Liu, P., Liu, X., Yan, J., & Shao, J. (2018). Localization guided learning for pedestrian attribute recognition. arXiv preprint arXiv:1808.09102. [BMVC-paper](http://bmvc2018.org/contents/papers/0573.pdf) 
 
-[51] 
+[51] Chen, Huizhong, Andrew Gallagher, and Bernd Girod. "Describing clothing by semantic attributes." European conference on computer vision. Springer, Berlin, Heidelberg, 2012.[Paper](https://pdfs.semanticscholar.org/b185/f0a39384ceb3c4923196aeed6d68830a069f.pdf) 
+
+[52] Deng, Y., Luo, P., Loy, C. C., & Tang, X. (2015). Learning to recognize pedestrian attribute. arXiv preprint arXiv:1501.00901.[Paper](https://arxiv.org/pdf/1501.00901.pdf) 
+
+[53] 
 
 
 
