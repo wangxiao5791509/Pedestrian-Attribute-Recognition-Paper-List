@@ -159,7 +159,10 @@ Code: https://github.com/xh-liu/HydraPlus-Net
 [54] Pedestrian Attribute Detection using CNN, Standford University, CS231n, 2016, Agrim Gupta and Jayanth Ramesh, 
 Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf 
 
-[55] 
+[55] Abdulnabi, Abrar H., Gang Wang, Jiwen Lu, and Kui Jia. "Multi-task CNN model for attribute prediction." IEEE Transactions on Multimedia 17, no. 11 (2015): 1949-1959. 
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7254184) 
+
+[56] 
 
 
 
