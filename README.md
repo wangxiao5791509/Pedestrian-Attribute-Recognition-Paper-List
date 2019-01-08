@@ -162,7 +162,9 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 [55] Abdulnabi, Abrar H., Gang Wang, Jiwen Lu, and Kui Jia. "Multi-task CNN model for attribute prediction." IEEE Transactions on Multimedia 17, no. 11 (2015): 1949-1959. 
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7254184) 
 
-[56] 
+[56] Sudowe, Patrick, and Bastian Leibe. "[PatchIt: Self-Supervised Network Weight Initialization for Fine-grained Recognition](http://www.bmva.org/bmvc/2016/papers/paper075/paper075.pdf)" In BMVC. 2016.
+
+[57] 
 
 
 
