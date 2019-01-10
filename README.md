@@ -171,7 +171,14 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 
 
 
-## Applications (Person Attribute based Tasks): 
+## Applications (Person Attribute based Tasks)
+
+### Person Re-ID based on Attributes
+
+Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "[Deep attributes driven multi-camera person re-identification.](https://arxiv.org/pdf/1605.03259.pdf)" In European conference on computer vision, pp. 475-491. Springer, Cham, 2016.
+
+Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "[Towards person identification and re-identification with attributes.](https://www.researchgate.net/profile/Timothy_Hospedales/publication/262167008_Towards_Person_Identification_and_Re-identification_with_Attributes/links/55c1df5708aeb5e0c58415e6.pdf)" In European Conference on Computer Vision, pp. 402-412. Springer, Berlin, Heidelberg, 2012.
+
 
 
 
