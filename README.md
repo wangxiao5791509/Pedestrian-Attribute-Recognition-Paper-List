@@ -22,7 +22,7 @@ If you find more related papers about person attribute recognition, please email
 9. Parse27k Dataset: https://www.vision.rwth-aachen.de/page/parse27k 
 10. RAP 2.0 Dataset: https://drive.google.com/file/d/1hoPIB5NJKf3YGMvLFZnIYG5JDcZTxHph/view 
 11. CRP Dataset: http://www.vision.caltech.edu/~dhall/projects/CRP/ 
-12. APis dataset: http://www.cbsr.ia.ac.cn/english/APiS-1.0-Database.html.  (Failured)
+12. APis dataset: http://www.cbsr.ia.ac.cn/english/APiS-1.0-Database.html.  (Failed)
 13. Berkeley-Attributes of People dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
 
 
