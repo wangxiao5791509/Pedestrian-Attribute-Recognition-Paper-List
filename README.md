@@ -179,9 +179,17 @@ Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "[Deep attributes 
 
 Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "[Towards person identification and re-identification with attributes.](https://www.researchgate.net/profile/Timothy_Hospedales/publication/262167008_Towards_Person_Identification_and_Re-identification_with_Attributes/links/55c1df5708aeb5e0c58415e6.pdf)" In European Conference on Computer Vision, pp. 402-412. Springer, Berlin, Heidelberg, 2012.
 
+Layne, Ryan, Timothy M. Hospedales, Shaogang Gong, and Q. Mary. "[Person re-identification by attributes.](http://www.bmva.org/bmvc/2012/BMVC/paper024/paper024.pdf)" In Bmvc, vol. 2, no. 3, p. 8. 2012.
 
+Lin, Yutian, Liang Zheng, Zhedong Zheng, Yu Wu, and Yi Yang. "[Improving person re-identification by attribute and identity learning.](https://arxiv.org/abs/1703.07220)" arXiv preprint arXiv:1703.07220 (2017). 
 
+Khamis, Sameh, Cheng-Hao Kuo, Vivek K. Singh, Vinay D. Shet, and Larry S. Davis. "[Joint learning for attribute-consistent person re-identification.](https://pdfs.semanticscholar.org/e5b4/700a615cde23b91be3eadf1c99642cd33e42.pdf)" In European Conference on Computer Vision, pp. 134-146. Springer, Cham, 2014.
 
+Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "[Attributes-based re-identification.](http://101.96.10.64/homepages.inf.ed.ac.uk/thospeda/papers/layne2013reidAttrib.pdf)" In Person Re-Identification, pp. 93-117. Springer, London, 2014.
+
+Li, Annan, Luoqi Liu, Kang Wang, Si Liu, and Shuicheng Yan. "[Clothing attributes assisted person reidentification.](http://homepages.rpi.edu/~wangk10/papers/attributes_identification.pdf)" IEEE Transactions on Circuits and Systems for Video Technology 25, no. 5 (2015): 869-878.
+
+Schumann, Arne, and Rainer Stiefelhagen. "[Person re-identification by deep learning attribute-complementary information.](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w17/papers/Schumann_Person_Re-Identification_by_CVPR_2017_paper.pdf)" In Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on, pp. 1435-1443. IEEE, 2017.
 
 
 
