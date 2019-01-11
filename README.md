@@ -166,7 +166,9 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 
 [56] Sudowe, Patrick, and Bastian Leibe. "[PatchIt: Self-Supervised Network Weight Initialization for Fine-grained Recognition](http://www.bmva.org/bmvc/2016/papers/paper075/paper075.pdf)" In BMVC. 2016.
 
-[57] 
+[57] Zhu, Jianqing, Shengcai Liao, Dong Yi, Zhen Lei, and Stan Z. Li. "[Multi-label cnn based pedestrian attribute learning for soft biometrics.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139070)" In Biometrics (ICB), 2015 International Conference on, pp. 535-540. IEEE, 2015.
+
+[58] 
 
 
 
