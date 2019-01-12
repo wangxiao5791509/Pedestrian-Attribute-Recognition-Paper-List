@@ -168,7 +168,9 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 
 [57] Zhu, Jianqing, Shengcai Liao, Dong Yi, Zhen Lei, and Stan Z. Li. "[Multi-label cnn based pedestrian attribute learning for soft biometrics.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139070)" In Biometrics (ICB), 2015 International Conference on, pp. 535-540. IEEE, 2015.
 
-[58] 
+[58] Yamaguchi, Kota, Takayuki Okatani, Kyoko Sudo, Kazuhiko Murasaki, and Yukinobu Taniguchi. "[Mix and Match: Joint Model for Clothing and Attribute Recognition.](http://www.bmva.org/bmvc/2015/papers/paper051/paper051.pdf)" In BMVC, vol. 1, no. 2, p. 4. 2015. 
+
+[59] 
 
 
 
