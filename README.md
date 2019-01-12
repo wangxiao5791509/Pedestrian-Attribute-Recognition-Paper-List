@@ -25,6 +25,8 @@ If you find more related papers about person attribute recognition, please email
 12. APis dataset: http://www.cbsr.ia.ac.cn/english/APiS-1.0-Database.html.  (Failed)
 13. Berkeley-Attributes of People dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
 
+14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html 
+
 
 
 
@@ -170,7 +172,9 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 
 [58] Yamaguchi, Kota, Takayuki Okatani, Kyoko Sudo, Kazuhiko Murasaki, and Yukinobu Taniguchi. "[Mix and Match: Joint Model for Clothing and Attribute Recognition.](http://www.bmva.org/bmvc/2015/papers/paper051/paper051.pdf)" In BMVC, vol. 1, no. 2, p. 4. 2015. 
 
-[59] 
+[59] Liu, Ziwei, Ping Luo, Shi Qiu, Xiaogang Wang, and Xiaoou Tang. "[Deepfashion: Powering robust clothes recognition and retrieval with rich annotations.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)" In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1096-1104. 2016. 
+
+[60] 
 
 
 
