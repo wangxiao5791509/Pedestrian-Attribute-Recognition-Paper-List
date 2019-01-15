@@ -173,7 +173,10 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 
 [59] Liu, Ziwei, Ping Luo, Shi Qiu, Xiaogang Wang, and Xiaoou Tang. "[Deepfashion: Powering robust clothes recognition and retrieval with rich annotations.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)" In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1096-1104. 2016. 
 
-[60] 
+[60] Esube Bekele and Wallace Lawson [The Deeper, the Better: Analysis of Person Attributes Recognition](https://arxiv.org/pdf/1901.03756.pdf), submitted to FG2019 
+
+
+
 
 
 
