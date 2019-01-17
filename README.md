@@ -29,6 +29,15 @@ If you find more related papers about person attribute recognition, please email
 14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html 
 
 
+## Code: 
+1. A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Recognition-MarketDuke 
+2. DeepMAR from "Multi-attribute learning for pedestrian attribute recognition": https://github.com/kyu-sz/DeepMAR_deploy 
+3. Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios, Dangwei Li and Xiaotang Chen and Kaiqi Huang, ACPR 2015: https://github.com/dangweili/pedestrian-attribute-recognition-pytorch 
+4. Multi-label Image Recognition by Recurrently Discovering Attentional Regions (Pytorch implementation): https://github.com/James-Yip/AttentionImageClass 
+5. A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios: Li, Dangwei and Zhang, Zhang and Chen, Xiaotang and Huang, Kaiqi, IEEE Transactions on Image Processing 2019: https://github.com/dangweili/RAP 
+6. 
+
+
 
 
 ## The paper list of person attribute recognition: 
