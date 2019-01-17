@@ -1,6 +1,6 @@
 # Pedestrian-Attribute-Recognition-Paper-List
 
-![欢迎大家加入微信群讨论小组](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
+![欢迎大家加入微信群讨论小组](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png)
 
 ## Note：
 Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190105202935.png)
