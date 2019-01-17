@@ -35,7 +35,11 @@ If you find more related papers about person attribute recognition, please email
 3. Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios, Dangwei Li and Xiaotang Chen and Kaiqi Huang, ACPR 2015: https://github.com/dangweili/pedestrian-attribute-recognition-pytorch 
 4. Multi-label Image Recognition by Recurrently Discovering Attentional Regions (Pytorch implementation): https://github.com/James-Yip/AttentionImageClass 
 5. A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios: Li, Dangwei and Zhang, Zhang and Chen, Xiaotang and Huang, Kaiqi, IEEE Transactions on Image Processing 2019: https://github.com/dangweili/RAP 
-6. 
+6. PatchIt (BMVC-2016): https://github.com/psudowe/patchit 
+7. PANDA (CVOR-2014): https://github.com/facebookarchive/pose-aligned-deep-networks 
+8. HydraPlus-Net (ICCV-2017): https://github.com/xh-liu/HydraPlus-Net 
+9. WPAL-network (BMVC-2014) https://github.com/YangZhou1994/WPAL-network 
+10. Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECCV-2018): https://github.com/cvcode18/imbalanced_learning 
 
 
 
@@ -176,7 +180,7 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 [55] Abdulnabi, Abrar H., Gang Wang, Jiwen Lu, and Kui Jia. "Multi-task CNN model for attribute prediction." IEEE Transactions on Multimedia 17, no. 11 (2015): 1949-1959. 
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7254184) 
 
-[56] Sudowe, Patrick, and Bastian Leibe. "[PatchIt: Self-Supervised Network Weight Initialization for Fine-grained Recognition](http://www.bmva.org/bmvc/2016/papers/paper075/paper075.pdf)" In BMVC. 2016.
+[56] Sudowe, Patrick, and Bastian Leibe. "[PatchIt: Self-Supervised Network Weight Initialization for Fine-grained Recognition](http://www.bmva.org/bmvc/2016/papers/paper075/paper075.pdf)" In BMVC. 2016. [Code](https://github.com/psudowe/patchit)
 
 [57] Zhu, Jianqing, Shengcai Liao, Dong Yi, Zhen Lei, and Stan Z. Li. "[Multi-label cnn based pedestrian attribute learning for soft biometrics.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139070)" In Biometrics (ICB), 2015 International Conference on, pp. 535-540. IEEE, 2015.
 
