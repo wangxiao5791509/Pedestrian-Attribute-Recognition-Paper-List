@@ -190,6 +190,11 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 
 [60] Esube Bekele and Wallace Lawson [The Deeper, the Better: Analysis of Person Attributes Recognition](https://arxiv.org/pdf/1901.03756.pdf), submitted to FG2019 
 
+[61] Zhiyuan Chen, Annan Li, and Yunhong Wang, [Video-Based Pedestrian Attribute Recognition](https://arxiv.org/pdf/1901.05742.pdf), arXiv paper 
+
+[62] 
+ 
+
 
 
 
