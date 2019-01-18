@@ -27,6 +27,7 @@ If you find more related papers about person attribute recognition, please email
 12. APis dataset: http://www.cbsr.ia.ac.cn/english/APiS-1.0-Database.html.  (Failed)
 13. Berkeley-Attributes of People dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
 14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html 
+15. [Video-Based PAR dataset](https://arxiv.org/pdf/1901.05742.pdf): https://github.com/yuange250/MARS-Attribute 
 
 
 ## Code: 
@@ -190,7 +191,7 @@ Paper: http://cs231n.stanford.edu/reports/2016/pdfs/255_Report.pdf
 
 [60] Esube Bekele and Wallace Lawson [The Deeper, the Better: Analysis of Person Attributes Recognition](https://arxiv.org/pdf/1901.03756.pdf), submitted to FG2019 
 
-[61] Zhiyuan Chen, Annan Li, and Yunhong Wang, [Video-Based Pedestrian Attribute Recognition](https://arxiv.org/pdf/1901.05742.pdf), arXiv paper 
+[61] Zhiyuan Chen, Annan Li, and Yunhong Wang, [Video-Based Pedestrian Attribute Recognition](https://arxiv.org/pdf/1901.05742.pdf), arXiv paper, [dataset](https://github.com/yuange250/MARS-Attribute)
 
 [62] 
  
