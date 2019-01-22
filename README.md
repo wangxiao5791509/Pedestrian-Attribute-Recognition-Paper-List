@@ -1,5 +1,5 @@
 # Pedestrian-Attribute-Recognition-Paper-List
-The paper list of person attribute recognition
+[The paper list of person attribute recognition](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
 
 
 ## Note：
@@ -10,21 +10,21 @@ Or scan this to add my wecheat
 If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn
 
 ## Dataset:
-PETA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
-RAP Dataset: http://rap.idealtest.org/
-PA-100K Dataset: https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M
-WIDER Attribute Dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html
-Database of Human Attributes (HAT): https://jurie.users.greyc.fr/datasets/hat.html
-Market-1501_Attribute: https://github.com/vana77/Market-1501_Attribute
-DukeMTMC-Attribute: https://github.com/vana77/DukeMTMC-attribute
-Clothing Attributes Dataset: https://purl.stanford.edu/tb980qz1002
-Parse27k Dataset: https://www.vision.rwth-aachen.de/page/parse27k
-RAP 2.0 Dataset: https://drive.google.com/file/d/1hoPIB5NJKf3YGMvLFZnIYG5JDcZTxHph/view
-CRP Dataset: http://www.vision.caltech.edu/~dhall/projects/CRP/
-APis dataset: http://www.cbsr.ia.ac.cn/english/APiS-1.0-Database.html. (Failed)
-Berkeley-Attributes of People dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
-Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
-Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute
+1. PETA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
+2. RAP Dataset: http://rap.idealtest.org/
+3. PA-100K Dataset: https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M
+4. WIDER Attribute Dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html
+5. Database of Human Attributes (HAT): https://jurie.users.greyc.fr/datasets/hat.html
+6. Market-1501_Attribute: https://github.com/vana77/Market-1501_Attribute
+7. DukeMTMC-Attribute: https://github.com/vana77/DukeMTMC-attribute
+8. Clothing Attributes Dataset: https://purl.stanford.edu/tb980qz1002
+9. Parse27k Dataset: https://www.vision.rwth-aachen.de/page/parse27k
+10. RAP 2.0 Dataset: https://drive.google.com/file/d/1hoPIB5NJKf3YGMvLFZnIYG5JDcZTxHph/view
+11. CRP Dataset: http://www.vision.caltech.edu/~dhall/projects/CRP/
+12. APis dataset: http://www.cbsr.ia.ac.cn/english/APiS-1.0-Database.html. (Failed)
+13. Berkeley-Attributes of People dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
+14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute
 
 
 ## Code:
@@ -38,7 +38,9 @@ PANDA (CVOR-2014): https://github.com/facebookarchive/pose-aligned-deep-networks
 HydraPlus-Net (ICCV-2017): https://github.com/xh-liu/HydraPlus-Net
 WPAL-network (BMVC-2014) https://github.com/YangZhou1994/WPAL-network
 Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECCV-2018): https://github.com/cvcode18/imbalanced_learning
-The paper list of person attribute recognition:
+
+
+## The paper list of person attribute recognition:
 [1] Deng, Yubin, Ping Luo, Chen Change Loy, and Xiaoou Tang. "Pedestrian attribute recognition at far distance." In Proceedings of the 22nd ACM international conference on Multimedia, pp. 789-792. ACM, 2014. Paper Project Page
 
 [2] Sudowe, Patrick, Hannah Spitzer, and Bastian Leibe. "Person attribute recognition with a jointly-trained holistic cnn model." In Proceedings of the IEEE International Conference on Computer Vision Workshops, pp. 87-95. 2015. Paper
@@ -166,7 +168,9 @@ Project Page
 
 [62]
 
-Applications (Person Attribute based Tasks)
+
+
+## Applications (Person Attribute based Tasks)
 Person Re-ID based on Attributes
 Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "Deep attributes driven multi-camera person re-identification." In European conference on computer vision, pp. 475-491. Springer, Cham, 2016.
 
@@ -187,12 +191,12 @@ Schumann, Arne, and Rainer Stiefelhagen. "Person re-identification by deep learn
 Pedestrian Detection based on Attributes
 Tian, Yonglong, Ping Luo, Xiaogang Wang, and Xiaoou Tang. "Pedestrian detection aided by deep learning semantic tasks." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5079-5087. 2015.
 
-Person Retrieval based on Attributes
+## Person Retrieval based on Attributes
 Wang, Xianwang, Tong Zhang, Daniel R. Tretter, and Qian Lin. "Personal clothing retrieval on photo collections by color and attributes." IEEE Transactions on Multimedia 15, no. 8 (2013): 2035-2045.
 
 Feris, Rogerio, Russel Bobbitt, Lisa Brown, and Sharath Pankanti. "Attribute-based people search: Lessons learnt from a practical surveillance system." In Proceedings of International Conference on Multimedia Retrieval, p. 153. ACM, 2014.
 
-Action Recognition and Scene Understanding
+## Action Recognition and Scene Understanding
 Liu, Jingen, Benjamin Kuipers, and Silvio Savarese. "Recognizing human actions by attributes." In Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on, pp. 3337-3344. IEEE, 2011.
 
 Shao, Jing, Kai Kang, Chen Change Loy, and Xiaogang Wang. "Deeply learned attributes for crowded scene understanding." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4657-4666. 2015.
