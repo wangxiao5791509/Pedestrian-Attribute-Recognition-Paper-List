@@ -31,14 +31,23 @@ If you find more related papers about person attribute recognition, please email
 ## Code:
 A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
 DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Recognition-MarketDuke
+
 DeepMAR from "Multi-attribute learning for pedestrian attribute recognition": https://github.com/kyu-sz/DeepMAR_deploy
+
 Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios, Dangwei Li and Xiaotang Chen and Kaiqi Huang, ACPR 2015: https://github.com/dangweili/pedestrian-attribute-recognition-pytorch
+
 Multi-label Image Recognition by Recurrently Discovering Attentional Regions (Pytorch implementation): https://github.com/James-Yip/AttentionImageClass
+
 A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios: Li, Dangwei and Zhang, Zhang and Chen, Xiaotang and Huang, Kaiqi, IEEE Transactions on Image Processing 2019: https://github.com/dangweili/RAP
+
 PatchIt (BMVC-2016): https://github.com/psudowe/patchit
+
 PANDA (CVOR-2014): https://github.com/facebookarchive/pose-aligned-deep-networks
+
 HydraPlus-Net (ICCV-2017): https://github.com/xh-liu/HydraPlus-Net
+
 WPAL-network (BMVC-2014) https://github.com/YangZhou1994/WPAL-network
+
 Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECCV-2018): https://github.com/cvcode18/imbalanced_learning
 
 
