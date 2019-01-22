@@ -1,11 +1,11 @@
 # Pedestrian-Attribute-Recognition-Paper-List
-[The paper list of person attribute recognition](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
+The paper list of person attribute recognition (https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
 
 
 ## Note：
 Welcome to our wechat group for further discussion, please scan this code
 
-Or scan this to add my wecheat
+Or scan this to add my [wecheat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg)
 
 If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn
 
@@ -28,7 +28,8 @@ If you find more related papers about person attribute recognition, please email
 
 
 ## Code:
-A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Recognition-MarketDuke
+A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
+DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Recognition-MarketDuke
 DeepMAR from "Multi-attribute learning for pedestrian attribute recognition": https://github.com/kyu-sz/DeepMAR_deploy
 Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios, Dangwei Li and Xiaotang Chen and Kaiqi Huang, ACPR 2015: https://github.com/dangweili/pedestrian-attribute-recognition-pytorch
 Multi-label Image Recognition by Recurrently Discovering Attentional Regions (Pytorch implementation): https://github.com/James-Yip/AttentionImageClass
