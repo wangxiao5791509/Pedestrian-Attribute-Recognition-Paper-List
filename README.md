@@ -226,12 +226,20 @@ Schumann, Arne, and Rainer Stiefelhagen. "[Person re-identification by deep lear
 
 
 
+### Pedestrian Detection based on Attributes
+Tian, Yonglong, Ping Luo, Xiaogang Wang, and Xiaoou Tang. "[Pedestrian detection aided by deep learning semantic tasks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Tian_Pedestrian_Detection_Aided_2015_CVPR_paper.pdf)." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5079-5087. 2015.
 
 
 
+### Person Retrieval based on Attributes 
+Wang, Xianwang, Tong Zhang, Daniel R. Tretter, and Qian Lin. "[Personal clothing retrieval on photo collections by color and attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6585791)." IEEE Transactions on Multimedia 15, no. 8 (2013): 2035-2045.
 
+Feris, Rogerio, Russel Bobbitt, Lisa Brown, and Sharath Pankanti. "[Attribute-based people search: Lessons learnt from a practical surveillance system](http://www.rogerioferis.com/publications/FerisICMR2014.pdf)." In Proceedings of International Conference on Multimedia Retrieval, p. 153. ACM, 2014.
 
+### Action Recognition and Scene Understanding
+Liu, Jingen, Benjamin Kuipers, and Silvio Savarese. "[Recognizing human actions by attributes](http://www.cs.ucf.edu/~liujg/papers/cvpr11_liu_a.pdf)." In Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on, pp. 3337-3344. IEEE, 2011. 
 
+Shao, Jing, Kai Kang, Chen Change Loy, and Xiaogang Wang. "[Deeply learned attributes for crowded scene understanding](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shao_Deeply_Learned_Attributes_2015_CVPR_paper.pdf)." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4657-4666. 2015.
 
 
 
