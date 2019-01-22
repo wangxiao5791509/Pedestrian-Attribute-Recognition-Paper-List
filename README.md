@@ -199,7 +199,7 @@ Li, Annan, Luoqi Liu, Kang Wang, Si Liu, and Shuicheng Yan. "Clothing attributes
 
 Schumann, Arne, and Rainer Stiefelhagen. "Person re-identification by deep learning attribute-complementary information." In Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on, pp. 1435-1443. IEEE, 2017.
 
-Pedestrian Detection based on Attributes
+## Pedestrian Detection based on Attributes
 Tian, Yonglong, Ping Luo, Xiaogang Wang, and Xiaoou Tang. "Pedestrian detection aided by deep learning semantic tasks." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5079-5087. 2015.
 
 ## Person Retrieval based on Attributes
