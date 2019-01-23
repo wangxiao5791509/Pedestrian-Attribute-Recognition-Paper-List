@@ -16,7 +16,11 @@ Pedestrian Attribute Recognition: A Survey, Xiao Wang, Shaofei Zheng, Rui Yang, 
 
 Project-page: https://sites.google.com/view/ahu-pedestrianattributes/ 
 
-High Resolution version: https://drive.google.com/open?id=1DbuvkgNm4WltdURxhP2KdF2VSRQr2E4D 
+High Resolution version: 
+
+(Google Drive): https://drive.google.com/open?id=1DbuvkgNm4WltdURxhP2KdF2VSRQr2E4D 
+
+(Baidu Yun): Link：https://pan.baidu.com/s/1PDyFpaWoS4dezUE-onKG8A Code：oe7g  
 
 # If you find this survey useful for your research, please consider to cite this paper: 
 
