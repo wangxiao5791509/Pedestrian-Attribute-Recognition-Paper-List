@@ -22,6 +22,11 @@ High Resolution version:
 
 (Baidu Yun): Link：https://pan.baidu.com/s/1PDyFpaWoS4dezUE-onKG8A Code：oe7g  
 
+
+
+![Structure of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/structure.png)
+
+
 # If you find this survey useful for your research, please consider to cite this paper: 
 
 @article{wang2019PARSurvey,
