@@ -10,6 +10,20 @@ Or scan this to add my [wecheat](https://github.com/wangxiao5791509/Pedestrian-A
 
 If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn
 
+The survey paper of pedestrian attribute recognition can be found from: 
+Pedestrian Attribute Recognition: A Survey, Xiao Wang, Shaofei Zheng, Rui Yang, Bin Luo, Jin Tang, https://arxiv.org/abs/1901.07474 
+Project-page: https://sites.google.com/view/ahu-pedestrianattributes/ 
+High Resolution version: https://drive.google.com/open?id=1DbuvkgNm4WltdURxhP2KdF2VSRQr2E4D 
+
+## If you find this survey useful for your research, please consider to cite this paper: 
+@article{wang2019PARSurvey,
+  title={Pedestrian Attribute Recognition: A Survey},
+  author={Xiao Wang, Shaofei Zheng, Rui Yang, Bin Luo, Jin Tang},
+  journal={arXiv preprint arXiv:1901.07474},
+  year={2019}
+}
+
+
 ## Dataset:
 1. PETA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 2. RAP Dataset: http://rap.idealtest.org/
