@@ -209,7 +209,9 @@ Project Page
 
 [61] Zhiyuan Chen, Annan Li, and Yunhong Wang, Video-Based Pedestrian Attribute Recognition, arXiv paper, dataset
 
-[62] [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf)
+[62] [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf), arXiv paper 2019 
+
+[63] 
 
 
 
