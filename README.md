@@ -25,6 +25,7 @@ High Resolution version:
 
 
 ![Structure of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/structure.png)
+![Papers of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/review-of-par-papers.png)
 
 
 # If you find this survey useful for your research, please consider to cite this paper: 
