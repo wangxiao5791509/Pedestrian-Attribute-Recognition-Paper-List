@@ -269,7 +269,11 @@ Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "Attributes-based re-iden
 
 Li, Annan, Luoqi Liu, Kang Wang, Si Liu, and Shuicheng Yan. "Clothing attributes assisted person reidentification." IEEE Transactions on Circuits and Systems for Video Technology 25, no. 5 (2015): 869-878.
 
-Schumann, Arne, and Rainer Stiefelhagen. "Person re-identification by deep learning attribute-complementary information." In Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on, pp. 1435-1443. IEEE, 2017.
+Schumann, Arne, and Rainer Stiefelhagen. "Person re-identification by deep learning attribute-complementary information." In Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on, pp. 1435-1443. IEEE, 2017. 
+
+[Attributes-aided Part Detection and Refinement for Person Re-identification](https://arxiv.org/pdf/1902.10528.pdf), Shuzhao Li, Huimin Yu, Wei Huang, Jing Zhang, Zhejiang University, arXiv paper-2019 
+
+
 
 ## Pedestrian Detection based on Attributes
 Tian, Yonglong, Ping Luo, Xiaogang Wang, and Xiaoou Tang. "Pedestrian detection aided by deep learning semantic tasks." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5079-5087. 2015.
