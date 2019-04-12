@@ -81,9 +81,9 @@ Zhiyuan Chen, Annan Li, and Yunhong Wang, Video-Based Pedestrian Attribute Recog
 
 [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf), arXiv paper 2019 
 
-Xin Zhao; Liufang Sang; guiguang ding; Jungong Han; Na Di; Chenggang Yan, Recurrent Attention Model for Pedestrian Attribute Recognition, AAAI-2019
+Xin Zhao; Liufang Sang; guiguang ding; Jungong Han; Na Di; Chenggang Yan, [Recurrent Attention Model for Pedestrian Attribute Recognition](https://drive.google.com/open?id=18R4rCmJ4vTK6JQEKtPF4wTNrbuqQWTsT), AAAI-2019
 
-Qiaozhe Li*; Xin Zhao; Ran He; KAIQI HUANG, Visual-semantic Graph Reasoning for Pedestrian Attribute Recognition, AAAI-2019 
+Qiaozhe Li*; Xin Zhao; Ran He; KAIQI HUANG, [Visual-semantic Graph Reasoning for Pedestrian Attribute Recognition](https://drive.google.com/open?id=1acQHYIDxyN8bp1hFljccZrAJr355Gb0_), AAAI-2019 
 
 Li, Dangwei, Zhang Zhang, Xiaotang Chen, and Kaiqi Huang. "A richly annotated pedestrian dataset for person retrieval in real surveillance scenarios." IEEE transactions on image processing 28, no. 4 (2019): 1575-1590. 
 
