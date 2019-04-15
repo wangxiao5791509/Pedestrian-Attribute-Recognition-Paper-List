@@ -98,7 +98,7 @@ Chen, Tianshui, Zhouxia Wang, Guanbin Li, and Liang Lin. "Recurrent Attentional 
 
 Park, Seyoung, Bruce Xiaohan Nie, and Song-Chun Zhu. "Attribute and-or grammar for joint parsing of human pose, parts and attributes." IEEE transactions on pattern analysis and machine intelligence 40, no. 7 (2018): 1555-1569. 
 
-Zhao, Xin, Liufang Sang, Guiguang Ding, Yuchen Guo, and Xiaoming Jin. "Grouping Attribute Recognition for Pedestrian with Joint Recurrent Learning." In IJCAI, pp. 3177-3183. 2018. 
+Zhao, Xin, Liufang Sang, Guiguang Ding, Yuchen Guo, and Xiaoming Jin. "Grouping Attribute Recognition for Pedestrian with Joint Recurrent Learning." In IJCAI, pp. 3177-3183. 2018. Paper：https://www.ijcai.org/proceedings/2018/0441.pdf Code:https://github.com/slf12/GRLModel  
 
 Sarafianos, Nikolaos, Theodoros Giannakopoulos, Christophoros Nikou, and Ioannis A. Kakadiaris. "Curriculum learning of visual attribute clusters for multi-task classification." Pattern Recognition 80 (2018): 94-108. 
 
