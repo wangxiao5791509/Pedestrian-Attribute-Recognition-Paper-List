@@ -75,6 +75,8 @@ Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECC
 ## The paper list of person attribute recognition: 
 
 ### Year-2019
+Liuyu Xiang, Xiaoming Jin, Guiguang Ding, Jungong Han, Leida Li [Incremental Few-Shot Learning for Pedestrian Attribute Recognition](https://arxiv.org/pdf/1906.00330.pdf), IJCAI-2019. 
+
 Esube Bekele and Wallace Lawson The Deeper, the Better: Analysis of Person Attributes Recognition, submitted to FG2019
 
 Zhiyuan Chen, Annan Li, and Yunhong Wang, Video-Based Pedestrian Attribute Recognition, arXiv paper, 2019
