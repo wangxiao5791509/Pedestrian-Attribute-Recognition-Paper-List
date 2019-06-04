@@ -76,6 +76,8 @@ Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECC
 
 ### Year-2019
 
+Zichang Tan, Yang Yang, Jun Wan, Yingyi Chen, Guodong Guo, Stan Z. Li. Attention based Pedestrian Attribute Analysis. IEEE TIP, 2019.
+
 Qiaozhe Li, Xin Zhao, Ran He, Kaiqi Huang, Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation, IJCAI-2019
 
 Kai Han, Yunhe Wang, Han Shu, Chuanjian Liu, Chunjing Xu, Chang Xu, Attribute Aware Pooling for Pedestrian Attribute Recognition, IJCAI-2019 
