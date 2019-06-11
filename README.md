@@ -8,7 +8,7 @@ Welcome to our wechat group for further discussion, please scan this [code](http
 
 Or scan this to add my [wecheat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg)
 
-If you find more related papers about person attribute recognition, please email me: e16101002@stu.ahu.edu.cn
+If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
 
 The survey paper of pedestrian attribute recognition can be found from: 
 
@@ -75,6 +75,8 @@ Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECC
 ## The paper list of person attribute recognition: 
 
 ### Year-2019
+
+Ji, Zhong, Erlu He, Haoran Wang, and Aiping Yang. "[Image-attribute reciprocally guided attention network for pedestrian attribute recognition](https://www.sciencedirect.com/science/article/pii/S016786551830727X)" Pattern Recognition Letters 120 (2019): 89-95.
 
 Zichang Tan, Yang Yang, Jun Wan, Yingyi Chen, Guodong Guo, Stan Z. Li. Attention based Pedestrian Attribute Analysis. IEEE TIP, 2019.
 
