@@ -82,7 +82,7 @@ Zichang Tan, Yang Yang, Jun Wan, Yingyi Chen, Guodong Guo, Stan Z. Li. [Attentio
 
 Qiaozhe Li, Xin Zhao, Ran He, Kaiqi Huang, Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation, IJCAI-2019
 
-Kai Han, Yunhe Wang, Han Shu, Chuanjian Liu, Chunjing Xu, Chang Xu, Attribute Aware Pooling for Pedestrian Attribute Recognition, IJCAI-2019 
+Kai Han, Yunhe Wang, Han Shu, Chuanjian Liu, Chunjing Xu, Chang Xu, [Attribute Aware Pooling for Pedestrian Attribute Recognition](https://drive.google.com/open?id=1qon05hq165YLy2TWr445nKt9qezrMEBa), IJCAI-2019 
 
 Liuyu Xiang, Xiaoming Jin, Guiguang Ding, Jungong Han, Leida Li [Incremental Few-Shot Learning for Pedestrian Attribute Recognition](https://arxiv.org/pdf/1906.00330.pdf), IJCAI-2019. 
 
@@ -264,6 +264,8 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 
 ## Applications (Person Attribute based Tasks)
 Person Re-ID based on Attributes
+Han, Kai, Jianyuan Guo, Chao Zhang, and Mingjian Zhu. "[Attribute-aware attention model for fine-grained representation learning](https://dl.acm.org/citation.cfm?id=3240550)" In 2018 ACM Multimedia Conference on Multimedia Conference, pp. 2040-2048. ACM, 2018. 
+
 Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "Deep attributes driven multi-camera person re-identification." In European conference on computer vision, pp. 475-491. Springer, Cham, 2016.
 
 Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "Towards person identification and re-identification with attributes." In European Conference on Computer Vision, pp. 402-412. Springer, Berlin, Heidelberg, 2012.
