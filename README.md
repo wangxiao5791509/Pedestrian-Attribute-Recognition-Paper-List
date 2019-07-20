@@ -282,7 +282,9 @@ Li, Annan, Luoqi Liu, Kang Wang, Si Liu, and Shuicheng Yan. "Clothing attributes
 
 Schumann, Arne, and Rainer Stiefelhagen. "Person re-identification by deep learning attribute-complementary information." In Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on, pp. 1435-1443. IEEE, 2017. 
 
-[Attributes-aided Part Detection and Refinement for Person Re-identification](https://arxiv.org/pdf/1902.10528.pdf), Shuzhao Li, Huimin Yu, Wei Huang, Jing Zhang, Zhejiang University, arXiv paper-2019 
+Shuzhao Li, Huimin Yu, Wei Huang, Jing Zhang, [Attributes-aided Part Detection and Refinement for Person Re-identification](https://arxiv.org/pdf/1902.10528.pdf), Zhejiang University, arXiv paper-2019 
+
+Ling, Hefei, Ziyang Wang, Ping Li, Yuxuan Shi, Jiazhong Chen, and Fuhao Zou. "[Improving person re-identification by multi-task learning](https://reader.elsevier.com/reader/sd/pii/S0925231219300396?token=AA140DBCBF5089012B0D0E5A6366D024B996E47F657914AD7D1A93DF3DCFD2C270872BBB2D534FEEC39AF612CE47FC0C)." Neurocomputing 347 (2019): 109-118.
 
 
 
