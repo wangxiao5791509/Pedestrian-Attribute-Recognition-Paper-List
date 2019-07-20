@@ -263,7 +263,7 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 
 
 ## Applications (Person Attribute based Tasks)
-Person Re-ID based on Attributes
+## Person Re-ID based on Attributes
 Han, Kai, Jianyuan Guo, Chao Zhang, and Mingjian Zhu. "[Attribute-aware attention model for fine-grained representation learning](https://dl.acm.org/citation.cfm?id=3240550)" In 2018 ACM Multimedia Conference on Multimedia Conference, pp. 2040-2048. ACM, 2018. 
 
 Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "Deep attributes driven multi-camera person re-identification." In European conference on computer vision, pp. 475-491. Springer, Cham, 2016.
