@@ -21,7 +21,7 @@ High Resolution version: https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X
 
 ![Structure of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/structure.png)
 ![Papers of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/review-of-par-papers.png)
-
+![Overview_Benchmark](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/overview-benchmark.png)
 
 # If you find this survey useful for your research, please consider to cite this paper: 
 @article{wang2019PARSurvey, title={Pedestrian Attribute Recognition: A Survey},
