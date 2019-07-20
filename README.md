@@ -266,21 +266,21 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 ## Person Re-ID based on Attributes
 Han, Kai, Jianyuan Guo, Chao Zhang, and Mingjian Zhu. "[Attribute-aware attention model for fine-grained representation learning](https://dl.acm.org/citation.cfm?id=3240550)" In 2018 ACM Multimedia Conference on Multimedia Conference, pp. 2040-2048. ACM, 2018. 
 
-Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "Deep attributes driven multi-camera person re-identification." In European conference on computer vision, pp. 475-491. Springer, Cham, 2016.
+Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "[Deep attributes driven multi-camera person re-identification](https://arxiv.org/pdf/1605.03259)." In European conference on computer vision, pp. 475-491. Springer, Cham, 2016.
 
-Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "Towards person identification and re-identification with attributes." In European Conference on Computer Vision, pp. 402-412. Springer, Berlin, Heidelberg, 2012.
+Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "[Towards person identification and re-identification with attributes](https://www.researchgate.net/profile/Timothy_Hospedales/publication/262167008_Towards_Person_Identification_and_Re-identification_with_Attributes/links/55c1df5708aeb5e0c58415e6.pdf)." In European Conference on Computer Vision, pp. 402-412. Springer, Berlin, Heidelberg, 2012.
 
-Layne, Ryan, Timothy M. Hospedales, Shaogang Gong, and Q. Mary. "Person re-identification by attributes." In Bmvc, vol. 2, no. 3, p. 8. 2012.
+Layne, Ryan, Timothy M. Hospedales, Shaogang Gong, and Q. Mary. "[Person re-identification by attributes](https://www.researchgate.net/profile/Timothy_Hospedales/publication/235624133_Person_Re-identification_by_Attributes/links/02bfe511f930e214d6000000/Person-Re-identification-by-Attributes.pdf)." In Bmvc, vol. 2, no. 3, p. 8. 2012.
 
 Lin, Yutian, Liang Zheng, Zhedong Zheng, Yu Wu, Zhilan Hu, Chenggang Yan, and Yi Yang. "[Improving person re-identification by attribute and identity learning](https://www.sciencedirect.com/science/article/pii/S0031320319302377)." Pattern Recognition (2019).
 
-Khamis, Sameh, Cheng-Hao Kuo, Vivek K. Singh, Vinay D. Shet, and Larry S. Davis. "Joint learning for attribute-consistent person re-identification." In European Conference on Computer Vision, pp. 134-146. Springer, Cham, 2014.
+Khamis, Sameh, Cheng-Hao Kuo, Vivek K. Singh, Vinay D. Shet, and Larry S. Davis. "[Joint learning for attribute-consistent person re-identification](http://www.samehkhamis.com/khamis-eccvw2014.pdf)." In European Conference on Computer Vision, pp. 134-146. Springer, Cham, 2014.
 
-Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "Attributes-based re-identification." In Person Re-Identification, pp. 93-117. Springer, London, 2014.
+Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "[Attributes-based re-identification](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.638.3544&rep=rep1&type=pdf)." In Person Re-Identification, pp. 93-117. Springer, London, 2014.
 
-Li, Annan, Luoqi Liu, Kang Wang, Si Liu, and Shuicheng Yan. "Clothing attributes assisted person reidentification." IEEE Transactions on Circuits and Systems for Video Technology 25, no. 5 (2015): 869-878.
+Li, Annan, Luoqi Liu, Kang Wang, Si Liu, and Shuicheng Yan. "[Clothing attributes assisted person reidentification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6887366)." IEEE Transactions on Circuits and Systems for Video Technology 25, no. 5 (2015): 869-878.
 
-Schumann, Arne, and Rainer Stiefelhagen. "Person re-identification by deep learning attribute-complementary information." In Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on, pp. 1435-1443. IEEE, 2017. 
+Schumann, Arne, and Rainer Stiefelhagen. "[Person re-identification by deep learning attribute-complementary information](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w17/papers/Schumann_Person_Re-Identification_by_CVPR_2017_paper.pdf)." In Computer Vision and Pattern Recognition Workshops (CVPRW), 2017 IEEE Conference on, pp. 1435-1443. IEEE, 2017. 
 
 Shuzhao Li, Huimin Yu, Wei Huang, Jing Zhang, [Attributes-aided Part Detection and Refinement for Person Re-identification](https://arxiv.org/pdf/1902.10528.pdf), Zhejiang University, arXiv paper-2019 
 
