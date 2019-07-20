@@ -272,7 +272,7 @@ Layne, Ryan, Timothy M. Hospedales, and Shaogang Gong. "Towards person identific
 
 Layne, Ryan, Timothy M. Hospedales, Shaogang Gong, and Q. Mary. "Person re-identification by attributes." In Bmvc, vol. 2, no. 3, p. 8. 2012.
 
-Lin, Yutian, Liang Zheng, Zhedong Zheng, Yu Wu, and Yi Yang. "Improving person re-identification by attribute and identity learning." arXiv preprint arXiv:1703.07220 (2017).
+Lin, Yutian, Liang Zheng, Zhedong Zheng, Yu Wu, Zhilan Hu, Chenggang Yan, and Yi Yang. "[Improving person re-identification by attribute and identity learning](https://www.sciencedirect.com/science/article/pii/S0031320319302377)." Pattern Recognition (2019).
 
 Khamis, Sameh, Cheng-Hao Kuo, Vivek K. Singh, Vinay D. Shet, and Larry S. Davis. "Joint learning for attribute-consistent person re-identification." In European Conference on Computer Vision, pp. 134-146. Springer, Cham, 2014.
 
