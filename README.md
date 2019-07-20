@@ -289,12 +289,12 @@ Ling, Hefei, Ziyang Wang, Ping Li, Yuxuan Shi, Jiazhong Chen, and Fuhao Zou. "[I
 
 
 ## Pedestrian Detection based on Attributes
-Tian, Yonglong, Ping Luo, Xiaogang Wang, and Xiaoou Tang. "Pedestrian detection aided by deep learning semantic tasks." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5079-5087. 2015.
+Tian, Yonglong, Ping Luo, Xiaogang Wang, and Xiaoou Tang. "[Pedestrian detection aided by deep learning semantic tasks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Tian_Pedestrian_Detection_Aided_2015_CVPR_paper.pdf)." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5079-5087. 2015.
 
 ## Person Retrieval based on Attributes
-Wang, Xianwang, Tong Zhang, Daniel R. Tretter, and Qian Lin. "Personal clothing retrieval on photo collections by color and attributes." IEEE Transactions on Multimedia 15, no. 8 (2013): 2035-2045.
+Wang, Xianwang, Tong Zhang, Daniel R. Tretter, and Qian Lin. "[Personal clothing retrieval on photo collections by color and attributes](https://ieeexplore.ieee.org/abstract/document/6585791)." IEEE Transactions on Multimedia 15, no. 8 (2013): 2035-2045.
 
-Feris, Rogerio, Russel Bobbitt, Lisa Brown, and Sharath Pankanti. "Attribute-based people search: Lessons learnt from a practical surveillance system." In Proceedings of International Conference on Multimedia Retrieval, p. 153. ACM, 2014.
+Feris, Rogerio, Russel Bobbitt, Lisa Brown, and Sharath Pankanti. "[Attribute-based people search: Lessons learnt from a practical surveillance system](https://dl.acm.org/citation.cfm?id=2578732)." In Proceedings of International Conference on Multimedia Retrieval, p. 153. ACM, 2014.
 
 ## Action Recognition and Scene Understanding
 Liu, Jingen, Benjamin Kuipers, and Silvio Savarese. "Recognizing human actions by attributes." In Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on, pp. 3337-3344. IEEE, 2011.
