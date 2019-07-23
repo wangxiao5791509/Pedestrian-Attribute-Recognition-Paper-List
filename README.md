@@ -284,7 +284,9 @@ Schumann, Arne, and Rainer Stiefelhagen. "[Person re-identification by deep lear
 
 Shuzhao Li, Huimin Yu, Wei Huang, Jing Zhang, [Attributes-aided Part Detection and Refinement for Person Re-identification](https://arxiv.org/pdf/1902.10528.pdf), Zhejiang University, arXiv paper-2019 
 
-Ling, Hefei, Ziyang Wang, Ping Li, Yuxuan Shi, Jiazhong Chen, and Fuhao Zou. "[Improving person re-identification by multi-task learning](https://reader.elsevier.com/reader/sd/pii/S0925231219300396?token=AA140DBCBF5089012B0D0E5A6366D024B996E47F657914AD7D1A93DF3DCFD2C270872BBB2D534FEEC39AF612CE47FC0C)." Neurocomputing 347 (2019): 109-118.
+Ling, Hefei, Ziyang Wang, Ping Li, Yuxuan Shi, Jiazhong Chen, and Fuhao Zou. "[Improving person re-identification by multi-task learning](https://reader.elsevier.com/reader/sd/pii/S0925231219300396?token=AA140DBCBF5089012B0D0E5A6366D024B996E47F657914AD7D1A93DF3DCFD2C270872BBB2D534FEEC39AF612CE47FC0C)." Neurocomputing 347 (2019): 109-118. 
+
+Su, Chi, Shiliang Zhang, Fan Yang, Guangxiao Zhang, Qi Tian, Wen Gao, and Larry S. Davis. "[Attributes driven tracklet-to-tracklet person re-identification using latent prototypes space mapping](https://www.sciencedirect.com/science/article/pii/S0031320317300067)." Pattern Recognition 66 (2017): 4-15.
 
 
 
