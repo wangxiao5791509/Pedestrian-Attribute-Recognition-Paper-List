@@ -90,7 +90,7 @@ Esube Bekele and Wallace Lawson [The Deeper, the Better: Analysis of Person Attr
 
 Zhiyuan Chen, Annan Li, and Yunhong Wang, Video-Based Pedestrian Attribute Recognition, arXiv paper, 2019
 
-[Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf), arXiv paper 2019 
+Wang, Yiru, Weihao Gan, Wei Wu, and Junjie Yan. [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf), ICCV 2019. 
 
 Xin Zhao; Liufang Sang; guiguang ding; Jungong Han; Na Di; Chenggang Yan, [Recurrent Attention Model for Pedestrian Attribute Recognition](https://drive.google.com/open?id=18R4rCmJ4vTK6JQEKtPF4wTNrbuqQWTsT), AAAI-2019
 
