@@ -46,7 +46,13 @@ year={2019}
 12. APis dataset: http://www.cbsr.ia.ac.cn/english/APiS-1.0-Database.html. (Failed)
 13. Berkeley-Attributes of People dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
 14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
-15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute
+15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute 
+
+## Related Survey Papers: 
+1. Facial Attribute Recognition: Zheng, Xin, Yanqing Guo, Huaibo Huang, Yi Li, and Ran He. "A Survey to Deep Facial Attribute Analysis." arXiv preprint arXiv:1812.10265 (2018). [Paper](https://arxiv.org/abs/1812.10265) 
+
+2. Human Parsing: Huang, Lili, Jiefeng Peng, Ruimao Zhang, Guanbin Li, and Liang Lin. "Learning deep representations for semantic image parsing: a comprehensive overview." Frontiers of Computer Science 12, no. 5 (2018): 840-857. [Paper](https://arxiv.org/abs/1810.04377) 
+
 
 
 ## Code:
