@@ -77,6 +77,8 @@ WPAL-network (BMVC-2014) https://github.com/YangZhou1994/WPAL-network
 
 Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECCV-2018): https://github.com/cvcode18/imbalanced_learning
 
+Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference in an end-to-end model." arXiv preprint arXiv:1707.06089 (2017). https://github.com/asc-kit/vespa 
+
 
 ## The paper list of person attribute recognition: 
 
@@ -165,7 +167,7 @@ Sarafianos, Nikolaos, Theodore Giannakopoulos, Christophoros Nikou, and Ioannis 
 
 He, Keke, Zhanxiong Wang, Yanwei Fu, Rui Feng, Yu-Gang Jiang, and Xiangyang Xue. "Adaptively Weighted Multi-task Deep Network for Person Attribute Classification." In Proceedings of the 2017 ACM on Multimedia Conference, pp. 1636-1644. ACM, 2017. https://dl.acm.org/citation.cfm?id=3123424
 
-Sarfraz, M. Saquib, Arne Schumann, Yan Wang, and Rainer Stiefelhagen. "Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model." arXiv preprint arXiv:1707.06089 (2017). https://arxiv.org/pdf/1707.06089.pdf
+Sarfraz, M. Saquib, Arne Schumann, Yan Wang, and Rainer Stiefelhagen. "Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model." arXiv preprint arXiv:1707.06089 (2017). [[Paper]](https://arxiv.org/pdf/1707.06089.pdf), [[Code]](https://github.com/asc-kit/vespa)
 
 Liu, Xihui, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, and Xiaogang Wang. "HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis." In Proceedings of the IEEE International Conference on Computer Vision, pp. 350-359. 2017. Paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_HydraPlus-Net_Attentive_Deep_ICCV_2017_paper.pdf Code: https://github.com/xh-liu/HydraPlus-Net
 
