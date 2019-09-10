@@ -88,7 +88,7 @@ Ji, Zhong, Erlu He, Haoran Wang, and Aiping Yang. "[Image-attribute reciprocally
 
 Zichang Tan, Yang Yang, Jun Wan, Yingyi Chen, Guodong Guo, Stan Z. Li. [Attention based Pedestrian Attribute Analysis](https://ieeexplore.ieee.org/document/8755326). IEEE TIP, 2019.
 
-Qiaozhe Li, Xin Zhao, Ran He, Kaiqi Huang, Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation, IJCAI-2019
+Qiaozhe Li, Xin Zhao, Ran He, Kaiqi Huang, [Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation](https://www.ijcai.org/proceedings/2019/0117.pdf), IJCAI-2019. 
 
 Kai Han, Yunhe Wang, Han Shu, Chuanjian Liu, Chunjing Xu, Chang Xu, [Attribute Aware Pooling for Pedestrian Attribute Recognition](https://drive.google.com/open?id=1qon05hq165YLy2TWr445nKt9qezrMEBa), IJCAI-2019 
 
