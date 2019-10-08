@@ -112,6 +112,8 @@ Li, Dangwei, Zhang Zhang, Xiaotang Chen, and Kaiqi Huang. "[A richly annotated p
 
 
 ### Year-2018 
+Wang, Wenguan, et al. "Attentive fashion grammar network for fashion landmark detection and clothing category classification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf)
+
 Li, Dangwei, Xiaotang Chen, Zhang Zhang, and Kaiqi Huang. "Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios." In 2018 IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6. IEEE, 2018. Paper: http://dangweili.github.io/misc/pdfs/icme18.pdf
 
 Chen, Tianshui, Zhouxia Wang, Guanbin Li, and Liang Lin. "Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition." AAAI2018 Paper: http://www.linliang.net/wp-content/uploads/2018/01/AAAI2018_AttentionRL.pdf
