@@ -83,6 +83,10 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2019
+
+Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu, Di Huang, Yuanfang Guo Yunhong Wang [[Paper]](https://arxiv.org/pdf/1911.11351.pdf) 
+
+
 Improving Pedestrian Attribute Recognition With Weakly-Supervised Multi-Scale Attribute-Specific Localization	Chufeng Tang, Lu Sheng, Zhaoxiang Zhang, Xiaolin Hu, ICCV-2019, [[Paper]](https://arxiv.org/pdf/1910.04562.pdf)
 
 Ji, Zhong, Erlu He, Haoran Wang, and Aiping Yang. "[Image-attribute reciprocally guided attention network for pedestrian attribute recognition](https://www.sciencedirect.com/science/article/pii/S016786551830727X)" Pattern Recognition Letters 120 (2019): 89-95.
