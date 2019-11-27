@@ -84,7 +84,7 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2019
 
-Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu, Di Huang, Yuanfang Guo Yunhong Wang [[Paper]](https://arxiv.org/pdf/1911.11351.pdf) 
+Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu, Di Huang, Yuanfang Guo Yunhong Wang [[Paper]](https://arxiv.org/pdf/1911.11351.pdf) , AAAI-2020 oral presentation. 
 
 
 Improving Pedestrian Attribute Recognition With Weakly-Supervised Multi-Scale Attribute-Specific Localization	Chufeng Tang, Lu Sheng, Zhaoxiang Zhang, Xiaolin Hu, ICCV-2019, [[Paper]](https://arxiv.org/pdf/1910.04562.pdf)
