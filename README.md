@@ -82,6 +82,13 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ## The paper list of person attribute recognition: 
 
+### Year-2020 
+Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism Mingda Wu (Beihang University)*; Di Huang (Beihang University, China); Yuanfang Guo (Beihang University); Yunhong Wang (State Key Laboratory of Virtual Reality Technology and System, Beihang University, Beijing 100191, China), AAAI-2020 
+
+Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks Zichang Tan (NLPR); Yang Yang (Institute of Automation, Chinese Academy of Sciences); Jun Wan (NLPR, CASIA)*; Guodong Guo (West Virginia University); Stan Li (National Lab. of Pattern Recognition, China), AAAI-2020 
+
+
+
 ### Year-2019
 
 Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu, Di Huang, Yuanfang Guo Yunhong Wang [[Paper]](https://arxiv.org/pdf/1911.11351.pdf) , AAAI-2020 oral presentation. 
