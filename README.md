@@ -83,9 +83,11 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2020 
-Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism Mingda Wu (Beihang University)*; Di Huang (Beihang University, China); Yuanfang Guo (Beihang University); Yunhong Wang (State Key Laboratory of Virtual Reality Technology and System, Beihang University, Beijing 100191, China), AAAI-2020 
+Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu (Beihang University)*; Di Huang (Beihang University, China); Yuanfang Guo (Beihang University); Yunhong Wang (State Key Laboratory of Virtual Reality Technology and System, Beihang University, Beijing 100191, China), AAAI-2020 [[Paper](https://arxiv.org/pdf/1911.11351)]
 
-Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks Zichang Tan (NLPR); Yang Yang (Institute of Automation, Chinese Academy of Sciences); Jun Wan (NLPR, CASIA)*; Guodong Guo (West Virginia University); Stan Li (National Lab. of Pattern Recognition, China), AAAI-2020 
+Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks, Zichang Tan (NLPR); Yang Yang (Institute of Automation, Chinese Academy of Sciences); Jun Wan (NLPR, CASIA)*; Guodong Guo (West Virginia University); Stan Li (National Lab. of Pattern Recognition, China), AAAI-2020, [[Paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-TanZ.3176.pdf)]
+
+An Attention-Based Deep Learning Model for Multiple Pedestrian Attributes Recognition, Ehsan Yaghoubi, Diana Borza, Jo˜ao Neves, Aruna Kumar, Hugo Proen¸ca, [[arXiv-Paper](https://arxiv.org/pdf/2004.01110.pdf)] [[Code](https://github.com/Ehsan-Yaghoubi/MAN-PAR-)]
 
 
 
