@@ -56,6 +56,8 @@ year={2019}
 
 
 ## Code:
+A solid and strong baseline of pedestrian attribute recognition: https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
+
 A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
 DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Recognition-MarketDuke
 
