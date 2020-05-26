@@ -85,6 +85,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2020 
+Rethinking of Pedestrian Attribute Recognition: Realistic Datasets and A Strong Baseline, Jian Jia, Houjing Huang, Wenjie Yang, Xiaotang Chen, and Kaiqi Huang [[arXiv](https://arxiv.org/pdf/2005.11909.pdf)] 
+
 Multi-Task Learning via Co-Attentive Sharing for Pedestrian Attribute Recognition, Haitian Zeng, Haizhou Ai, Zijie Zhuang, Long Chen, [[ICME 2020](https://arxiv.org/pdf/2004.03164.pdf)]
 
 Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu (Beihang University)*; Di Huang (Beihang University, China); Yuanfang Guo (Beihang University); Yunhong Wang (State Key Laboratory of Virtual Reality Technology and System, Beihang University, Beijing 100191, China), AAAI-2020 [[Paper](https://arxiv.org/pdf/1911.11351)]
