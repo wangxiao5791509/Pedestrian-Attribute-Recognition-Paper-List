@@ -87,7 +87,7 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ### Year-2020 
 Hierarchical Feature Embedding for Attribute Recognition, Jie Yang, Jiarou Fan, Yiru Wang, Yige Wang, Weihao Gan, Lin Liu, Wei Wu [[CVPR2020](https://arxiv.org/pdf/2005.11576.pdf)] 
 
-Rethinking of Pedestrian Attribute Recognition: Realistic Datasets and A Strong Baseline, Jian Jia, Houjing Huang, Wenjie Yang, Xiaotang Chen, and Kaiqi Huang [[arXiv](https://arxiv.org/pdf/2005.11909.pdf)] 
+Rethinking of Pedestrian Attribute Recognition: Realistic Datasets and A Strong Baseline, Jian Jia, Houjing Huang, Wenjie Yang, Xiaotang Chen, and Kaiqi Huang [[arXiv](https://arxiv.org/pdf/2005.11909.pdf)] [[Code](https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition)] 
 
 Multi-Task Learning via Co-Attentive Sharing for Pedestrian Attribute Recognition, Haitian Zeng, Haizhou Ai, Zijie Zhuang, Long Chen, [[ICME 2020](https://arxiv.org/pdf/2004.03164.pdf)]
 
