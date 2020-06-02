@@ -25,11 +25,11 @@ High Resolution version: https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X
 
 # If you find this survey useful for your research, please consider to cite this paper: 
 ~~~
-@article{wang2019PARSurvey, 
-title={Pedestrian Attribute Recognition: A Survey},
-author={Xiao Wang, Shaofei Zheng, Rui Yang, Bin Luo, Jin Tang},
-journal={arXiv preprint arXiv:1901.07474},
-year={2019}
+@article{wang2019parsurvey,
+  title={Pedestrian attribute recognition: A survey},
+  author={Wang, Xiao and Zheng, Shaofei and Yang, Rui and Luo, Bin and Tang, Jin},
+  journal={arXiv preprint arXiv:1901.07474},
+  year={2019}
 }
 ~~~
 
