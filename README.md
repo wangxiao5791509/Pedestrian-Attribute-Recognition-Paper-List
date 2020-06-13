@@ -6,18 +6,19 @@ The paper list of person attribute recognition
 ## Note：
 Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png)
 
-Or scan this to add my [wecheat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg)
+Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg)
+[Note: Name + School/Company] 
 
 If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
 
 The survey paper of pedestrian attribute recognition can be found from: 
-
+~~~
 Pedestrian Attribute Recognition: A Survey, Xiao Wang, Shaofei Zheng, Rui Yang, Bin Luo, Jin Tang, https://arxiv.org/abs/1901.07474 
 
 Project-page: https://sites.google.com/view/ahu-pedestrianattributes/ 
 
 High Resolution version: https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O 
-
+~~~
 
 ![Structure of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/structure.png)
 ![Papers of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/review-of-par-papers.png)
