@@ -52,6 +52,8 @@ If you find more related papers about person attribute recognition, please email
 
 3. Awesome Imbalanced Learning [[GitHub](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning#surveys)] 
 
+4. Person Search Paper List [[Github]](https://github.com/wangxiao5791509/Person-Search-Paper-List)
+
 
 
 
