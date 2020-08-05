@@ -46,7 +46,7 @@ If you find more related papers about person attribute recognition, please email
 15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute 
 
 ## Related Survey Papers and Tutorial: 
-1. Facial Attribute Recognition: Zheng, Xin, Yanqing Guo, Huaibo Huang, Yi Li, and Ran He. "A Survey to Deep Facial Attribute Analysis." arXiv preprint arXiv:1812.10265 (2018). [Paper](https://arxiv.org/abs/1812.10265) 
+1. Zheng, X., Guo, Y., Huang, H., Li, Y., & He, R. (2020). A Survey of Deep Facial Attribute Analysis. International Journal of Computer Vision, 1-33. [Paper](https://arxiv.org/abs/1812.10265) 
 
 2. Human Parsing: Huang, Lili, Jiefeng Peng, Ruimao Zhang, Guanbin Li, and Liang Lin. "Learning deep representations for semantic image parsing: a comprehensive overview." Frontiers of Computer Science 12, no. 5 (2018): 840-857. [Paper](https://arxiv.org/abs/1810.04377) 
 
