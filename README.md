@@ -55,11 +55,7 @@ If you find more related papers about person attribute recognition, please email
 4. Person Search Paper List [[Github]](https://github.com/wangxiao5791509/Person-Search-Paper-List)
 
 
-
-
-
-## Code:
-### :star2:
+## :star2 Recommeded Code :star2
 A solid and strong baseline of pedestrian attribute recognition: https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
 
 A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
