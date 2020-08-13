@@ -54,6 +54,8 @@ If you find more related papers about person attribute recognition, please email
 
 4. Person Search Paper List [[Github]](https://github.com/wangxiao5791509/Person-Search-Paper-List)
 
+5. Human Attribute Recognition: A Comprehensive Survey, Yaghoubi, E., Khezeli, F., Borza, D., Kumar, S. A., Neves, J., & Proença, H. (2020). [[Paper](file:///home/wangxiao/Downloads/preprints202007.0055.v1.pdf)]
+
 
 ## Recommeded Code:
 A solid and strong baseline of pedestrian attribute recognition: https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
