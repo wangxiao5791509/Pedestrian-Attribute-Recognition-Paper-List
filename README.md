@@ -111,6 +111,8 @@ An Attention-Based Deep Learning Model for Multiple Pedestrian Attributes Recogn
 
 ### Year-2019
 
+Zhang, S., Song, Z., Cao, X., Zhang, H., & Zhou, J. (2019). Task-aware attention model for clothing attribute prediction. IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 30(4), 1051-1064. [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8654674/)]
+
 GSR-MAR: Global Super-Resolution for Person Multi-Attribute Recognition. Siadari, Thomhert Suprapto, Mikyong Han, and Hyunjin Yoon. 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW). IEEE, 2019.[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Siadari_GSR-MAR_Global_Super-Resolution_for_Person_Multi-Attribute_Recognition_ICCVW_2019_paper.pdf)]
 
 Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu, Di Huang, Yuanfang Guo Yunhong Wang [[Paper]](https://arxiv.org/pdf/1911.11351.pdf) , AAAI-2020 oral presentation. 
