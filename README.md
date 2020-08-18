@@ -87,6 +87,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2020 
+Gu, Z., Zhang, J., Pan, Z., Zhao, H., & Zhang, L. (2019, July). Clothes keypoints localization and attribute recognition via prior knowledge. In 2019 IEEE International Conference on Multimedia and Expo (ICME) (pp. 550-555). IEEE.[[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8785043/)]
+
 Ji, Z., Hu, Z., He, E., Han, J., & Pang, Y. (2020). Pedestrian Attribute Recognition Based on Multiple Time Steps Attention. Pattern Recognition Letters. [[PRL](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S0167865520302646)]
 
 Texture and Shape Biased Two-Stream Networks for Clothing Classification and Attribute Recognition, Yuwei Zhang, Peng Zhang, Chun Yuan, Zhi Wang [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Texture_and_Shape_Biased_Two-Stream_Networks_for_Clothing_Classification_and_CVPR_2020_paper.html)]
