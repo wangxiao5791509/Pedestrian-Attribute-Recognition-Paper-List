@@ -87,6 +87,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2020 
+
+
 Gu, Z., Zhang, J., Pan, Z., Zhao, H., & Zhang, L. (2019, July). Clothes keypoints localization and attribute recognition via prior knowledge. In 2019 IEEE International Conference on Multimedia and Expo (ICME) (pp. 550-555). IEEE.[[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8785043/)]
 
 Ji, Z., Hu, Z., He, E., Han, J., & Pang, Y. (2020). Pedestrian Attribute Recognition Based on Multiple Time Steps Attention. Pattern Recognition Letters. [[PRL](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S0167865520302646)]
@@ -108,6 +110,8 @@ An Attention-Based Deep Learning Model for Multiple Pedestrian Attributes Recogn
 
 
 ### Year-2019
+
+GSR-MAR: Global Super-Resolution for Person Multi-Attribute Recognition. Siadari, Thomhert Suprapto, Mikyong Han, and Hyunjin Yoon. 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW). IEEE, 2019.[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Siadari_GSR-MAR_Global_Super-Resolution_for_Person_Multi-Attribute_Recognition_ICCVW_2019_paper.pdf)]
 
 Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu, Di Huang, Yuanfang Guo Yunhong Wang [[Paper]](https://arxiv.org/pdf/1911.11351.pdf) , AAAI-2020 oral presentation. 
 
