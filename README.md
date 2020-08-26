@@ -3,6 +3,9 @@ The paper list of person attribute recognition
 ![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
 
 
+![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PETA_rap_results.jpg) 
+Performance comparison on the PETA and RAP dataset from 2014 to 2020. Interestingly, we also find that the accuracy of current deep learning based methods are comparable, and there are no significant improvement of current methods (in 2020) compared with deep PAR algorithms proposed in several years ago. 
+
 ## Note：
 Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png)
 
