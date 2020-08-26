@@ -4,7 +4,7 @@ The paper list of person attribute recognition
 
 
 ![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PETA_rap_results.jpg) 
-Performance comparison on the PETA and RAP dataset from 2014 to 2020. Interestingly, we also find that the accuracy of current deep learning based methods are comparable, and there are no significant improvement of current methods (in 2020) compared with deep PAR algorithms proposed in several years ago. 
+Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can find that the baseline method CNN-SVM is outperformed by recent deep learning based PAR approaches significantly on both large scale benchmark datasets.  Interestingly, we can also find that the accuracy of current deep learning based methods are comparable, and there are no significant improvement of current methods (in 2020) compared with deep PAR algorithms proposed in several years ago. So, what's next if the deep learning based PAR algorithms achieve its bottleneck? 
 
 ## Note：
 Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png)
