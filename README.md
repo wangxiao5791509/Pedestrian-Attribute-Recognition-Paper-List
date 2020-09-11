@@ -135,7 +135,7 @@ Liuyu Xiang, Xiaoming Jin, Guiguang Ding, Jungong Han, Leida Li [Incremental Few
 
 Esube Bekele and Wallace Lawson [The Deeper, the Better: Analysis of Person Attributes Recognition](https://arxiv.org/pdf/1901.03756), submitted to FG2019
 
-Zhiyuan Chen, Annan Li, and Yunhong Wang, Video-Based Pedestrian Attribute Recognition, arXiv paper, 2019
+Zhiyuan Chen, Annan Li, and Yunhong Wang, Video-Based Pedestrian Attribute Recognition, arXiv paper, 2019 [[Paper](https://arxiv.org/pdf/1901.05742.pdf)]
 
 Wang, Yiru, Weihao Gan, Wei Wu, and Junjie Yan. [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf), ICCV 2019. 
 
