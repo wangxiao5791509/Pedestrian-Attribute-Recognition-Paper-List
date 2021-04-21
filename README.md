@@ -89,6 +89,14 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ## The paper list of person attribute recognition: 
 
+### Year-2021 
+"Multi-Branch Gabor Wavelet Layers for Pedestrian Attribute Recognition." Junejo, Imran N. IEEE Access 9 (2021): 40019-40026. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9360746)] 
+
+"Depthwise Separable Convolutional Neural Networks for Pedestrian Attribute Recognition." Junejo, Imran N., and Naveed Ahmed. SN Computer Science 2.2 (2021): 1-11. [[Paper](https://link.springer.com/content/pdf/10.1007/s42979-021-00493-z.pdf)] 
+
+"Jointly human semantic parsing and attribute recognition with feature pyramid structure in EfficientNets." Moghaddam, Mahnaz, Mostafa Charmi, and Hossein Hassanpoor. IET Image Processing (2021). [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ipr2.12195)] 
+
+
 ### Year-2020 
 
 Deep Template Matching for Pedestrian Attribute Recognition with the Auxiliary Supervision of Attribute-wise Keypoints, Jiajun Zhang, Pengyuan Ren, Jianmin Li, [[arXiv](https://arxiv.org/pdf/2011.06798.pdf)]
