@@ -90,6 +90,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2021 
+"Learning To Predict Visual Attributes in the Wild", Khoi Pham, Kushal Kafle, Zhe Lin, Zhihong Ding, Scott Cohen, Quan Tran, Abhinav Shrivastava, [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Learning_To_Predict_Visual_Attributes_in_the_Wild_CVPR_2021_paper.pdf)]
+
 "Multi-Branch Gabor Wavelet Layers for Pedestrian Attribute Recognition." Junejo, Imran N. IEEE Access 9 (2021): 40019-40026. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9360746)] 
 
 "Depthwise Separable Convolutional Neural Networks for Pedestrian Attribute Recognition." Junejo, Imran N., and Naveed Ahmed. SN Computer Science 2.2 (2021): 1-11. [[Paper](https://link.springer.com/content/pdf/10.1007/s42979-021-00493-z.pdf)] 
