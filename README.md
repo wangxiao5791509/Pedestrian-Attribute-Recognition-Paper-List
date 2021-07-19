@@ -47,6 +47,7 @@ If you find more related papers about person attribute recognition, please email
 13. Berkeley-Attributes of People dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
 14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute 
+16. UAV-Human (CVPR 2021): https://github.com/SUTDCV/UAV-Human 
 
 ## Related Survey Papers and Tutorial: 
 1. Zheng, X., Guo, Y., Huang, H., Li, Y., & He, R. (2020). A Survey of Deep Facial Attribute Analysis. International Journal of Computer Vision, 1-33. [Paper](https://arxiv.org/abs/1812.10265) 
@@ -90,6 +91,7 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2021 
+UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles, CVPR 2021, Tianjiao Li, Jun Liu1 Wei Zhang Yun Ni Wenqian Wang Zhiheng Li [[Paper](https://arxiv.org/pdf/2104.00946.pdf)] [[Github](https://github.com/SUTDCV/UAV-Human)] 
 
 "Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting", Jian Jia, Houjing Huang, Xiaotang Chen, Kaiqi Huang [[arxiv](https://arxiv.org/pdf/2107.03576.pdf)]
 
