@@ -9,9 +9,9 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 ## Note：
 * [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. We will release the new version soon. 
 
-Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
+* Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
 
-If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
+* If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
 
 [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)]
 
