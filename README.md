@@ -7,13 +7,13 @@ The paper list of person attribute recognition
 Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can find that the baseline method CNN-SVM is outperformed by recent deep learning based PAR approaches significantly on both large scale benchmark datasets.  Interestingly, we can also find that the accuracy of current deep learning based methods are comparable, and there are no significant improvement of current methods (in 2020) compared with deep PAR algorithms proposed in several years ago. So, what's next if the deep learning based PAR algorithms achieve its bottleneck? 
 
 ## Note：
-* [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. We will release the new version soon. 
+* [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. 
 
 * Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
 
 * If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
 
-* [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] [[PR Version](Coming Soon)]
+* [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] [[PR Version](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004015)]
 
 
 ![Structure of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/structure.png)
@@ -22,11 +22,13 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 # If you find this survey useful for your research, please consider to cite this paper: 
 ~~~
-@article{wang2019parsurvey,
+@article{wang2021pedestrian,
   title={Pedestrian attribute recognition: A survey},
-  author={Wang, Xiao and Zheng, Shaofei and Yang, Rui and Luo, Bin and Tang, Jin},
-  journal={arXiv preprint arXiv:1901.07474},
-  year={2019}
+  author={Wang, Xiao and Zheng, Shaofei and Yang, Rui and Zheng, Aihua and Chen, Zhe and Tang, Jin and Luo, Bin},
+  journal={Pattern Recognition},
+  pages={108220},
+  year={2021},
+  publisher={Elsevier}
 }
 ~~~
 
