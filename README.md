@@ -330,6 +330,8 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 
 ## Applications (Person Attribute based Tasks)
 ## Person Re-ID based on Attributes
+ASMR: Learning Attribute-Based Person Search with Adaptive Semantic Margin Regularizer, Boseung Jeong, Jicheol Park, Suha Kwak, ICCV-2021 [[Paper](https://arxiv.org/abs/2108.04533)]
+
 Han, Kai, Jianyuan Guo, Chao Zhang, and Mingjian Zhu. "[Attribute-aware attention model for fine-grained representation learning](https://dl.acm.org/citation.cfm?id=3240550)" In 2018 ACM Multimedia Conference on Multimedia Conference, pp. 2040-2048. ACM, 2018. 
 
 Su, Chi, Shiliang Zhang, Junliang Xing, Wen Gao, and Qi Tian. "[Deep attributes driven multi-camera person re-identification](https://arxiv.org/pdf/1605.03259)." In European conference on computer vision, pp. 475-491. Springer, Cham, 2016.
