@@ -330,6 +330,8 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 
 ## Applications (Person Attribute based Tasks)
 ## Person Re-ID based on Attributes
+Attribute Guided Sparse Tensor-Based Model for Person Re-Identification, Fariborz Taherkhani, Ali Dabouei, Sobhan Soleymani, Jeremy Dawson, Nasser M. Nasrabadi, [[Paper](https://arxiv.org/abs/2108.04352)]
+
 ASMR: Learning Attribute-Based Person Search with Adaptive Semantic Margin Regularizer, Boseung Jeong, Jicheol Park, Suha Kwak, ICCV-2021 [[Paper](https://arxiv.org/abs/2108.04533)]
 
 Han, Kai, Jianyuan Guo, Chao Zhang, and Mingjian Zhu. "[Attribute-aware attention model for fine-grained representation learning](https://dl.acm.org/citation.cfm?id=3240550)" In 2018 ACM Multimedia Conference on Multimedia Conference, pp. 2040-2048. ACM, 2018. 
