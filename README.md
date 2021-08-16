@@ -13,8 +13,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 * If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
 
-* [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] [[PR Version](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004015)]
-
+* [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] [[PR Version](https://www.researchgate.net/publication/353648334_Pedestrian_Attribute_Recognition_A_Survey)] 
 
 ![Structure of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/structure.png)
 ![Papers of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/review-of-par-papers.png)
