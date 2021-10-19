@@ -91,6 +91,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2021 
+Robust Pedestrian Attribute Recognition Using Group Sparsity for Occlusion Videos, Geonu Lee, Kimin Yun, Jungchan Cho, arxiv 2021 [[Paper](https://arxiv.org/pdf/2110.08708.pdf)]
+
 Spatial and Semantic Consistency Regularizations for Pedestrian Attribute Recognition， Jian Jia, Xiaotang Chen, Kaiqi Huang, ICCV-2021. [[Paper](https://arxiv.org/pdf/2109.05686.pdf)]
 
 UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles, CVPR 2021, Tianjiao Li, Jun Liu1 Wei Zhang Yun Ni Wenqian Wang Zhiheng Li [[Paper](https://arxiv.org/pdf/2104.00946.pdf)] [[Github](https://github.com/SUTDCV/UAV-Human)] 
