@@ -62,6 +62,8 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 
 ## Recommeded Code:
+Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting： https://github.com/valencebond/Rethinking_of_PAR
+
 A solid and strong baseline of pedestrian attribute recognition: https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
 
 A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
@@ -97,7 +99,7 @@ Spatial and Semantic Consistency Regularizations for Pedestrian Attribute Recogn
 
 UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles, CVPR 2021, Tianjiao Li, Jun Liu1 Wei Zhang Yun Ni Wenqian Wang Zhiheng Li [[Paper](https://arxiv.org/pdf/2104.00946.pdf)] [[Github](https://github.com/SUTDCV/UAV-Human)] 
 
-"Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting", Jian Jia, Houjing Huang, Xiaotang Chen, Kaiqi Huang [[arxiv](https://arxiv.org/pdf/2107.03576.pdf)]
+"Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting", Jian Jia, Houjing Huang, Xiaotang Chen, Kaiqi Huang [[arxiv](https://arxiv.org/pdf/2107.03576.pdf)] [[Code](https://github.com/valencebond/Rethinking_of_PAR)]
 
 "Learning To Predict Visual Attributes in the Wild", Khoi Pham, Kushal Kafle, Zhe Lin, Zhihong Ding, Scott Cohen, Quan Tran, Abhinav Shrivastava, [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Learning_To_Predict_Visual_Attributes_in_the_Wild_CVPR_2021_paper.pdf)]
 
