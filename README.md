@@ -51,15 +51,15 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 [**Note**] 
 
-**RAP1.0数据集**的地址如下:
+**RAP1.0 数据集**的地址如下:
 ~~~
-链接：https://pan.baidu.com/s/1T5lPs1ik_7RRjL9rbYanww 
+百度网盘链接：https://pan.baidu.com/s/1T5lPs1ik_7RRjL9rbYanww 
 提取码：pars 
 解压密码：casia_cripac_isee_5610 
 ~~~
 
 
-**RAP2.0数据集**的地址如下: 
+**RAP2.0 数据集**的地址如下: 
 ~~~
 Dataset: https://drive.google.com/open?id=1j21odWyJUb2qQRNirUo7ykva6c2YcRmd
 
@@ -67,7 +67,7 @@ Annotation: https://drive.google.com/open?id=1R__yKSN_7ZhVU4nvj7NdJzUv1qe3ns4v
 
 解压密码: casia_crise_195610
 
-请不要分发此数据集，也不要将其用于商业目的。谢谢。
+请不要分发此数据集，也不要将其用于商业目的！谢谢！(Please do not distribute this dataset or use it for any commercial purposes! Thanks!) 
 ~~~
 
 
