@@ -100,6 +100,11 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 **Learning Disentangled Attribute Representations for Robust Pedestrian Attribute Recognition**, Jian Jia, Naiyu Gao, Fei He, Xiaotang Chen, Kaiqi Huang, AAAI-2022 [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-2142.JianJ.pdf)]
 
 ### Year-2021 
+
+Fair Contrastive Learning for Facial Attribute Classification, Sungho Park, Jewook Lee, Pilhyeon Lee, Sunhee Hwang, Dohyung Kim, Hyeran Byun
+[[Paper](https://arxiv.org/pdf/2203.16209.pdf)]
+[[Code](https://github.com/sungho-CoolG/FSCL)]
+
 Robust Pedestrian Attribute Recognition Using Group Sparsity for Occlusion Videos, Geonu Lee, Kimin Yun, Jungchan Cho, arxiv 2021 [[Paper](https://arxiv.org/pdf/2110.08708.pdf)]
 
 Spatial and Semantic Consistency Regularizations for Pedestrian Attribute Recognition， Jian Jia, Xiaotang Chen, Kaiqi Huang, ICCV-2021. [[Paper](https://arxiv.org/pdf/2109.05686.pdf)]
