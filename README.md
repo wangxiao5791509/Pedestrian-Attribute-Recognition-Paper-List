@@ -98,6 +98,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2022 
 
+* **A Simple Visual-Textual Baseline for Pedestrian Attribute Recognition**, Xinhua Cheng;Mengxi Jia;Qian Wang;Jian Zhang, 
+[[Paper](https://ieeexplore.ieee.org/document/9782406)] [[Code](https://github.com/cxh0519/VTB)]
 
 * **Fair Contrastive Learning for Facial Attribute Classification**, Sungho Park, Jewook Lee, Pilhyeon Lee, Sunhee Hwang, Dohyung Kim, Hyeran Byun
 [[Paper](https://arxiv.org/pdf/2203.16209.pdf)]
