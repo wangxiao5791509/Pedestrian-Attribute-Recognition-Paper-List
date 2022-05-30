@@ -98,6 +98,9 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2022 
 
+* **Reinforced Pedestrian Attribute Recognition with Group Optimization Reward**, Zhong Ji, Zhenfei Hu, Yaodong Wang, Shengjia Li, 
+[[Paper](https://arxiv.org/abs/2205.14042)]
+
 * **A Simple Visual-Textual Baseline for Pedestrian Attribute Recognition**, Xinhua Cheng;Mengxi Jia;Qian Wang;Jian Zhang, 
 [[Paper](https://ieeexplore.ieee.org/document/9782406)] [[Code](https://github.com/cxh0519/VTB)]
 
