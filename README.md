@@ -98,6 +98,10 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2022 
 
+* Weissenfeld, Axel, and Bernhard Strobl. "**Pedestrian Attribute Recognition (PAR).**" [[Paper](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/PedestrianAttributeRecognition.pdf)]
+
+* Zhao, Ruijie, et al. "**Pedestrian attribute recognition based on attribute correlation.**" Multimedia Systems 28.3 (2022): 1069-1081. [[Paper](https://link.springer.com/content/pdf/10.1007/s00530-022-00893-y.pdf)] 
+
 * Chen, L., Song, J., Zhang, X. et al. **MCFL: multi-label contrastive focal loss for deep imbalanced pedestrian attribute recognition.** Neural Comput & Applic (2022). [[Paper](https://link.springer.com/article/10.1007/s00521-022-07300-7)] 
 
 * Yan, Yan, et al. "**Drop Loss for Person Attribute Recognition With Imbalanced Noisy-Labeled Samples**." IEEE Transactions on Cybernetics (2022). [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780248)]
@@ -117,21 +121,21 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 
 ### Year-2021 
-Robust Pedestrian Attribute Recognition Using Group Sparsity for Occlusion Videos, Geonu Lee, Kimin Yun, Jungchan Cho, arxiv 2021 [[Paper](https://arxiv.org/pdf/2110.08708.pdf)]
+* **Robust Pedestrian Attribute Recognition Using Group Sparsity for Occlusion Videos**, Geonu Lee, Kimin Yun, Jungchan Cho, arxiv 2021 [[Paper](https://arxiv.org/pdf/2110.08708.pdf)]
 
-Spatial and Semantic Consistency Regularizations for Pedestrian Attribute Recognition， Jian Jia, Xiaotang Chen, Kaiqi Huang, ICCV-2021. [[Paper](https://arxiv.org/pdf/2109.05686.pdf)]
+* **Spatial and Semantic Consistency Regularizations for Pedestrian Attribute Recognition**， Jian Jia, Xiaotang Chen, Kaiqi Huang, ICCV-2021. [[Paper](https://arxiv.org/pdf/2109.05686.pdf)]
 
-UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles, CVPR 2021, Tianjiao Li, Jun Liu1 Wei Zhang Yun Ni Wenqian Wang Zhiheng Li [[Paper](https://arxiv.org/pdf/2104.00946.pdf)] [[Github](https://github.com/SUTDCV/UAV-Human)] 
+* **UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles**, CVPR 2021, Tianjiao Li, Jun Liu1 Wei Zhang Yun Ni Wenqian Wang Zhiheng Li [[Paper](https://arxiv.org/pdf/2104.00946.pdf)] [[Github](https://github.com/SUTDCV/UAV-Human)] 
 
-"Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting", Jian Jia, Houjing Huang, Xiaotang Chen, Kaiqi Huang [[arxiv](https://arxiv.org/pdf/2107.03576.pdf)] [[Code](https://github.com/valencebond/Rethinking_of_PAR)]
+* **"Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting"**, Jian Jia, Houjing Huang, Xiaotang Chen, Kaiqi Huang [[arxiv](https://arxiv.org/pdf/2107.03576.pdf)] [[Code](https://github.com/valencebond/Rethinking_of_PAR)]
 
-"Learning To Predict Visual Attributes in the Wild", Khoi Pham, Kushal Kafle, Zhe Lin, Zhihong Ding, Scott Cohen, Quan Tran, Abhinav Shrivastava, [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Learning_To_Predict_Visual_Attributes_in_the_Wild_CVPR_2021_paper.pdf)]
+* **"Learning To Predict Visual Attributes in the Wild**", Khoi Pham, Kushal Kafle, Zhe Lin, Zhihong Ding, Scott Cohen, Quan Tran, Abhinav Shrivastava, [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Learning_To_Predict_Visual_Attributes_in_the_Wild_CVPR_2021_paper.pdf)]
 
-"Multi-Branch Gabor Wavelet Layers for Pedestrian Attribute Recognition." Junejo, Imran N. IEEE Access 9 (2021): 40019-40026. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9360746)] 
+* **"Multi-Branch Gabor Wavelet Layers for Pedestrian Attribute Recognition."** Junejo, Imran N. IEEE Access 9 (2021): 40019-40026. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9360746)] 
 
-"Depthwise Separable Convolutional Neural Networks for Pedestrian Attribute Recognition." Junejo, Imran N., and Naveed Ahmed. SN Computer Science 2.2 (2021): 1-11. [[Paper](https://link.springer.com/content/pdf/10.1007/s42979-021-00493-z.pdf)] 
+* **"Depthwise Separable Convolutional Neural Networks for Pedestrian Attribute Recognition."** Junejo, Imran N., and Naveed Ahmed. SN Computer Science 2.2 (2021): 1-11. [[Paper](https://link.springer.com/content/pdf/10.1007/s42979-021-00493-z.pdf)] 
 
-"Jointly human semantic parsing and attribute recognition with feature pyramid structure in EfficientNets." Moghaddam, Mahnaz, Mostafa Charmi, and Hossein Hassanpoor. IET Image Processing (2021). [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ipr2.12195)] 
+* **"Jointly human semantic parsing and attribute recognition with feature pyramid structure in EfficientNets."** Moghaddam, Mahnaz, Mostafa Charmi, and Hossein Hassanpoor. IET Image Processing (2021). [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ipr2.12195)] 
 
 
 ### Year-2020 
