@@ -98,6 +98,10 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2022 
 
+* Chen, L., Song, J., Zhang, X. et al. **MCFL: multi-label contrastive focal loss for deep imbalanced pedestrian attribute recognition.** Neural Comput & Applic (2022). [[Paper](https://link.springer.com/article/10.1007/s00521-022-07300-7)] 
+
+* Yan, Yan, et al. "**Drop Loss for Person Attribute Recognition With Imbalanced Noisy-Labeled Samples**." IEEE Transactions on Cybernetics (2022). [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780248)]
+
 * **Reinforced Pedestrian Attribute Recognition with Group Optimization Reward**, Zhong Ji, Zhenfei Hu, Yaodong Wang, Shengjia Li, arxiv-preprint 2205.14042
 [[Paper](https://arxiv.org/abs/2205.14042)]
 
