@@ -98,6 +98,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2022 
 
+* Chen, Wei-Chen, Xin-Yi Yu, and Lin-Lin Ou. "**Pedestrian attribute recognition in video surveillance scenarios based on view-attribute attention localization**." Machine Intelligence Research 19.2 (2022): 153-168. [[Paper](https://link.springer.com/content/pdf/10.1007/s11633-022-1321-8.pdf)]
+
 * Sakib, S.; Deb, K.; Dhar, P.K.; Kwon, O.-J. **A Framework for Pedestrian Attribute Recognition Using Deep Learning**. Appl. Sci. 2022, 12, 622. https://doi.org/10.3390/app12020622 [[Paper](https://www.mdpi.com/2076-3417/12/2/622/htm)] 
 
 * Zhao, Yazhi, et al. "**FLSRNet: pedestrian attribute recognition using focal label smoothing regularization.**" Signal, Image and Video Processing (2022): 1-8. [[Paper](https://link.springer.com/content/pdf/10.1007/s11760-021-02099-7.pdf)]
