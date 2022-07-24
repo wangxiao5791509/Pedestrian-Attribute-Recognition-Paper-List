@@ -98,6 +98,8 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2022 
 
+* Y. Yan, Y. Xu, J. -H. Xue, Y. Lu, H. Wang and W. Zhu, "**Drop Loss for Person Attribute Recognition With Imbalanced Noisy-Labeled Samples**," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2022.3173356. [[Paper](https://ieeexplore.ieee.org/document/9780248)]
+
 * Chen, Wei-Chen, Xin-Yi Yu, and Lin-Lin Ou. "**Pedestrian attribute recognition in video surveillance scenarios based on view-attribute attention localization**." Machine Intelligence Research 19.2 (2022): 153-168. [[Paper](https://link.springer.com/content/pdf/10.1007/s11633-022-1321-8.pdf)]
 
 * Sakib, S.; Deb, K.; Dhar, P.K.; Kwon, O.-J. **A Framework for Pedestrian Attribute Recognition Using Deep Learning**. Appl. Sci. 2022, 12, 622. https://doi.org/10.3390/app12020622 [[Paper](https://www.mdpi.com/2076-3417/12/2/622/htm)] 
