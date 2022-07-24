@@ -94,9 +94,37 @@ Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECC
 Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference in an end-to-end model." arXiv preprint arXiv:1707.06089 (2017). https://github.com/asc-kit/vespa 
 
 
+
+
+
+
+
+
+
 ## The paper list of person attribute recognition: 
 
 ### Year-2022 
+
+* **Label2Label: A Language Modeling Framework for Multi-Attribute Learning**, Wanhua Li, Zhexuan Cao, Jianjiang Feng, Jie Zhou, Jiwen Lu, 	ECCV 2022 
+[[Paper](https://arxiv.org/abs/2207.08677)]
+
+* Lv, Jiping, et al. "**Feature Fusion with Non-local for Pedestrian Attribute Recognition**." 2022 2nd International Conference on Bioinformatics and Intelligent Computing. 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3523286.3524581)] 
+
+* Zhao, Ruijie, et al. "**Pedestrian attribute recognition based on attribute correlation**." Multimedia Systems 28.3 (2022): 1069-1081. 
+[[Paper](https://link.springer.com/article/10.1007/s00530-022-00893-y)]
+
+* Wu, Duidi, et al. "Overview of Deep Learning Based Pedestrian Attribute Recognition and Reidentification." Available at SSRN 4082891 (2022). 
+[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082891)]
+
+* **Pedestrian Attribute Recognition with Feature Combination in Transformer with Attention Model**, Xikai Tang, Zhikun Lin, Yiran Wang 
+[[Paper](https://link.springer.com/chapter/10.1007/978-981-19-3927-3_49)]
+
+* Guo, H., Fan, X. & Wang, S. **Visual Attention Consistency for Human Attribute Recognition**. Int J Comput Vis 130, 1088–1106 (2022). https://doi.org/10.1007/s11263-022-01591-y [[Paper](https://link.springer.com/article/10.1007/s11263-022-01591-y#citeas)]
+
+* Tang, Zengming, and Jun Huang. "**DRFormer: Learning dual relations using Transformer for pedestrian attribute recognition**." Neurocomputing 497 (2022): 159-169. 
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222005598)]
+
+* Wu, J., Huang, Y., Gao, Z., Hong, Y., Zhao, J., & Du, X. (2022). **Inter-Attribute Awareness for Pedestrian Attribute Recognition**. Pattern Recognition, 108865. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003466)]
 
 * Y. Yan, Y. Xu, J. -H. Xue, Y. Lu, H. Wang and W. Zhu, "**Drop Loss for Person Attribute Recognition With Imbalanced Noisy-Labeled Samples**," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2022.3173356. [[Paper](https://ieeexplore.ieee.org/document/9780248)]
 
