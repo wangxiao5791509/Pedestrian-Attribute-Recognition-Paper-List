@@ -116,7 +116,7 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 * Wu, Duidi, et al. "**Overview of Deep Learning Based Pedestrian Attribute Recognition and Reidentification**." Available at SSRN 4082891 (2022). 
 [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082891)]
 
-* **Pedestrian Attribute Recognition with Feature Combination in Transformer with Attention Model**, Xikai Tang, Zhikun Lin, Yiran Wang 
+* Tang, Xikai, Zhikun Lin, and Yiran Wang. "**Pedestrian Attribute Recognition with Feature Combination in Transformer with Attention Model**." International Conference on Computing, Control and Industrial Engineering. Springer, Singapore, 2022.
 [[Paper](https://link.springer.com/chapter/10.1007/978-981-19-3927-3_49)]
 
 * Guo, H., Fan, X. & Wang, S. **Visual Attention Consistency for Human Attribute Recognition**. Int J Comput Vis 130, 1088–1106 (2022). https://doi.org/10.1007/s11263-022-01591-y [[Paper](https://link.springer.com/article/10.1007/s11263-022-01591-y#citeas)]
