@@ -119,7 +119,7 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 * Tang, Xikai, Zhikun Lin, and Yiran Wang. "**Pedestrian Attribute Recognition with Feature Combination in Transformer with Attention Model**." International Conference on Computing, Control and Industrial Engineering. Springer, Singapore, 2022.
 [[Paper](https://link.springer.com/chapter/10.1007/978-981-19-3927-3_49)]
 
-* Guo, H., Fan, X. & Wang, S. **Visual Attention Consistency for Human Attribute Recognition**. Int J Comput Vis 130, 1088–1106 (2022). https://doi.org/10.1007/s11263-022-01591-y [[Paper](https://link.springer.com/article/10.1007/s11263-022-01591-y#citeas)]
+* Guo, H., Fan, X., & Wang, S. (2022). **Visual Attention Consistency for Human Attribute Recognition**. International Journal of Computer Vision, 130(4), 1088-1106. https://doi.org/10.1007/s11263-022-01591-y [[Paper](https://link.springer.com/article/10.1007/s11263-022-01591-y#citeas)]
 
 * Tang, Zengming, and Jun Huang. "**DRFormer: Learning dual relations using Transformer for pedestrian attribute recognition**." Neurocomputing 497 (2022): 159-169. 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222005598)]
