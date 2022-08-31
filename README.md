@@ -36,7 +36,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 2. RAP Dataset: http://rap.idealtest.org/
 3. PA-100K Dataset: https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M
 4. WIDER Attribute Dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html
-5. Database of Human Attributes (HAT): https://jurie.users.greyc.fr/datasets/hat.html
+5. Database of Human Attributes (HAT): [[Project](https://jurie.users.greyc.fr/datasets/hat.html)] [[Dataset](https://jurie.users.greyc.fr/datasets/hatdb.tar)]
 6. Market-1501_Attribute: https://github.com/vana77/Market-1501_Attribute
 7. DukeMTMC-Attribute: https://github.com/vana77/DukeMTMC-attribute
 8. Clothing Attributes Dataset: https://purl.stanford.edu/tb980qz1002
