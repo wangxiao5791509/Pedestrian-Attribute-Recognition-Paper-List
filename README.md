@@ -48,6 +48,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute 
 16. UAV-Human (CVPR 2021): https://github.com/SUTDCV/UAV-Human 
+17. UPAR: [[Paper](https://arxiv.org/pdf/2209.02522.pdf)]
 
 
 
@@ -63,6 +64,8 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 4. Person Search Paper List [[Github]](https://github.com/wangxiao5791509/Person-Search-Paper-List)
 
 5. Human Attribute Recognition: A Comprehensive Survey, Yaghoubi, E., Khezeli, F., Borza, D., Kumar, S. A., Neves, J., & Proença, H. (2020). [[Paper](https://www.preprints.org/manuscript/202007.0055/download/final_file)]
+
+
 
 
 ## Recommeded Code:
@@ -104,6 +107,9 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 ## The paper list of person attribute recognition: 
 
 ### Year-2022 
+
+* **UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval**, Andreas Specker, Mickael Cormier, Jurgen Beyerer, [[Paper](https://arxiv.org/pdf/2209.02522.pdf)]
+
 
 * **Label2Label: A Language Modeling Framework for Multi-Attribute Learning**, Wanhua Li, Zhexuan Cao, Jianjiang Feng, Jie Zhou, Jiwen Lu, 	ECCV 2022 
 [[Paper](https://arxiv.org/abs/2207.08677)]
