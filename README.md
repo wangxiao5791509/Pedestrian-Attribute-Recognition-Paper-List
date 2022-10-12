@@ -108,6 +108,9 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 ### Year-2022 
 
+* Liu, Z., Zhang, Z., Li, D., Zhang, P., & Shan, C. (2022). **Dual-Branch Self-attention Network for Pedestrian Attribute Recognition**. Pattern Recognition Letters.  
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0167865522002963)]
+
 * H. Fan, H. -M. Hu, S. Liu, W. Lu and S. Pu, **Correlation Graph Convolutional Network for Pedestrian Attribute Recognition,** in IEEE Transactions on Multimedia, vol. 24, pp. 49-60, 2022, doi: 10.1109/TMM.2020.3045286. [[Paper](https://ieeexplore.ieee.org/document/9296283)]
 
 * **UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval**, Andreas Specker, Mickael Cormier, Jurgen Beyerer, [[Paper](https://arxiv.org/pdf/2209.02522.pdf)]
@@ -163,6 +166,22 @@ Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference i
 
 
 ### Year-2021 
+
+* X. Shan, P. Peng, Y. Zhai, C. Zhang, T. Huang and Y. Tian, "**Generate And Adjust: A Novel Framework For Semi-Supervised Pedestrian Attribute Recognition**," 2021 IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2021, pp. 1-6, doi: 10.1109/ICMEW53276.2021.9455965. [[Paper](https://ieeexplore.ieee.org/abstract/document/9455965)]
+
+* Yang, Y., Tan, Z., Tiwari, P. et al. **Cascaded Split-and-Aggregate Learning with Feature Recombination for Pedestrian Attribute Recognition**. Int J Comput Vis 129, 2731–2744 (2021). https://doi.org/10.1007/s11263-021-01499-z
+[[Paper](https://link.springer.com/article/10.1007/s11263-021-01499-z#citeas)]
+
+
+* Lee, Geonu, Kimin Yun, and Jungchan Cho. "Robust Pedestrian Attribute Recognition Using Group Sparsity for Occlusion Videos." arXiv preprint arXiv:2110.08708 (2021). 
+[[Paper](https://arxiv.org/pdf/2110.08708.pdf)]
+
+* Z. Chen, S. Gu, F. Zhu, J. Xu and R. Zhao, "**Improving Facial Attribute Recognition by Group and Graph Learning**," 2021 IEEE International Conference on Multimedia and Expo (ICME), 2021, pp. 1-6, doi: 10.1109/ICME51207.2021.9428078. [[Paper](https://ieeexplore.ieee.org/abstract/document/9428078)]
+
+* J. Zhong, H. Qiao, L. Chen, M. Shang and Q. Liu, "**Improving Pedestrian Attribute Recognition with Multi-Scale Spatial Calibration,**" 2021 International Joint Conference on Neural Networks (IJCNN), 2021, pp. 1-8, doi: 10.1109/IJCNN52387.2021.9533647. [[Paper](https://ieeexplore.ieee.org/abstract/document/9533647)]
+
+* X. Zheng, Z. Yu, L. Chen, F. Zhu and S. Wang, "**Multi-label Contrastive Focal Loss for Pedestrian Attribute Recognition**," 2020 25th International Conference on Pattern Recognition (ICPR), 2021, pp. 7349-7356, doi: 10.1109/ICPR48806.2021.9411959. [[Paper](https://ieeexplore.ieee.org/abstract/document/9411959)]
+
 * **Robust Pedestrian Attribute Recognition Using Group Sparsity for Occlusion Videos**, Geonu Lee, Kimin Yun, Jungchan Cho, arxiv 2021 [[Paper](https://arxiv.org/pdf/2110.08708.pdf)]
 
 * **Spatial and Semantic Consistency Regularizations for Pedestrian Attribute Recognition**， Jian Jia, Xiaotang Chen, Kaiqi Huang, ICCV-2021. [[Paper](https://arxiv.org/pdf/2109.05686.pdf)]
@@ -405,6 +424,9 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 
 ## Applications (Person Attribute based Tasks)
 ## Person Re-ID based on Attributes
+
+* T. Chai, Z. Chen, A. Li, J. Chen, X. Mei and Y. Wang, "**Video Person Re-identification Using Attribute-enhanced Features**," in IEEE Transactions on Circuits and Systems for Video Technology, 2022, doi: 10.1109/TCSVT.2022.3189027. [[Paper](https://ieeexplore.ieee.org/abstract/document/9817378)]
+
 Attribute Guided Sparse Tensor-Based Model for Person Re-Identification, Fariborz Taherkhani, Ali Dabouei, Sobhan Soleymani, Jeremy Dawson, Nasser M. Nasrabadi, [[Paper](https://arxiv.org/abs/2108.04352)]
 
 ASMR: Learning Attribute-Based Person Search with Adaptive Semantic Margin Regularizer, Boseung Jeong, Jicheol Park, Suha Kwak, ICCV-2021 [[Paper](https://arxiv.org/abs/2108.04533)]
