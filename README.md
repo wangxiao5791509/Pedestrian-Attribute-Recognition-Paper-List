@@ -66,7 +66,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute 
 16. UAV-Human (CVPR 2021): https://github.com/SUTDCV/UAV-Human 
-17. UPAR: [[Paper](https://arxiv.org/pdf/2209.02522.pdf)]
+17. UPAR: [[Paper](https://arxiv.org/pdf/2209.02522.pdf)] [[WACV2023-Challenge](https://chalearnlap.cvc.uab.cat/challenge/52/description/)] [[Homepage](https://chalearnlap.cvc.uab.cat/dataset/44/description/)] [[GitHub](https://github.com/speckean/upar_challenge)]
 
 
 
