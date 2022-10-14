@@ -86,32 +86,32 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 
 ## Recommeded Code:
-Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting： https://github.com/valencebond/Rethinking_of_PAR
+* Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting： https://github.com/valencebond/Rethinking_of_PAR
 
-A solid and strong baseline of pedestrian attribute recognition: https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
+* A solid and strong baseline of pedestrian attribute recognition: https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
 
-A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
+* A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
 DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Recognition-MarketDuke
 
-DeepMAR from "Multi-attribute learning for pedestrian attribute recognition": https://github.com/kyu-sz/DeepMAR_deploy
+* DeepMAR from "Multi-attribute learning for pedestrian attribute recognition": https://github.com/kyu-sz/DeepMAR_deploy
 
-Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios, Dangwei Li and Xiaotang Chen and Kaiqi Huang, ACPR 2015: https://github.com/dangweili/pedestrian-attribute-recognition-pytorch
+* Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios, Dangwei Li and Xiaotang Chen and Kaiqi Huang, ACPR 2015: https://github.com/dangweili/pedestrian-attribute-recognition-pytorch
 
-Multi-label Image Recognition by Recurrently Discovering Attentional Regions (Pytorch implementation): https://github.com/James-Yip/AttentionImageClass
+* Multi-label Image Recognition by Recurrently Discovering Attentional Regions (Pytorch implementation): https://github.com/James-Yip/AttentionImageClass
 
-A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios: Li, Dangwei and Zhang, Zhang and Chen, Xiaotang and Huang, Kaiqi, IEEE Transactions on Image Processing 2019: https://github.com/dangweili/RAP
+* A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios: Li, Dangwei and Zhang, Zhang and Chen, Xiaotang and Huang, Kaiqi, IEEE Transactions on Image Processing 2019: https://github.com/dangweili/RAP
 
-PatchIt (BMVC-2016): https://github.com/psudowe/patchit
+* PatchIt (BMVC-2016): https://github.com/psudowe/patchit
 
-PANDA (CVOR-2014): https://github.com/facebookarchive/pose-aligned-deep-networks
+* PANDA (CVOR-2014): https://github.com/facebookarchive/pose-aligned-deep-networks
 
-HydraPlus-Net (ICCV-2017): https://github.com/xh-liu/HydraPlus-Net
+* HydraPlus-Net (ICCV-2017): https://github.com/xh-liu/HydraPlus-Net
 
-WPAL-network (BMVC-2014) https://github.com/YangZhou1994/WPAL-network
+* WPAL-network (BMVC-2014) https://github.com/YangZhou1994/WPAL-network
 
-Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECCV-2018): https://github.com/cvcode18/imbalanced_learning
+* Deep Imbalanced Attribute Classification using Visual Attention Aggregation (ECCV-2018): https://github.com/cvcode18/imbalanced_learning
 
-Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference in an end-to-end model." arXiv preprint arXiv:1707.06089 (2017). https://github.com/asc-kit/vespa 
+* Sarfraz, M. Saquib, et al. "Deep view-sensitive pedestrian attribute inference in an end-to-end model." arXiv preprint arXiv:1707.06089 (2017). https://github.com/asc-kit/vespa 
 
 
 
