@@ -10,19 +10,26 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 ### :fire: 2023 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV! 👇
 * [WACV'23 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge](https://chalearnlap.cvc.uab.cat/challenge/52/description/) | **Data  available!** 
+
 ** 09/15/2022 Start of challenge
+
 ** 10/14/2022 Release of test data (without ground truth) and validation labels 
+
 ** 10/17/2022 Start of test phase (end of development phase) 
+
 ** 10/31/2022 End of the Challenge 
+
 ** 11/01/2022 Code and fact sheets submission 
+
 ** 11/10/2022 Release of final results
 
-* [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. 
 
-* Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
 
-* If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
+### :fire: [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. 
 
+### :fire: Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
+
+### :fire: If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
 * [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] [[PR Version](https://www.researchgate.net/publication/353648334_Pedestrian_Attribute_Recognition_A_Survey)] 
 
 ![Structure of Survey](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/structure.png)
