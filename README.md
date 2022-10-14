@@ -29,13 +29,9 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 ### :fire: Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
 
-### :fire: If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com 
-* [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  
-[[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  
-[[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] 
-[[PR Version](https://www.sciencedirect.com/science/article/pii/S0031320321004015)] 
+### :fire: If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com Please consider to cite this paper, if you find this survey useful for your research. 
+[[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] [[PR Version](https://www.sciencedirect.com/science/article/pii/S0031320321004015)] 
 
-### :fire: If you find this survey useful for your research, please consider to cite this paper: 
 ~~~
 @article{wang2021pedestrian,
   title={Pedestrian attribute recognition: A survey},
