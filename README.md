@@ -8,7 +8,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 ## Note：
 
-### :fire: 2023 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV! 👇
+### :fire: [October-14-2022] Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV! 👇
 * [WACV'23 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge](https://chalearnlap.cvc.uab.cat/challenge/52/description/) | **Data  available!** 
 
 ** 09/15/2022 Start of challenge
