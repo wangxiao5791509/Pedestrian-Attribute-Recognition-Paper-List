@@ -10,12 +10,12 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 ### :fire: 2023 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV! 👇
 * [WACV'23 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge](https://chalearnlap.cvc.uab.cat/challenge/52/description/) | **Data  available!** 
-* 09/15/2022 Start of challenge
-* 10/14/2022 Release of test data (without ground truth) and validation labels 
-* 10/17/2022 Start of test phase (end of development phase) 
-* 10/31/2022 End of the Challenge 
-* 11/01/2022 Code and fact sheets submission 
-* 11/10/2022 Release of final results
+** 09/15/2022 Start of challenge
+** 10/14/2022 Release of test data (without ground truth) and validation labels 
+** 10/17/2022 Start of test phase (end of development phase) 
+** 10/31/2022 End of the Challenge 
+** 11/01/2022 Code and fact sheets submission 
+** 11/10/2022 Release of final results
 
 * [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. 
 
