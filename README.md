@@ -219,25 +219,27 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2020 
 
-Deep Template Matching for Pedestrian Attribute Recognition with the Auxiliary Supervision of Attribute-wise Keypoints, Jiajun Zhang, Pengyuan Ren, Jianmin Li, [[arXiv](https://arxiv.org/pdf/2011.06798.pdf)]
+* H. An, H. -M. Hu, Y. Guo, Q. Zhou and B. Li, "**Hierarchical Reasoning Network for Pedestrian Attribute Recognition**," in IEEE Transactions on Multimedia, vol. 23, pp. 268-280, 2021, doi: 10.1109/TMM.2020.2975417. [[Paper](https://ieeexplore.ieee.org/abstract/document/9005186)]
 
-Gu, Z., Zhang, J., Pan, Z., Zhao, H., & Zhang, L. (2019, July). Clothes keypoints localization and attribute recognition via prior knowledge. In 2019 IEEE International Conference on Multimedia and Expo (ICME) (pp. 550-555). IEEE.[[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8785043/)]
+* Deep Template Matching for Pedestrian Attribute Recognition with the Auxiliary Supervision of Attribute-wise Keypoints, Jiajun Zhang, Pengyuan Ren, Jianmin Li, [[arXiv](https://arxiv.org/pdf/2011.06798.pdf)]
 
-Ji, Z., Hu, Z., He, E., Han, J., & Pang, Y. (2020). Pedestrian Attribute Recognition Based on Multiple Time Steps Attention. Pattern Recognition Letters. [[PRL](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S0167865520302646)]
+* Gu, Z., Zhang, J., Pan, Z., Zhao, H., & Zhang, L. (2019, July). Clothes keypoints localization and attribute recognition via prior knowledge. In 2019 IEEE International Conference on Multimedia and Expo (ICME) (pp. 550-555). IEEE.[[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8785043/)]
 
-Texture and Shape Biased Two-Stream Networks for Clothing Classification and Attribute Recognition, Yuwei Zhang, Peng Zhang, Chun Yuan, Zhi Wang [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Texture_and_Shape_Biased_Two-Stream_Networks_for_Clothing_Classification_and_CVPR_2020_paper.html)]
+* Ji, Z., Hu, Z., He, E., Han, J., & Pang, Y. (2020). Pedestrian Attribute Recognition Based on Multiple Time Steps Attention. Pattern Recognition Letters. [[PRL](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S0167865520302646)]
 
-Hierarchical Feature Embedding for Attribute Recognition, Jie Yang, Jiarou Fan, Yiru Wang, Yige Wang, Weihao Gan, Lin Liu, Wei Wu [[CVPR2020](https://arxiv.org/pdf/2005.11576.pdf)] 
+* Texture and Shape Biased Two-Stream Networks for Clothing Classification and Attribute Recognition, Yuwei Zhang, Peng Zhang, Chun Yuan, Zhi Wang [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Texture_and_Shape_Biased_Two-Stream_Networks_for_Clothing_Classification_and_CVPR_2020_paper.html)]
 
-Rethinking of Pedestrian Attribute Recognition: Realistic Datasets and A Strong Baseline, Jian Jia, Houjing Huang, Wenjie Yang, Xiaotang Chen, and Kaiqi Huang [[arXiv](https://arxiv.org/pdf/2005.11909.pdf)] [[Code](https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition)] 
+* Hierarchical Feature Embedding for Attribute Recognition, Jie Yang, Jiarou Fan, Yiru Wang, Yige Wang, Weihao Gan, Lin Liu, Wei Wu [[CVPR2020](https://arxiv.org/pdf/2005.11576.pdf)] 
 
-Multi-Task Learning via Co-Attentive Sharing for Pedestrian Attribute Recognition, Haitian Zeng, Haizhou Ai, Zijie Zhuang, Long Chen, [[ICME 2020](https://arxiv.org/pdf/2004.03164.pdf)]
+* Rethinking of Pedestrian Attribute Recognition: Realistic Datasets and A Strong Baseline, Jian Jia, Houjing Huang, Wenjie Yang, Xiaotang Chen, and Kaiqi Huang [[arXiv](https://arxiv.org/pdf/2005.11909.pdf)] [[Code](https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition)] 
 
-Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu (Beihang University)*; Di Huang (Beihang University, China); Yuanfang Guo (Beihang University); Yunhong Wang (State Key Laboratory of Virtual Reality Technology and System, Beihang University, Beijing 100191, China), AAAI-2020 [[Paper](https://arxiv.org/pdf/1911.11351)]
+* Multi-Task Learning via Co-Attentive Sharing for Pedestrian Attribute Recognition, Haitian Zeng, Haizhou Ai, Zijie Zhuang, Long Chen, [[ICME 2020](https://arxiv.org/pdf/2004.03164.pdf)]
 
-Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks, Zichang Tan (NLPR); Yang Yang (Institute of Automation, Chinese Academy of Sciences); Jun Wan (NLPR, CASIA)*; Guodong Guo (West Virginia University); Stan Li (National Lab. of Pattern Recognition, China), AAAI-2020, [[Paper](https://sci-hub.tw/https://aaai.org/ojs/index.php/AAAI/article/view/6883)]
+* Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism, Mingda Wu (Beihang University)*; Di Huang (Beihang University, China); Yuanfang Guo (Beihang University); Yunhong Wang (State Key Laboratory of Virtual Reality Technology and System, Beihang University, Beijing 100191, China), AAAI-2020 [[Paper](https://arxiv.org/pdf/1911.11351)]
 
-An Attention-Based Deep Learning Model for Multiple Pedestrian Attributes Recognition, Ehsan Yaghoubi, Diana Borza, Jo˜ao Neves, Aruna Kumar, Hugo Proen¸ca, [[arXiv-Paper](https://arxiv.org/pdf/2004.01110.pdf)] [[Code](https://github.com/Ehsan-Yaghoubi/MAN-PAR-)]
+* Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks, Zichang Tan (NLPR); Yang Yang (Institute of Automation, Chinese Academy of Sciences); Jun Wan (NLPR, CASIA)*; Guodong Guo (West Virginia University); Stan Li (National Lab. of Pattern Recognition, China), AAAI-2020, [[Paper](https://sci-hub.tw/https://aaai.org/ojs/index.php/AAAI/article/view/6883)]
+
+* An Attention-Based Deep Learning Model for Multiple Pedestrian Attributes Recognition, Ehsan Yaghoubi, Diana Borza, Jo˜ao Neves, Aruna Kumar, Hugo Proen¸ca, [[arXiv-Paper](https://arxiv.org/pdf/2004.01110.pdf)] [[Code](https://github.com/Ehsan-Yaghoubi/MAN-PAR-)]
 
 
 
