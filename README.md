@@ -89,7 +89,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 ## Recommeded Code:
 * Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting： https://github.com/valencebond/Rethinking_of_PAR
 
-* A solid and strong baseline of pedestrian attribute recognition: https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
+* A solid and strong baseline of pedestrian attribute recognition: https://github.com/aajinjin/Strong_Baseline_of_Pedestrian_Attribute_Recognition
 
 * A baseline model ( pytorch implementation ) for person attribute recognition task, training and testing on Market1501-attribute and 
 DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Recognition-MarketDuke
