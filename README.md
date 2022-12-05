@@ -87,6 +87,13 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 
 ## Recommeded Code:
+
+* **A Simple Visual-Textual Baseline for Pedestrian Attribute Recognition**, Xinhua Cheng;Mengxi Jia;Qian Wang;Jian Zhang, IEEE TCSVT-2022
+[[Paper](https://ieeexplore.ieee.org/document/9782406)] [[Code](https://github.com/cxh0519/VTB)]
+
+* **Label2Label: A Language Modeling Framework for Multi-Attribute Learning**, Wanhua Li, Zhexuan Cao, Jianjiang Feng, Jie Zhou, Jiwen Lu, 	ECCV 2022 
+[[Paper](https://arxiv.org/abs/2207.08677)] [[Code](https://github.com/Li-Wanhua/Label2Label)] 
+
 * Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation under Zero-Shot Pedestrian Identity Setting： https://github.com/valencebond/Rethinking_of_PAR
 
 * A solid and strong baseline of pedestrian attribute recognition: https://github.com/aajinjin/Strong_Baseline_of_Pedestrian_Attribute_Recognition
@@ -133,7 +140,7 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 * **UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval**, Andreas Specker, Mickael Cormier, Jurgen Beyerer, [[Paper](https://arxiv.org/pdf/2209.02522.pdf)]
 
 * **Label2Label: A Language Modeling Framework for Multi-Attribute Learning**, Wanhua Li, Zhexuan Cao, Jianjiang Feng, Jie Zhou, Jiwen Lu, 	ECCV 2022 
-[[Paper](https://arxiv.org/abs/2207.08677)]
+[[Paper](https://arxiv.org/abs/2207.08677)] [[Code](https://github.com/Li-Wanhua/Label2Label)]
 
 * Lv, Jiping, et al. "**Feature Fusion with Non-local for Pedestrian Attribute Recognition**." 2022 2nd International Conference on Bioinformatics and Intelligent Computing. 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3523286.3524581)] 
 
