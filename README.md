@@ -133,6 +133,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2022 
 
+* OvarNet: Towards Open-vocabulary Object Attribute Recognition, Keyan Chen, et al. 
+[[Paper](https://arxiv.org/pdf/2301.09506.pdf)] 
+[[Project](https://kyanchen.github.io/OvarNet)] 
+[[Code](https://github.com/KyanChen/OvarNet)]
+
 * Liu, Z., Zhang, Z., Li, D., Zhang, P., & Shan, C. (2022). **Dual-Branch Self-attention Network for Pedestrian Attribute Recognition**. Pattern Recognition Letters.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865522002963)]
 
 * H. Fan, H. -M. Hu, S. Liu, W. Lu and S. Pu, **Correlation Graph Convolutional Network for Pedestrian Attribute Recognition,** in IEEE Transactions on Multimedia, vol. 24, pp. 49-60, 2022, doi: 10.1109/TMM.2020.3045286. [[Paper](https://ieeexplore.ieee.org/document/9296283)]
