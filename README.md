@@ -52,7 +52,12 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 14. Deepfashion dataset: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 15. Video-Based PAR dataset: https://github.com/yuange250/MARS-Attribute 
 16. UAV-Human (CVPR 2021): https://github.com/SUTDCV/UAV-Human 
-17. UPAR: [[Paper](https://arxiv.org/pdf/2209.02522.pdf)] [[WACV2023-Challenge](https://chalearnlap.cvc.uab.cat/challenge/52/description/)] [[Homepage](https://chalearnlap.cvc.uab.cat/dataset/44/description/)] [[GitHub](https://github.com/speckean/upar_challenge)]
+17. UPAR: [[Paper](https://arxiv.org/pdf/2209.02522.pdf)] [[WACV2023-Challenge](https://chalearnlap.cvc.uab.cat/challenge/52/description/)] [[Homepage](https://chalearnlap.cvc.uab.cat/dataset/44/description/)] [[GitHub](https://github.com/speckean/upar_challenge)] 
+18. CelebV-HQ: A Large-Scale Video Facial Attributes Dataset 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670641.pdf)]
+[[Project](https://celebv-hq.github.io/)]
+
+
 
 
 
@@ -118,6 +123,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ## The paper list of person attribute recognition: 
 
 ### Year-2022 
+
+* **Improving Closed and Open-Vocabulary Attribute Prediction using Transformers**, Khoi Pham et al. 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850199.pdf)] 
+[[Project Page](https://vkhoi.github.io/TAP/)]
+
 
 * OvarNet: Towards Open-vocabulary Object Attribute Recognition, Keyan Chen, et al. 
 [[Paper](https://arxiv.org/pdf/2301.09506.pdf)] 
