@@ -124,46 +124,49 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2022 
 
+* **FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute Classification**, Xiaofeng Lin , Seungbae Kim , and Jungseock Joo, 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730414.pdf)] 
+[[Code](https://github.com/Bernardo1998/FairGRAPE)]
+
 * **Improving Closed and Open-Vocabulary Attribute Prediction using Transformers**, Khoi Pham et al. 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850199.pdf)] 
 [[Project Page](https://vkhoi.github.io/TAP/)]
 
-
-* OvarNet: Towards Open-vocabulary Object Attribute Recognition, Keyan Chen, et al. 
+* **OvarNet: Towards Open-vocabulary Object Attribute Recognition**, Keyan Chen, et al. 
 [[Paper](https://arxiv.org/pdf/2301.09506.pdf)] 
 [[Project](https://kyanchen.github.io/OvarNet)] 
 [[Code](https://github.com/KyanChen/OvarNet)]
 
-* Liu, Z., Zhang, Z., Li, D., Zhang, P., & Shan, C. (2022). **Dual-Branch Self-attention Network for Pedestrian Attribute Recognition**. Pattern Recognition Letters.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865522002963)]
+* **Dual-Branch Self-attention Network for Pedestrian Attribute Recognition**. Liu, Z., Zhang, Z., Li, D., Zhang, P., & Shan, C. (2022).  Pattern Recognition Letters.  [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865522002963)]
 
-* H. Fan, H. -M. Hu, S. Liu, W. Lu and S. Pu, **Correlation Graph Convolutional Network for Pedestrian Attribute Recognition,** in IEEE Transactions on Multimedia, vol. 24, pp. 49-60, 2022, doi: 10.1109/TMM.2020.3045286. [[Paper](https://ieeexplore.ieee.org/document/9296283)]
+* **Correlation Graph Convolutional Network for Pedestrian Attribute Recognition,** H. Fan, H. -M. Hu, S. Liu, W. Lu and S. Pu,  in IEEE Transactions on Multimedia, vol. 24, pp. 49-60, 2022, doi: 10.1109/TMM.2020.3045286. [[Paper](https://ieeexplore.ieee.org/document/9296283)]
 
 * **UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval**, Andreas Specker, Mickael Cormier, Jurgen Beyerer, [[Paper](https://arxiv.org/pdf/2209.02522.pdf)]
 
 * **Label2Label: A Language Modeling Framework for Multi-Attribute Learning**, Wanhua Li, Zhexuan Cao, Jianjiang Feng, Jie Zhou, Jiwen Lu, 	ECCV 2022 
 [[Paper](https://arxiv.org/abs/2207.08677)] [[Code](https://github.com/Li-Wanhua/Label2Label)]
 
-* Lv, Jiping, et al. "**Feature Fusion with Non-local for Pedestrian Attribute Recognition**." 2022 2nd International Conference on Bioinformatics and Intelligent Computing. 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3523286.3524581)] 
+* "**Feature Fusion with Non-local for Pedestrian Attribute Recognition**." Lv, Jiping, et al.  2022 2nd International Conference on Bioinformatics and Intelligent Computing. 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3523286.3524581)] 
 
-* Zhao, Ruijie, et al. "**Pedestrian attribute recognition based on attribute correlation**." Multimedia Systems 28.3 (2022): 1069-1081. 
+* "**Pedestrian attribute recognition based on attribute correlation**." Zhao, Ruijie, et al.  Multimedia Systems 28.3 (2022): 1069-1081. 
 [[Paper](https://link.springer.com/article/10.1007/s00530-022-00893-y)]
 
-* Wu, Duidi, et al. "**Overview of Deep Learning Based Pedestrian Attribute Recognition and Reidentification**." Available at SSRN 4082891 (2022). 
+* "**Overview of Deep Learning Based Pedestrian Attribute Recognition and Reidentification**." Wu, Duidi, et al.  Available at SSRN 4082891 (2022). 
 [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082891)]
 
-* Tang, Xikai, Zhikun Lin, and Yiran Wang. "**Pedestrian Attribute Recognition with Feature Combination in Transformer with Attention Model**." International Conference on Computing, Control and Industrial Engineering. Springer, Singapore, 2022.
+* "**Pedestrian Attribute Recognition with Feature Combination in Transformer with Attention Model**." Tang, Xikai, Zhikun Lin, and Yiran Wang.  International Conference on Computing, Control and Industrial Engineering. Springer, Singapore, 2022.
 [[Paper](https://link.springer.com/chapter/10.1007/978-981-19-3927-3_49)]
 
-* Guo, H., Fan, X., & Wang, S. (2022). **Visual Attention Consistency for Human Attribute Recognition**. International Journal of Computer Vision, 130(4), 1088-1106. https://doi.org/10.1007/s11263-022-01591-y [[Paper](https://link.springer.com/article/10.1007/s11263-022-01591-y#citeas)]
+* **Visual Attention Consistency for Human Attribute Recognition**. Guo, H., Fan, X., & Wang, S. (2022).  International Journal of Computer Vision, 130(4), 1088-1106. https://doi.org/10.1007/s11263-022-01591-y [[Paper](https://link.springer.com/article/10.1007/s11263-022-01591-y#citeas)]
 
-* Tang, Zengming, and Jun Huang. "**DRFormer: Learning dual relations using Transformer for pedestrian attribute recognition**." Neurocomputing 497 (2022): 159-169. 
+* "**DRFormer: Learning dual relations using Transformer for pedestrian attribute recognition**." Tang, Zengming, and Jun Huang.  Neurocomputing 497 (2022): 159-169. 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222005598)]
 
-* Wu, J., Huang, Y., Gao, Z., Hong, Y., Zhao, J., & Du, X. (2022). **Inter-Attribute Awareness for Pedestrian Attribute Recognition**. Pattern Recognition, 108865. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003466)]
+* **Inter-Attribute Awareness for Pedestrian Attribute Recognition**. Wu, J., Huang, Y., Gao, Z., Hong, Y., Zhao, J., & Du, X. (2022).  Pattern Recognition, 108865. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003466)]
 
-* Chen, Wei-Chen, Xin-Yi Yu, and Lin-Lin Ou. "**Pedestrian attribute recognition in video surveillance scenarios based on view-attribute attention localization**." Machine Intelligence Research 19.2 (2022): 153-168. [[Paper](https://link.springer.com/content/pdf/10.1007/s11633-022-1321-8.pdf)]
+* "**Pedestrian attribute recognition in video surveillance scenarios based on view-attribute attention localization**." Chen, Wei-Chen, Xin-Yi Yu, and Lin-Lin Ou.  Machine Intelligence Research 19.2 (2022): 153-168. [[Paper](https://link.springer.com/content/pdf/10.1007/s11633-022-1321-8.pdf)]
 
-* Sakib, S.; Deb, K.; Dhar, P.K.; Kwon, O.-J. **A Framework for Pedestrian Attribute Recognition Using Deep Learning**. Appl. Sci. 2022, 12, 622. https://doi.org/10.3390/app12020622 [[Paper](https://www.mdpi.com/2076-3417/12/2/622/htm)] 
+* **A Framework for Pedestrian Attribute Recognition Using Deep Learning**. Sakib, S.; Deb, K.; Dhar, P.K.; Kwon, O.-J.  Appl. Sci. 2022, 12, 622. https://doi.org/10.3390/app12020622 [[Paper](https://www.mdpi.com/2076-3417/12/2/622/htm)] 
 
 * Zhao, Yazhi, et al. "**FLSRNet: pedestrian attribute recognition using focal label smoothing regularization.**" Signal, Image and Video Processing (2022): 1-8. [[Paper](https://link.springer.com/content/pdf/10.1007/s11760-021-02099-7.pdf)]
 
