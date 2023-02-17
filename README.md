@@ -122,6 +122,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ## The paper list of person attribute recognition: 
 
+
+### Year-2023 
+
+
+
 ### Year-2022 
 
 * **FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute Classification**, Xiaofeng Lin , Seungbae Kim , and Jungseock Joo, 
