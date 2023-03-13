@@ -125,6 +125,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **Exploring Attribute Localization and Correlation for Pedestrian Attribute Recognition**[J]. Weng, Dunfang and Tan, Zichang and Fang, Liwei and Guo, Guodong.  Neurocomputing, 2023. 
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223001583)] 
+
+* **Diverse features discovery transformer for pedestrian attribute recognition**[J]. Zheng, Aihua and Wang, Huimin and Wang, Jiaxiang and Huang, Huaibo and He, Ran and Hussain, Amir.  Engineering Applications of Artificial Intelligence, 2023, 119: 105708. 
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006984)]
 
 
 ### Year-2022 
