@@ -125,6 +125,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining**, Shixiang Tang, Cheng Chen, Qingsong Xie, Meilin Chen, Yizhou Wang, Yuanzheng Ci, Lei Bai, Feng Zhu, Haiyang Yang, Li Yi, Rui Zhao, Wanli Ouyang
+[[Paper](https://arxiv.org/pdf/2303.05675.pdf)] 
+[[Code](https://github.com/OpenGVLab/HumanBench)]
+
 * **Exploring Attribute Localization and Correlation for Pedestrian Attribute Recognition**[J]. Weng, Dunfang and Tan, Zichang and Fang, Liwei and Guo, Guodong.  Neurocomputing, 2023. 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223001583)] 
 
