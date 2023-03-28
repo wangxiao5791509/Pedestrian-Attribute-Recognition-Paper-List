@@ -125,6 +125,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+
+* **POAR: Towards Open-World Pedestrian Attribute Recognition**, Yue Zhang, Suchen Wang, Shichao Kan, Zhenyu Weng, Yigang Cen, Yap-peng Tan, 
+[[arXiv](https://arxiv.org/pdf/2303.14643.pdf)] 
+
+
 * **HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining**, Shixiang Tang, Cheng Chen, Qingsong Xie, Meilin Chen, Yizhou Wang, Yuanzheng Ci, Lei Bai, Feng Zhu, Haiyang Yang, Li Yi, Rui Zhao, Wanli Ouyang
 [[Paper](https://arxiv.org/pdf/2303.05675.pdf)] 
 [[Code](https://github.com/OpenGVLab/HumanBench)]
