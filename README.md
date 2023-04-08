@@ -72,7 +72,10 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 4. Person Search Paper List [[Github]](https://github.com/wangxiao5791509/Person-Search-Paper-List)
 
-5. Human Attribute Recognition: A Comprehensive Survey, Yaghoubi, E., Khezeli, F., Borza, D., Kumar, S. A., Neves, J., & Proença, H. (2020). [[Paper](https://www.preprints.org/manuscript/202007.0055/download/final_file)]
+5. Human Attribute Recognition: A Comprehensive Survey, Yaghoubi, E., Khezeli, F., Borza, D., Kumar, S. A., Neves, J., & Proença, H. (2020). [[Paper](https://www.preprints.org/manuscript/202007.0055/download/final_file)] 
+
+6. **监控场景中的行人属性识别研究综述**, 贾健, 陈晓棠, 黄凯奇, 计算机学报，
+[[Paper](http://cjc.ict.ac.cn/online/onlinepaper/jj-202286141700.pdf)] 
 
 
 
