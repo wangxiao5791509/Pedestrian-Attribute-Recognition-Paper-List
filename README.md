@@ -248,6 +248,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2020 
 
+* Wu, Jingjing, Hao Liu, Jianguo Jiang, Meibin Qi, Bo Ren, Xiaohong Li, and Yashen Wang. "**Person attribute recognition by sequence contextual relation learning.**" IEEE Transactions on Circuits and Systems for Video Technology 30, no. 10 (2020): 3398-3412. 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045945)]
+
 * H. An, H. -M. Hu, Y. Guo, Q. Zhou and B. Li, "**Hierarchical Reasoning Network for Pedestrian Attribute Recognition**," in IEEE Transactions on Multimedia, vol. 23, pp. 268-280, 2021, doi: 10.1109/TMM.2020.2975417. [[Paper](https://ieeexplore.ieee.org/abstract/document/9005186)]
 
 * Deep Template Matching for Pedestrian Attribute Recognition with the Auxiliary Supervision of Attribute-wise Keypoints, Jiajun Zhang, Pengyuan Ren, Jianmin Li, [[arXiv](https://arxiv.org/pdf/2011.06798.pdf)]
