@@ -255,6 +255,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2020 
 
+* "**Attribute-aware pedestrian detection in a crowd.**" Zhang, Jialiang, Lixiang Lin, Jianke Zhu, Yang Li, Yun-chen Chen, Yao Hu, and Steven CH Hoi.  IEEE Transactions on Multimedia 23 (2020): 3085-3097. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184102)]
+
 * Wu, Jingjing, Hao Liu, Jianguo Jiang, Meibin Qi, Bo Ren, Xiaohong Li, and Yashen Wang. "**Person attribute recognition by sequence contextual relation learning.**" IEEE Transactions on Circuits and Systems for Video Technology 30, no. 10 (2020): 3398-3412. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045945)]
 
