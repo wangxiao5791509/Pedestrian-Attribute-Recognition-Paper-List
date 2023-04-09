@@ -137,7 +137,7 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 [[arXiv](https://arxiv.org/pdf/2303.14643.pdf)] 
 
 
-* **HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining**, Shixiang Tang, Cheng Chen, Qingsong Xie, Meilin Chen, Yizhou Wang, Yuanzheng Ci, Lei Bai, Feng Zhu, Haiyang Yang, Li Yi, Rui Zhao, Wanli Ouyang
+* **HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining**, Shixiang Tang, Cheng Chen, Qingsong Xie, Meilin Chen, Yizhou Wang, Yuanzheng Ci, Lei Bai, Feng Zhu, Haiyang Yang, Li Yi, Rui Zhao, Wanli Ouyang, CVPR-2023 
 [[Paper](https://arxiv.org/pdf/2303.05675.pdf)] 
 [[Code](https://github.com/OpenGVLab/HumanBench)]
 
