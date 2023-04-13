@@ -128,10 +128,14 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
-* Cormier, M., Specker, A., Junior, J., Jacques, C. S., Florin, L., Metzler, J., ... & Beyerer, J. (2023). **UPAR Challenge: Pedestrian Attribute Recognition and Attribute-Based Person Retrieval--Dataset, Design, and Results.** In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 166-175). 
+* **Learning Transferable Pedestrian Representation from Multimodal Information Supervision**, Liping Bao, Longhui Wei, Xiaoyu Qiu, Wengang Zhou, Houqiang Li, Qi Tian  [[Paper](https://arxiv.org/pdf/2304.05554.pdf)]
+
+
+
+* **UPAR Challenge: Pedestrian Attribute Recognition and Attribute-Based Person Retrieval--Dataset, Design, and Results.** In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 166-175). Cormier, M., Specker, A., Junior, J., Jacques, C. S., Florin, L., Metzler, J., ... & Beyerer, J. (2023). 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Cormier_UPAR_Challenge_Pedestrian_Attribute_Recognition_and_Attribute-Based_Person_Retrieval_--_WACVW_2023_paper.pdf)]
 
-* Lu, W. Q., Hu, H. M., Yu, J., Zhou, Y., & Wang, H. (2023). **Orientation-Aware Pedestrian Attribute Recognition based on Graph Convolution Network.** IEEE Transactions on Multimedia. [[Paper](https://ieeexplore.ieee.org/abstract/document/10078344)]
+* **Orientation-Aware Pedestrian Attribute Recognition based on Graph Convolution Network.** Lu, W. Q., Hu, H. M., Yu, J., Zhou, Y., & Wang, H. (2023).  IEEE Transactions on Multimedia. [[Paper](https://ieeexplore.ieee.org/abstract/document/10078344)]
 
 * **POAR: Towards Open-World Pedestrian Attribute Recognition**, Yue Zhang, Suchen Wang, Shichao Kan, Zhenyu Weng, Yigang Cen, Yap-peng Tan, 
 [[arXiv](https://arxiv.org/pdf/2303.14643.pdf)] 
