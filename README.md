@@ -128,6 +128,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**, Jun Zhu, Jiandong Jin, Zihan Yang, Xiaohao Wu, Xiao Wang, CVPR-2023 Workshop@NFVLR (New Frontiers in Visual Language Reasoning: Compositionality, Prompts and Causality). 
+[[Paper](https://arxiv.org/abs/2304.10091)]
+[[Code](https://github.com/Event-AHU/VTF_PAR)]
+
 * **PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition**, Xinwen Fan, Yukang Zhang, Yang Lu, and Hanzi Wang 
 [[Paper](https://arxiv.org/pdf/2304.07230.pdf)] 
 [[Code](https://github.com/xwf199/PARFormer)]
