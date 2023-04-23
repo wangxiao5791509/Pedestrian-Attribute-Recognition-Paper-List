@@ -128,6 +128,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **Beyond Appearance: a Semantic Controllable Self-Supervised Learning Framework for Human-Centric Visual Tasks**, Weihua Chen, Xianzhe Xu, Jian Jia, Hao luo, Yaohua Wang, Fan Wang, Rong Jin, Xiuyu Sun, 
+[[Paper](https://arxiv.org/pdf/2303.17602.pdf)] 
+[[Code](https://github.com/tinyvision/SOLIDER)] 
+
 * **Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**, Jun Zhu, Jiandong Jin, Zihan Yang, Xiaohao Wu, Xiao Wang, CVPR-2023 Workshop@NFVLR (New Frontiers in Visual Language Reasoning: Compositionality, Prompts and Causality). 
 [[Paper](https://arxiv.org/abs/2304.10091)]
 [[Code](https://github.com/Event-AHU/VTF_PAR)]
