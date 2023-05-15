@@ -9,7 +9,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 ## Update Log：
 
 
-### :fire: [October-14-2022] PAR CONTEST at 20th International Conference on Computer Analysis of Images and Patterns - CAIP 2023 👇
+### :fire: [Submission Deadline: June 30th, 2023] PAR CONTEST at 20th International Conference on Computer Analysis of Images and Patterns - CAIP 2023 👇
 * [PAR CONTEST 2023](https://mivia.unisa.it/par2023/) 
 
 ### :fire: [October-14-2022] Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV! 👇
