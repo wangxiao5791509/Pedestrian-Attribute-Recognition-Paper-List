@@ -132,6 +132,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **PLIP: Language-Image Pre-training for Person Representation Learning**, Jialong Zuo Changqian Yu Nong Sang Changxin Gao, 
+[[Paper](https://arxiv.org/pdf/2305.08386.pdf)] 
+[[Code](https://github.com/Zplusdragon/PLIP)]
+
 * **Beyond Appearance: a Semantic Controllable Self-Supervised Learning Framework for Human-Centric Visual Tasks**, Weihua Chen, Xianzhe Xu, Jian Jia, Hao luo, Yaohua Wang, Fan Wang, Rong Jin, Xiuyu Sun, CVPR-2023 
 [[Paper](https://arxiv.org/pdf/2303.17602.pdf)] 
 [[Code](https://github.com/tinyvision/SOLIDER)] 
