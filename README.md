@@ -552,3 +552,13 @@ Feris, Rogerio, Russel Bobbitt, Lisa Brown, and Sharath Pankanti. "[Attribute-ba
 Liu, Jingen, Benjamin Kuipers, and Silvio Savarese. "Recognizing human actions by attributes." In Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on, pp. 3337-3344. IEEE, 2011.
 
 Shao, Jing, Kai Kang, Chen Change Loy, and Xiaogang Wang. "Deeply learned attributes for crowded scene understanding." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4657-4666. 2015.
+
+
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List&type=Date)](https://star-history.com/#wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List&Date)
+
+
