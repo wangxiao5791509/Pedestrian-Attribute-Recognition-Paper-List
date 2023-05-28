@@ -189,7 +189,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 * **Correlation Graph Convolutional Network for Pedestrian Attribute Recognition,** H. Fan, H. -M. Hu, S. Liu, W. Lu and S. Pu,  in IEEE Transactions on Multimedia, vol. 24, pp. 49-60, 2022, doi: 10.1109/TMM.2020.3045286. [[Paper](https://ieeexplore.ieee.org/document/9296283)]
 
-* **UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval**, Andreas Specker, Mickael Cormier, Jurgen Beyerer, [[Paper](https://arxiv.org/pdf/2209.02522.pdf)]
+* **UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval**, Andreas Specker, Mickael Cormier, Jurgen Beyerer, In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 981-990. 2023. 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Specker_UPAR_Unified_Pedestrian_Attribute_Recognition_and_Person_Retrieval_WACV_2023_paper.pdf)] 
+[[Dataset](https://github.com/speckean/upar_dataset)]
+
 
 * **Label2Label: A Language Modeling Framework for Multi-Attribute Learning**, Wanhua Li, Zhexuan Cao, Jianjiang Feng, Jie Zhou, Jiwen Lu, 	ECCV 2022 
 [[Paper](https://arxiv.org/abs/2207.08677)] [[Code](https://github.com/Li-Wanhua/Label2Label)]
