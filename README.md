@@ -133,7 +133,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2023 
 
 
-
+* **"Incremental Pedestrian Attribute Recognition via Dual Uncertainty-Aware Pseudo-Labeling."** Li, Da, Zhang Zhang, Caifeng Shan, and Liang Wang.  IEEE Transactions on Information Forensics and Security (2023).
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10106077)]
 
 * **On Adversarial Robustness of Demographic Fairness in Face Attribute Recognition**, Huimin Zeng, Zhenrui Yue, Lanyu Shang, Yang Zhang, Dong Wang, IJCAI-2023  
 [[Paper]()] 
