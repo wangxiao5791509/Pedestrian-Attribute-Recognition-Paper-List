@@ -133,6 +133,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2023 
 
 
+* **Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**, Shuyu Yang, Yinan Zhou, Yaxiong Wang, Yujiao Wu, Li Zhu, Zhedong Zheng 
+[[Paper](https://arxiv.org/pdf/2306.02898.pdf)]
+
 * **"Incremental Pedestrian Attribute Recognition via Dual Uncertainty-Aware Pseudo-Labeling."** Li, Da, Zhang Zhang, Caifeng Shan, and Liang Wang.  IEEE Transactions on Information Forensics and Security (2023).
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10106077)]
 
