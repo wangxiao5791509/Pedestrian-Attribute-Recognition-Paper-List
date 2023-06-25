@@ -84,7 +84,7 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 
 
 
-## Recommeded Code:
+## Recommended Code:
 
 * **A Simple Visual-Textual Baseline for Pedestrian Attribute Recognition**, Xinhua Cheng;Mengxi Jia;Qian Wang;Jian Zhang, IEEE TCSVT-2022
 [[Paper](https://ieeexplore.ieee.org/document/9782406)] [[Code](https://github.com/cxh0519/VTB)]
@@ -132,6 +132,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+
+* **"A novel self-boosting dual-branch model for pedestrian attribute recognition."** Cao, Yilu, Yuchun Fang, Yaofang Zhang, Xiaoyu Hou, Kunlin Zhang, and Wei Huang.  Signal Processing: Image Communication 115 (2023): 116961.
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0923596523000437)]
 
 * **Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**, Shuyu Yang, Yinan Zhou, Yaxiong Wang, Yujiao Wu, Li Zhu, Zhedong Zheng 
 [[Paper](https://arxiv.org/pdf/2306.02898.pdf)]
