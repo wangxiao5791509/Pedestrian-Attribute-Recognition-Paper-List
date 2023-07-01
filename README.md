@@ -133,6 +133,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2023 
 
 
+* **Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis**,  Yang Jiao, Yan Gao, Jingjing Meng, Jin Shang, Yi Sun
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf)] 
+
 * **"A novel self-boosting dual-branch model for pedestrian attribute recognition."** Cao, Yilu, Yuchun Fang, Yaofang Zhang, Xiaoyu Hou, Kunlin Zhang, and Wei Huang.  Signal Processing: Image Communication 115 (2023): 116961.
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0923596523000437)]
 
