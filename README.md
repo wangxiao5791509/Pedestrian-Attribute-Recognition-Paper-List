@@ -192,6 +192,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2022 
 
+* "**YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition**." Roxo, Tiago, and Hugo Proença.  IEEE Access 10 (2022): 28122-28132.
+[[Paper](https://arxiv.org/pdf/2107.06847v2.pdf)] 
+[[Code](https://github.com/Tiago-Roxo/YinYang-Net)] 
+
 * **FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute Classification**, Xiaofeng Lin , Seungbae Kim , and Jungseock Joo, 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730414.pdf)] 
 [[Code](https://github.com/Bernardo1998/FairGRAPE)]
