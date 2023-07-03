@@ -133,6 +133,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2023 
 
 
+* **PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition**, Xinwen Fan, Yukang Zhang, Yang Lu, and Hanzi Wang,
+[[Paper](https://arxiv.org/pdf/2304.07230v1.pdf)]
+[[Code](https://github.com/xwf199/parformer)] 
+
 * **Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis**,  Yang Jiao, Yan Gao, Jingjing Meng, Jin Shang, Yi Sun
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf)] 
 
