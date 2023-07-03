@@ -164,9 +164,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 [[Paper](https://arxiv.org/abs/2304.10091)]
 [[Code](https://github.com/Event-AHU/VTF_PAR)]
 
-* **PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition**, Xinwen Fan, Yukang Zhang, Yang Lu, and Hanzi Wang 
-[[Paper](https://arxiv.org/pdf/2304.07230.pdf)] 
-[[Code](https://github.com/xwf199/PARFormer)]
+* "**PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition.**" Fan, Xinwen, Yukang Zhang, Yang Lu, and Hanzi Wang.  IEEE Transactions on Circuits and Systems for Video Technology (2023).
+[[arXiv](https://arxiv.org/pdf/2304.07230.pdf)] 
+[[IEEE](https://ieeexplore.ieee.org/abstract/document/10148996)] 
+[[Code](https://github.com/xwf199/PARFormer)] 
 
 * **Learning Transferable Pedestrian Representation from Multimodal Information Supervision**, Liping Bao, Longhui Wei, Xiaoyu Qiu, Wengang Zhou, Houqiang Li, Qi Tian  [[Paper](https://arxiv.org/pdf/2304.05554.pdf)]
 
