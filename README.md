@@ -134,6 +134,12 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **"Identity-Aware Contrastive Knowledge Distillation for Facial Attribute Recognition."** Chen, Si, Xueyan Zhu, Yan Yan, Shunzhi Zhu, Shao-Zi Li, and Da-Han Wang.  IEEE Transactions on Circuits and Systems for Video Technology (2023).
+[[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10064142)]  
+
+* **"Learning Weak Semantics by Feature Graph for Attribute-Based Person Search."** Peng, Qiyang, Lingxiao Yang, Xiaohua Xie, and Jianhuang Lai. IEEE Transactions on Image Processing 32 (2023): 2580-2592.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113879)] 
+
 * **Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis**,  Yang Jiao, Yan Gao, Jingjing Meng, Jin Shang, Yi Sun
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf)] 
 
