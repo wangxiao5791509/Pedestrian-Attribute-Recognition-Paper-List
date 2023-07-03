@@ -9,17 +9,19 @@ Performance comparison on the PETA and RAP dataset from 2014 to 2020. We can fin
 ## Update Log：
 
 
-### :fire: [Submission Deadline: June 30th, 2023] PAR CONTEST at 20th International Conference on Computer Analysis of Images and Patterns - CAIP 2023 👇
+#### :fire: [July-03-2023] PAR on Paper with Code: [[Link](https://paperswithcode.com/task/pedestrian-attribute-recognition)]
+
+#### :fire: [Submission Deadline: June 30th, 2023] PAR CONTEST at 20th International Conference on Computer Analysis of Images and Patterns - CAIP 2023 👇
 * [PAR CONTEST 2023](https://mivia.unisa.it/par2023/) 
 
-### :fire: [October-14-2022] Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV! 👇
+#### :fire: [October-14-2022] Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge at WACV! 👇
 * [WACV'23 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge](https://chalearnlap.cvc.uab.cat/challenge/52/description/) | **Data  available!** 
 
-### :fire: [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. 
+#### :fire: [July-31-2021] Our paper is finally accepted by journal **Pattern Recognition**! The journal version is slightly different from our arxiv version. 
 
-### :fire: Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
+#### :fire: Welcome to our wechat group for further discussion, please scan this [code](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/QQ%E5%9B%BE%E7%89%8720190117165910.png) Or scan this to add my [wechat](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/mywechat.jpg) [Please tell me your Name + School/Company].  
 
-### :fire: If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com Please consider to cite this paper, if you find this survey useful for your research. 
+#### :fire: If you find more related papers about person attribute recognition, please email me: wangxiaocvpr@foxmail.com Please consider to cite this paper, if you find this survey useful for your research. 
 [[arXiv paper](https://arxiv.org/pdf/1901.07474.pdf)]  [[High Resolution version](https://drive.google.com/open?id=1Q-E3Kt7sc7dlaTLHIsR9X9EvQ6y2yR_O)]  [[Project-page](https://sites.google.com/view/ahu-pedestrianattributes/)] [[PR Version](https://www.sciencedirect.com/science/article/pii/S0031320321004015)] 
 
 ~~~
