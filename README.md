@@ -134,6 +134,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **Attribute-Image Person Re-identification via Modal-Consistent Metric Learning.** Zhu, J., Liu, L., Zhan, Y. et al.  Int J Comput Vis (2023). https://doi.org/10.1007/s11263-023-01841-7
+[[Paper](https://link.springer.com/article/10.1007/s11263-023-01841-7#citeas)] 
+
 * **"Identity-Aware Contrastive Knowledge Distillation for Facial Attribute Recognition."** Chen, Si, Xueyan Zhu, Yan Yan, Shunzhi Zhu, Shao-Zi Li, and Da-Han Wang.  IEEE Transactions on Circuits and Systems for Video Technology (2023).
 [[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10064142)]  
 
