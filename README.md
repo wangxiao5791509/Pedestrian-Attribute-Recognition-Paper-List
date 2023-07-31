@@ -158,8 +158,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 * **On Adversarial Robustness of Demographic Fairness in Face Attribute Recognition**, Huimin Zeng, Zhenrui Yue, Lanyu Shang, Yang Zhang, Dong Wang, IJCAI-2023  
 [[Paper]()] 
 
-* **A Solution to Co-occurence Bias: Attributes Disentanglement via Mutual Information Minimization for Pedestrian Attribute Recognition**, Yibo Zhou, Hai-Miao Hu, Jinzuo Yu, Zhenbo Xu, Weiqing Lu, Yuran Cao, IJCAI-2023  
-[[Paper]()] 
+* **A Solution to Co-occurrence Bias: Attributes Disentanglement via Mutual Information Minimization for Pedestrian Attribute Recognition**, Yibo Zhou, Hai-Miao Hu, Jinzuo Yu, Zhenbo Xu, Weiqing Lu, Yuran Cao, IJCAI-2023  
+[[Paper](https://arxiv.org/pdf/2307.15252.pdf)] 
 
 * **PLIP: Language-Image Pre-training for Person Representation Learning**, Jialong Zuo Changqian Yu Nong Sang Changxin Gao, 
 [[Paper](https://arxiv.org/pdf/2305.08386.pdf)] 
