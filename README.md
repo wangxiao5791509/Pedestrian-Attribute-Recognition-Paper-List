@@ -1,5 +1,6 @@
-# Pedestrian-Attribute-Recognition-Paper-List [[Survey-Paper](https://arxiv.org/pdf/1901.07474.pdf)]
-The paper list of person attribute recognition 
+# A Comprehensive Survey on Pedestrian Attribute Recognition 
+> **Pedestrian attribute recognition: A survey**. Xiao Wang, Shaofei Zheng, Rui Yang, Aihua Zheng, Zhe Chen, Jin Tang, and Bin Luo (2022). Pattern Recognition, 121, 108220.
+
 ![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
 
 
