@@ -201,7 +201,7 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 * **Orientation-Aware Pedestrian Attribute Recognition based on Graph Convolution Network.** Lu, W. Q., Hu, H. M., Yu, J., Zhou, Y., & Wang, H. (2023).  IEEE Transactions on Multimedia. [[Paper](https://ieeexplore.ieee.org/abstract/document/10078344)]
 
-* **POAR: Towards Open-World Pedestrian Attribute Recognition**, Yue Zhang, Suchen Wang, Shichao Kan, Zhenyu Weng, Yigang Cen, Yap-peng Tan, 
+* **[MM ’23]** **POAR: Towards Open-World Pedestrian Attribute Recognition**, Yue Zhang, Suchen Wang, Shichao Kan, Zhenyu Weng, Yigang Cen, Yap-peng Tan, 
 [[arXiv](https://arxiv.org/pdf/2303.14643.pdf)] 
 
 
