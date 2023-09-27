@@ -150,6 +150,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* [ICCV-2023] **Learning Concise and Descriptive Attributes for Visual Recognition**, An Yan, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Yang Wang, Jingbo Shang, Julian McAuley
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Learning_Concise_and_Descriptive_Attributes_for_Visual_Recognition_ICCV_2023_paper.pdf)]
+
+* **[ICCV-2023] Interaction-aware Joint Attention Estimation Using People Attributes**, Chihiro Nakatani, Hiroaki Kawashima, Norimichi Ukita, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Nakatani_Interaction-aware_Joint_Attention_Estimation_Using_People_Attributes_ICCV_2023_paper.pdf)] [[Code](https://github.com/chihina/)] 
+
 * **AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes**, Yunhao Li, Zhen Xiao, Lin Yang, Dan Meng, Xin Zhou, Heng Fan, Libo Zhang,
 [[Paper](https://arxiv.org/pdf/2308.07537.pdf)] 
  
