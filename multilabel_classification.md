@@ -1,11 +1,13 @@
 
 
 
+* **[ICCV-2023] Knowledge Restore and Transfer for Multi-Label Class-Incremental Learning**, Songlin Dong, Haoyu Luo, Yuhang He, Xing Wei, Jie Cheng, Yihong Gong [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Knowledge_Restore_and_Transfer_for_Multi-Label_Class-Incremental_Learning_ICCV_2023_paper.pdf)]
 
+* [ICCV-2023] BoMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.pdf)] [[Code](https://github.com/cyh-0/BoMD)] 
 
+* **[ICCV-2023] PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification** [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PatchCT_Aligning_Patch_Set_and_Label_Set_with_Conditional_Transport_ICCV_2023_paper.pdf)]
 
-
-
+* **[ICCV-2023] CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification**, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelfattah_CDUL_CLIP-Driven_Unsupervised_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf)]
 
 * **[ICCV-2023] Multi-Label Self-Supervised Learning with Scene Images**, Ke Zhu Minghao Fu Jianxin Wu [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Multi-Label_Self-Supervised_Learning_with_Scene_Images_ICCV_2023_paper.pdf)]
 
