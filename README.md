@@ -150,6 +150,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **[NeurIPS 2023]** "**Learning to Parameterize Visual Attributes for Open-set Fine-grained Retrieval.**" Wang, Shijie, Jianlong Chang, Haojie Li, Zhihui Wang, Wanli Ouyang, and Qi Tian.  In Thirty-seventh Conference on Neural Information Processing Systems. 2023. [[Paper](https://openreview.net/pdf?id=SaII5qMgKH)] 
+
 * **[NeurIPS 2023] HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**, [[Homepage](https://zhangxinyu-xyz.github.io/hap.github.io/)] [[Github](https://github.com/junkunyuan/HAP)]
 
 * **[ICCV-2023] Interaction-aware Joint Attention Estimation Using People Attributes**, Chihiro Nakatani, Hiroaki Kawashima, Norimichi Ukita, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Nakatani_Interaction-aware_Joint_Attention_Estimation_Using_People_Attributes_ICCV_2023_paper.pdf)] [[Code](https://github.com/chihina/)] 
