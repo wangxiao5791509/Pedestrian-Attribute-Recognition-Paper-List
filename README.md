@@ -150,6 +150,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* [arXiv] **LogicNet: A Logical Consistency Embedded Face Attribute Learning Network**, Haiyu Wu, Sicong Tian, Huayu Li, Kevin W. Bowyer
+  [[Paper](https://arxiv.org/pdf/2311.11208.pdf)]
+
 * **[NeurIPS 2023]** "**Learning to Parameterize Visual Attributes for Open-set Fine-grained Retrieval.**" Wang, Shijie, Jianlong Chang, Haojie Li, Zhihui Wang, Wanli Ouyang, and Qi Tian.  In Thirty-seventh Conference on Neural Information Processing Systems. 2023. [[Paper](https://openreview.net/pdf?id=SaII5qMgKH)] 
 
 * **[NeurIPS 2023] HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**, [[Homepage](https://zhangxinyu-xyz.github.io/hap.github.io/)] [[Github](https://github.com/junkunyuan/HAP)]
