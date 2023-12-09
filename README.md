@@ -150,6 +150,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* [arXiv-2023] **Hulk: A Universal Knowledge Translator for Human-Centric Tasks**， Yizhou Wang*, Yixuan Wu*, Shixiang Tang, Weizhen He, Xun Guo, Feng Zhu, Lei Bai, Rui Zhao, Jian Wu, Tong He, Wanli Ouyang,
+  [[Paper](https://arxiv.org/pdf/2312.01697.pdf)]
+  [[Code](https://github.com/OpenGVLab/HumanBench)] 
+
 * [arXiv-2023] **SequencePAR: Understanding Pedestrian Attributes via A Sequence Generation Paradigm**, Jiandong Jin, Xiao Wang*, Chenglong Li, Lili Huang, Jin Tang,
   [[Paper](https://arxiv.org/abs/2312.01640)]
   [[Code](https://github.com/Event-AHU/OpenPAR)] 
