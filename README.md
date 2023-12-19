@@ -150,7 +150,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
-* [PR-2023] SSPNet: Scale and spatial priors guided generalizable and interpretable pedestrian attribute recognition, Jifeng Shena, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang 
+* [arXiv-2023] **Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**, Xiao Wang, Jiandong Jin, Chenglong Li, Jin Tang, Cheng Zhang, Wei Wang
+[[arXiv](https://arxiv.org/abs/2312.10692)]
+[[Code](https://github.com/Event-AHU/OpenPAR)]
+
+* [PR-2023] **SSPNet: Scale and spatial priors guided generalizable and interpretable pedestrian attribute recognition**, Jifeng Shena, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang 
   [[Paper](https://arxiv.org/pdf/2312.06049.pdf)]
   [[Code](https://github.com/guotengg/SSPNet)] 
  
