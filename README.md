@@ -150,6 +150,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+
+* [ACM MCCA] "**Pedestrian Attribute Recognition via Spatio-Temporal Relationship Learning for Visual Surveillance.**" Liu, Zhenyu, Da Li, Xinyu Zhang, Zhang Zhang, Peng Zhang, Caifeng Shan, and Jungong Han. ACM Transactions on Multimedia Computing, Communications and Applications (2023).
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3632624)]
+
+
 * [arXiv-2023] **Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**, Xiao Wang, Jiandong Jin, Chenglong Li, Jin Tang, Cheng Zhang, Wei Wang
 [[arXiv](https://arxiv.org/abs/2312.10692)]
 [[Code](https://github.com/Event-AHU/OpenPAR)]
