@@ -19,6 +19,8 @@ Performance comparison on the PETA and RAP datasets from 2014 to 2020. We can fi
 ## Update Log：
 
 
+#### :fire: [Dec-20-2023] We maintain an open source PAR toolkit at [[OpenPAR](https://github.com/Event-AHU/OpenPAR)]
+
 #### :fire: [Sep-14-2023] Pedestrian Attribute Recognition and Person Retrieval Challenge at WACV-2024 [[Homepage](https://chalearnlap.cvc.uab.cat/challenge/57/description/)] 
 
 #### :fire: [July-03-2023] PAR on Paper with Code: [[Link](https://paperswithcode.com/task/pedestrian-attribute-recognition)]
