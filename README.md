@@ -106,6 +106,9 @@ Please consider citing this paper, if you find this survey useful for your resea
 
 ## Recommended Code:
 
+
+* [**OpenPAR**] An open-source framework for Pedestrian Attribute Recognition, based on PyTorch [[Link](https://github.com/Event-AHU/OpenPAR)]
+
 * **A Simple Visual-Textual Baseline for Pedestrian Attribute Recognition**, Xinhua Cheng;Mengxi Jia;Qian Wang;Jian Zhang, IEEE TCSVT-2022
 [[Paper](https://ieeexplore.ieee.org/document/9782406)] [[Code](https://github.com/cxh0519/VTB)]
 
