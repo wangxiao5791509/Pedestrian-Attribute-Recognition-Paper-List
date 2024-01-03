@@ -153,8 +153,13 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ## The paper list of person attribute recognition: 
 
 
-### Year-2023 
 
+### Year-2024 
+
+
+
+
+### Year-2023 
 
 * [Book-Chapter] **"Facial Attribute Analysis."** Handbook of Face Recognition. Wan, Jun, Zichang Tan, and Ajian Liu. Cham: Springer International Publishing, 2023. 171-207.
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43567-6_6)]
