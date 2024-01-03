@@ -156,6 +156,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2023 
 
 
+* [Book-Chapter] **"Facial Attribute Analysis."** Handbook of Face Recognition. Wan, Jun, Zichang Tan, and Ajian Liu. Cham: Springer International Publishing, 2023. 171-207.
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43567-6_6)]
+
 * [ACM MCCA] "**Pedestrian Attribute Recognition via Spatio-Temporal Relationship Learning for Visual Surveillance.**" Liu, Zhenyu, Da Li, Xinyu Zhang, Zhang Zhang, Peng Zhang, Caifeng Shan, and Jungong Han. ACM Transactions on Multimedia Computing, Communications and Applications (2023).
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3632624)]
 
