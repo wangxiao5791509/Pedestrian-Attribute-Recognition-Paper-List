@@ -156,6 +156,19 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* Thakare, Kamalakar Vijay, et al. "**Let's Observe Them Over Time: An Improved Pedestrian Attribute Recognition Approach**." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2024.
+  [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Thakare_Lets_Observe_Them_Over_Time_An_Improved_Pedestrian_Attribute_Recognition_WACV_2024_paper.pdf)]
+
+* Bui, Doanh C., Thinh V. Le, and Ba Hung Ngo. "**C2T-Net: Channel-Aware Cross-Fused Transformer-Style Networks for Pedestrian Attribute Recognition**." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2024.
+  [[Paper](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Bui_C2T-Net_Channel-Aware_Cross-Fused_Transformer-Style_Networks_for_Pedestrian_Attribute_Recognition_WACVW_2024_paper.pdf)]
+  [[Code](https://github.com/caodoanh2001/upar_challenge)]
+
+* Wu, Peishu, et al. "**KD-PAR: A knowledge distillation-based pedestrian attribute recognition model with multi-label mixed feature learning network**." Expert Systems with Applications 237 (2024): 121305.
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423018079)]
+
+* Cormier, Mickael, et al. "**UPAR Challenge 2024: Pedestrian Attribute Recognition and Attribute-Based Person Retrieval-Dataset, Design, and Results.**" Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2024.
+  [[Paper](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Cormier_UPAR_Challenge_2024_Pedestrian_Attribute_Recognition_and_Attribute-Based_Person_Retrieval_WACVW_2024_paper.pdf)]
+  [[Code](https://github.com/speckean/upar_challenge)]
 
 
 
