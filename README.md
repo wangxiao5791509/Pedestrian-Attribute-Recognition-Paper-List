@@ -174,6 +174,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* Wu, Junyi, et al. "**Exponential information bottleneck theory against intra-attribute variations for pedestrian attribute recognition.**" IEEE Transactions on Information Forensics and Security (2023).
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10238746)] 
+ 
 * [Book-Chapter] **"Facial Attribute Analysis."** Handbook of Face Recognition. Wan, Jun, Zichang Tan, and Ajian Liu. Cham: Springer International Publishing, 2023. 171-207.
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43567-6_6)]
 
