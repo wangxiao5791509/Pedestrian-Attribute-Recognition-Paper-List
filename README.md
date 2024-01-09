@@ -174,6 +174,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* Song, Xu, et al. "**Gait Attribute Recognition: A New Benchmark for Learning Richer Attributes from Human Gait Patterns.**" IEEE Transactions on Information Forensics and Security (2023).
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10262050)] 
+
 * Wu, Junyi, et al. "**Exponential information bottleneck theory against intra-attribute variations for pedestrian attribute recognition.**" IEEE Transactions on Information Forensics and Security (2023).
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10238746)] 
  
