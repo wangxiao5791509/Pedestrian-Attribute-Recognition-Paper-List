@@ -156,6 +156,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* **Masked Attribute Description Embedding for Cloth-Changing Person Re-identification**, Chunlei Peng, Boyu Wang, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao
+  [[Paper](https://arxiv.org/pdf/2401.05646.pdf)]
+  [[Code](https://github.com/moon-wh/MADE)]
+
 * Thakare, Kamalakar Vijay, et al. "**Let's Observe Them Over Time: An Improved Pedestrian Attribute Recognition Approach**." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2024.
   [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Thakare_Lets_Observe_Them_Over_Time_An_Improved_Pedestrian_Attribute_Recognition_WACV_2024_paper.pdf)]
 
