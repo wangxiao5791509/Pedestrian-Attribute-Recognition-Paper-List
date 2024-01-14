@@ -156,6 +156,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+
+* [AAAI-2024] **Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification**, Yajing Zhai1,2*, Yawen Zeng1*, Zhiyong Huang, Zheng Qin1†, Xin Jin2†, Da Cao 
+  [[Paper](https://arxiv.org/pdf/2312.16797.pdf)]
+  [[Code](https://github.com/zyj20/MPReID)]
+
 * **Masked Attribute Description Embedding for Cloth-Changing Person Re-identification**, Chunlei Peng, Boyu Wang, Decheng Liu, Nannan Wang, Ruimin Hu, Xinbo Gao
   [[Paper](https://arxiv.org/pdf/2401.05646.pdf)]
   [[Code](https://github.com/moon-wh/MADE)]
