@@ -156,6 +156,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+
+* [AAAI-2024] **Object Attribute Matters in Visual Question Answering**, Peize Li, Qingyi Si, Peng Fu, Zheng Lin, Yan Wang
+  [[Paper](https://arxiv.org/pdf/2401.09442.pdf)]
+
 * [AAAI-2024] **Selective and Orthogonal Feature Activation for Pedestrian Attribute Recognition** Junyi Wu; Yan Huang; Min Gao; Yuzhen Niu; Mingjing Yang; Zhipeng Gao; Jianqiang Zhao 
 
 * [AAAI-2024] **Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification**, Yajing Zhai1,2*, Yawen Zeng1*, Zhiyong Huang, Zheng Qin1†, Xin Jin2†, Da Cao 
