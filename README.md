@@ -157,6 +157,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* **Deep Learning for Multi-Label Learning: A Comprehensive Survey**, Adane Nega Tarekegn, Mohib Ullah, Faouzi Alaya Cheikh
+  [[Paper](https://arxiv.org/abs/2401.16549)] 
+
 * [AAAI-2024] **Object Attribute Matters in Visual Question Answering**, Peize Li, Qingyi Si, Peng Fu, Zheng Lin, Yan Wang
   [[Paper](https://arxiv.org/pdf/2401.09442.pdf)]
 
