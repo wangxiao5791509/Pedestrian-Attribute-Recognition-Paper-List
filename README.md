@@ -156,7 +156,6 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
-
 * **Deep Learning for Multi-Label Learning: A Comprehensive Survey**, Adane Nega Tarekegn, Mohib Ullah, Faouzi Alaya Cheikh
   [[Paper](https://arxiv.org/abs/2401.16549)] 
 
@@ -644,7 +643,11 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 
 
 ## Applications (Person Attribute based Tasks)
-## Person Re-ID based on Attributes
+## Person Re-ID based on Attributes 
+
+* **Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions**, Weizhen He, Yiheng Deng, Shixiang Tang, Qihao Chen, Qingsong Xie, Yizhou Wang, Lei Bai, Feng Zhu, Rui Zhao, Wanli Ouyang, Donglian Qi, Yunfeng Yan
+  [[Paper](https://arxiv.org/abs/2306.07520)]
+  [[Code](https://github.com/hwz-zju/Instruct-ReID)] 
 
 * T. Chai, Z. Chen, A. Li, J. Chen, X. Mei and Y. Wang, "**Video Person Re-identification Using Attribute-enhanced Features**," in IEEE Transactions on Circuits and Systems for Video Technology, 2022, doi: 10.1109/TCSVT.2022.3189027. [[Paper](https://ieeexplore.ieee.org/abstract/document/9817378)]
 
