@@ -156,6 +156,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [CVPR-2024] **Learning Group Activity Features Through Person Attribute Prediction**, Chihiro Nakatani, Hiroaki Kawashima, Norimichi Ukita
+  [[Paper](https://arxiv.org/abs/2403.02753)]
+  [[Code](https://github.com/chihina/GAFL-CVPR2024)] 
+
 * **Deep Learning for Multi-Label Learning: A Comprehensive Survey**, Adane Nega Tarekegn, Mohib Ullah, Faouzi Alaya Cheikh
   [[Paper](https://arxiv.org/abs/2401.16549)] 
 
