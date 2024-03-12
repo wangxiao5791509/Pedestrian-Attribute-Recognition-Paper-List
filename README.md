@@ -106,7 +106,6 @@ Please consider citing this paper, if you find this survey useful for your resea
 
 ## Recommended Code:
 
-
 * [**OpenPAR**] An open-source framework for Pedestrian Attribute Recognition, based on PyTorch [[Link](https://github.com/Event-AHU/OpenPAR)]
 
 * **A Simple Visual-Textual Baseline for Pedestrian Attribute Recognition**, Xinhua Cheng;Mengxi Jia;Qian Wang;Jian Zhang, IEEE TCSVT-2022
@@ -156,6 +155,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+
+* **CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval**,
+  Doanh C. Bui, Thinh V. Le, Hung Ba Ngo, Tae Jong Choi
+  [[Paper](https://arxiv.org/abs/2403.06119)] 
 
 * [CVPR-2024] **Distributionally Generative Augmentation for Fair Facial Attribute Classification**,
   Fengda Zhang, Qianpei He, Kun Kuang, Jiashuo Liu, Long Chen, Chao Wu, Jun Xiao, Hanwang Zhang
