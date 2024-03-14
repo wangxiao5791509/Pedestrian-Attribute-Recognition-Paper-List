@@ -202,6 +202,13 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2023 
 
+* **"Evaluation of a Visual Question Answering Architecture for Pedestrian Attribute Recognition."** Castrillón-Santana, Modesto, et al.  International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2023.
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44237-7_2)]
+
+* **"PAR Contest 2023: pedestrian attributes recognition with multi-task learning."** Greco, Antonio, and Bruno Vento. International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2023.
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44237-7_1)]
+  [[Project Page](https://mivia.unisa.it/par2023/)] 
+
 * Song, Xu, et al. "**Gait Attribute Recognition: A New Benchmark for Learning Richer Attributes from Human Gait Patterns.**" IEEE Transactions on Information Forensics and Security (2023).
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10262050)] 
 
