@@ -156,6 +156,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* **Private Attribute Inference from Images with Vision-Language Models**, arXiv:2404.10618, 
+  Batuhan Tömekçe, Mark Vero, Robin Staab, Martin Vechev
+  [[Paper](https://arxiv.org/abs/2404.10618)]
+  [[Code](https://github.com/eth-sri/privacy-inference-multimodal)] 
+ 
 * **CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval**,
   Doanh C. Bui, Thinh V. Le, Hung Ba Ngo, Tae Jong Choi
   [[Paper](https://arxiv.org/abs/2403.06119)] 
