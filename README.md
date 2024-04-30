@@ -156,6 +156,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, arXiv:2404.17929, 
+  Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian 
+  [[Paper](https://arxiv.org/abs/2404.17929)] 
+  [[Code](https://github.com/Event-AHU/OpenPAR)] 
+  
 * **Private Attribute Inference from Images with Vision-Language Models**, arXiv:2404.10618, 
   Batuhan Tömekçe, Mark Vero, Robin Staab, Martin Vechev
   [[Paper](https://arxiv.org/abs/2404.10618)]
