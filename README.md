@@ -159,6 +159,7 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 * **Balanced Pedestrian Attribute Recognition**, ICML 2024 
   Yibo Zhou · Hai-Miao Hu · Yirong Xiang · Xiaokang Zhang · Haotian Wu
   [[Paper](https://icml.cc/virtual/2024/poster/34695)]
+  [[Code](https://github.com/SDret/Pedestrian-Attribute-Recognition-as-Label-balanced-Multi-label-Learning)] 
 
 * **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, arXiv:2404.17929, 
   Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian 
