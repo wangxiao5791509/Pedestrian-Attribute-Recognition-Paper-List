@@ -156,6 +156,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* **Balanced Pedestrian Attribute Recognition**, ICML 2024 
+  Yibo Zhou · Hai-Miao Hu · Yirong Xiang · Xiaokang Zhang · Haotian Wu
+  [[Paper](https://icml.cc/virtual/2024/poster/34695)]
+
 * **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, arXiv:2404.17929, 
   Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian 
   [[Paper](https://arxiv.org/abs/2404.17929)] 
@@ -673,6 +677,10 @@ Bourdev, Lubomir, Subhransu Maji, and Jitendra Malik. "Describing people: A pose
 
 ## Applications (Person Attribute based Tasks)
 ## Person Re-ID based on Attributes 
+
+* Specker, Andreas, and Jürgen Beyerer. "**Balanced pedestrian attribute recognition for improved attribute-based person retrieval.**"
+  2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS). IEEE, 2023.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10178990)] 
 
 * **Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions**, Weizhen He, Yiheng Deng, Shixiang Tang, Qihao Chen, Qingsong Xie, Yizhou Wang, Lei Bai, Feng Zhu, Rui Zhao, Wanli Ouyang, Donglian Qi, Yunfeng Yan
   [[Paper](https://arxiv.org/abs/2306.07520)]
