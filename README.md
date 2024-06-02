@@ -156,11 +156,17 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* **Distributionally Generative Augmentation for Fair Facial Attribute Classification**, Fengda Zhang, Qianpei He, Kun Kuang, Jiashuo Liu, Long Chen, Chao Wu, Jun Xiao, Hanwang Zhang
+  [[Paper](https://arxiv.org/abs/2403.06606)]
+  [[Code](https://github.com/heqianpei/DiGA)] 
+
+* **Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability**, Yan Huang, Zhang Zhang, Qiang Wu, Yi Zhong, Liang Wang
+  [[Paper]()]
+
 * [ICML 2024] **Pedestrian Attribute Recognition as Label-balanced Multi-label Learning**, arXiv:2405.04858, 
   Yibo Zhou, Hai-Miao Hu, Yirong Xiang, Xiaokang Zhang, Haotian Wu
   [[Paper](https://arxiv.org/abs/2405.04858)] 
   [[Code](https://github.com/SDret/Pedestrian-Attribute-Recognition-as-Label-balanced-Multi-label-Learning)] 
-
 
 * **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, arXiv:2404.17929, 
   Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian 
