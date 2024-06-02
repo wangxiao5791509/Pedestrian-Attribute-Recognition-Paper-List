@@ -182,10 +182,6 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
   Doanh C. Bui, Thinh V. Le, Hung Ba Ngo, Tae Jong Choi
   [[Paper](https://arxiv.org/abs/2403.06119)] 
 
-* [CVPR-2024] **Distributionally Generative Augmentation for Fair Facial Attribute Classification**,
-  Fengda Zhang, Qianpei He, Kun Kuang, Jiashuo Liu, Long Chen, Chao Wu, Jun Xiao, Hanwang Zhang
-  [[Paper](https://arxiv.org/abs/2403.06606)] 
-
 * [CVPR-2024] **Learning Group Activity Features Through Person Attribute Prediction**, Chihiro Nakatani, Hiroaki Kawashima, Norimichi Ukita
   [[Paper](https://arxiv.org/abs/2403.02753)]
   [[Code](https://github.com/chihina/GAFL-CVPR2024)] 
