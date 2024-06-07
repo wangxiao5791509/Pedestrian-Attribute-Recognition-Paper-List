@@ -155,6 +155,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [arXiv:2406.03721] **Attribute-Aware Implicit Modality Alignment for Text Attribute Person Search**, Xin Wang, Fangfang Liu, Zheng Li, Caili Guo
+  [[Paper](https://arxiv.org/abs/2406.03721)] 
 
 * **Distributionally Generative Augmentation for Fair Facial Attribute Classification**, Fengda Zhang, Qianpei He, Kun Kuang, Jiashuo Liu, Long Chen, Chao Wu, Jun Xiao, Hanwang Zhang
   [[Paper](https://arxiv.org/abs/2403.06606)]
