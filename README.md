@@ -162,8 +162,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
   [[Paper](https://arxiv.org/abs/2403.06606)]
   [[Code](https://github.com/heqianpei/DiGA)] 
 
-* **Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability**, Yan Huang, Zhang Zhang, Qiang Wu, Yi Zhong, Liang Wang
-  [[Paper]()]
+* [CVPR 2024] **Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability**, Yan Huang, Zhang Zhang, Qiang Wu, Yi Zhong, Liang Wang
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Attribute-Guided_Pedestrian_Retrieval_Bridging_Person_Re-ID_with_Internal_Attribute_Variability_CVPR_2024_paper.pdf)]
 
 * [ICML 2024] **Pedestrian Attribute Recognition as Label-balanced Multi-label Learning**, arXiv:2405.04858, 
   Yibo Zhou, Hai-Miao Hu, Yirong Xiang, Xiaokang Zhang, Haotian Wu
