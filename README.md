@@ -155,6 +155,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+
+* [IJCV 2024] Chen, Keyan, et al. "**OV-DAR: Open-Vocabulary Object Detection and Attributes Recognition.**" International Journal of Computer Vision (2024): 1-23.
+  [[Paper](https://link.springer.com/article/10.1007/s11263-024-02144-1)] 
+
 * [arXiv:2406.03721] **Attribute-Aware Implicit Modality Alignment for Text Attribute Person Search**, Xin Wang, Fangfang Liu, Zheng Li, Caili Guo
   [[Paper](https://arxiv.org/abs/2406.03721)] 
 
