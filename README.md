@@ -454,6 +454,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2020 
 
+* Li Y, Xu H, Bian M, et al. **Attention based CNN-ConvLSTM for pedestrian attribute recognition**[J]. Sensors, 2020, 20(3): 811.
+  [[Paper](https://www.mdpi.com/1424-8220/20/3/811)] 
+
 * **"An evaluation of design choices for pedestrian attribute recognition in video."** Specker, Andreas, Arne Schumann, and Jürgen Beyerer.  In 2020 IEEE International Conference on Image Processing (ICIP), pp. 2331-2335. IEEE, 2020. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9191264)]
 
@@ -546,6 +549,11 @@ Liu, P., Liu, X., Yan, J., & Shao, J. (2018). Localization guided learning for p
 
 
 ### Year-2017 
+
+* Ji, Zhong, Weixiong Zheng, and Yanwei Pang. **"Deep pedestrian attribute recognition based on LSTM."**
+  2017 IEEE International Conference on Image Processing (ICIP). IEEE, 2017.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/8296261)]  
+
 Fabbri, Matteo, Simone Calderara, and Rita Cucchiara. "Generative adversarial models for people attribute recognition in surveillance." In Advanced Video and Signal Based Surveillance (AVSS), 2017 14th IEEE International Conference on, pp. 1-6. IEEE, 2017. 
 
 Guo, Qi, Ce Zhu, Zhiqiang Xia, Zhengtao Wang, and Yipeng Liu. "Attribute-controlled face photo synthesis from simple line drawing." In Image Processing (ICIP), 2017 IEEE International Conference on, pp. 2946-2950. IEEE, 2017. Paper
