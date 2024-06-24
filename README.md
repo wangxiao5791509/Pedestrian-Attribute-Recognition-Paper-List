@@ -571,7 +571,8 @@ Guo, Qi, Ce Zhu, Zhiqiang Xia, Zhengtao Wang, and Yipeng Liu. "Attribute-control
 
 Hand, Emily M., and Rama Chellappa. "Attributes for Improved Attributes: A Multi-Task Network Utilizing Implicit and Explicit Relationships for Facial Attribute Classification." In AAAI, pp. 4068-4074. 2017.
 
-Wang, Jingya, Xiatian Zhu, Shaogang Gong, and Wei Li. "Attribute Recognition by Joint Recurrent Learning of Context and Correlation." In Computer Vision (ICCV), 2017 IEEE International Conference on, pp. 531-540. IEEE, 2017.
+Wang, Jingya and Zhu, Xiatian and Gong, Shaogang and Li, Wei (2017). **Attribute recognition by joint recurrent learning of context and correlation.** In Proceedings of the IEEE International Conference on Computer Vision (pp. 531-540). 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Attribute_Recognition_by_ICCV_2017_paper.pdf)] 
 
 Wang, Z., Chen, T., Li, G., Xu, R., & Lin, L. (2017, October). Multi-label Image Recognition by Recurrently Discovering Attentional Regions. In Computer Vision (ICCV), 2017 IEEE International Conference on (pp. 464-472). IEEE. Paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf Code: https://github.com/James-Yip/AttentionImageClass
 
