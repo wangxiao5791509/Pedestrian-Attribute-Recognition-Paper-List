@@ -452,7 +452,14 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 * **"Jointly human semantic parsing and attribute recognition with feature pyramid structure in EfficientNets."** Moghaddam, Mahnaz, Mostafa Charmi, and Hossein Hassanpoor. IET Image Processing (2021). [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ipr2.12195)] 
 
 
+
+
+
+
+
 ### Year-2020 
+
+* Li, Qiaozhe, et al. "**Recurrent prediction with spatio-temporal attention for crowd attribute recognition.**" IEEE Transactions on Circuits and Systems for Video Technology 30.7 (2019): 2167-2177. [[Paper](https://ieeexplore.ieee.org/abstract/document/8737965)] 
 
 * Li Y, Xu H, Bian M, et al. **Attention based CNN-ConvLSTM for pedestrian attribute recognition**[J]. Sensors, 2020, 20(3): 811.
   [[Paper](https://www.mdpi.com/1424-8220/20/3/811)] 
