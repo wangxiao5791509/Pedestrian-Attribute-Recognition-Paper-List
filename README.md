@@ -156,6 +156,12 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+
+
+
+* Zhang, Shun, et al. "**MRG-T: Mask-Relation-Guided Transformer for Remote Vision-Based Pedestrian Attribute Recognition in Aerial Imagery.**" Remote Sensing 16.7 (2024): 1216.
+  [[Paper](https://www.mdpi.com/2072-4292/16/7/1216)] 
+
 * [IJCV 2024] Chen, Keyan, et al. "**OV-DAR: Open-Vocabulary Object Detection and Attributes Recognition.**" International Journal of Computer Vision (2024): 1-23.
   [[Paper](https://link.springer.com/article/10.1007/s11263-024-02144-1)] 
 
