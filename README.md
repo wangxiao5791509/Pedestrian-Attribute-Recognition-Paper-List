@@ -155,9 +155,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* 
 
-
-
+* Li, B., Zhang, L., Teng, S., & Xueqiang, L. Y. U. (2024). **Attribute correlation mask fusion network for pedestrian attribute recognition**.
+  [[Paper](https://www.researchsquare.com/article/rs-4292609/latest.pdf)]
 
 * Zhang, Shun, et al. "**MRG-T: Mask-Relation-Guided Transformer for Remote Vision-Based Pedestrian Attribute Recognition in Aerial Imagery.**" Remote Sensing 16.7 (2024): 1216.
   [[Paper](https://www.mdpi.com/2072-4292/16/7/1216)] 
