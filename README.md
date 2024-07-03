@@ -155,6 +155,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+
+* Sun, Haoyun, et al. "**Adaptive Multi-Task Learning for Multi-PAR in Real-World.**" IEEE Journal of Radio Frequency Identification (2024).
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10454582/)] 
+
 * Yuran, Cao, et al. "**Pedestrian Attribute Recognition in Surveillance Scenario: A Survey and Future Perspectives on Frame vs. Video Based Methods.**"
   中文题目: 监控场景下基于单帧与视频数据的行人属性识别方法综述及展望
   Journal of Computer-Aided Design & Computer Graphics 36.3 (2024): 336-356.
