@@ -155,7 +155,15 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
-* 
+* Yuran, Cao, et al. "**Pedestrian Attribute Recognition in Surveillance Scenario: A Survey and Future Perspectives on Frame vs. Video Based Methods.**"
+  中文题目: 监控场景下基于单帧与视频数据的行人属性识别方法综述及展望
+  Journal of Computer-Aided Design & Computer Graphics 36.3 (2024): 336-356.
+  中文期刊名称：计算机辅助设计与图形学学报 
+  [[Paper](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2024.2023-00362)]
+  
+
+* [CVPR-2024] **Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability**, Yan Huang, Zhang Zhang, Qiang Wu, Yi Zhong, Liang Wang; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 17689-17699
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Attribute-Guided_Pedestrian_Retrieval_Bridging_Person_Re-ID_with_Internal_Attribute_Variability_CVPR_2024_paper.html)] 
 
 * Li, B., Zhang, L., Teng, S., & Xueqiang, L. Y. U. (2024). **Attribute correlation mask fusion network for pedestrian attribute recognition**.
   [[Paper](https://www.researchsquare.com/article/rs-4292609/latest.pdf)]
