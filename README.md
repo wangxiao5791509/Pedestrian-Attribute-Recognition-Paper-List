@@ -156,6 +156,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* Zhou, Yunfei, and Xiangrui Zeng. "**Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition**." Robotics and Autonomous Systems 171 (2024): 104580.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889023002191)] 
+
 * Sun, Haoyun, et al. "**Adaptive Multi-Task Learning for Multi-PAR in Real-World.**" IEEE Journal of Radio Frequency Identification (2024).
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10454582/)] 
 
