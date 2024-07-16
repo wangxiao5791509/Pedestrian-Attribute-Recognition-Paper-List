@@ -156,6 +156,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* [arXiv:2407.10374] **An Empirical Study of Mamba-based Pedestrian Attribute Recognition**, Xiao Wang, Weizhe Kong, Jiandong Jin, Shiao Wang, Ruichong Gao, Qingchuan Ma, Chenglong Li, Jin Tang
+  [[Paper](https://arxiv.org/abs/2407.10374)]
+  [[Code](https://github.com/Event-AHU/OpenPAR)]
+
 * Zhou, Yunfei, and Xiangrui Zeng. "**Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition**." Robotics and Autonomous Systems 171 (2024): 104580.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889023002191)] 
 
