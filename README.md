@@ -155,6 +155,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [arXiv:2408.00096] **From Attributes to Natural Language: A Survey and Foresight on Text-based Person Re-identification**,
+  Fanzhi Jiang, Su Yang, Mark W. Jones, Liumei Zhang
+  [[Paper](https://arxiv.org/abs/2408.00096)] 
+
 * [arXiv:2407.20920] **SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**,
   Hao Tan, Zichang Tan, Jun Li, Jun Wan, Zhen Lei, Stan Z. Li
   [[Paper](https://arxiv.org/abs/2407.20920)] 
