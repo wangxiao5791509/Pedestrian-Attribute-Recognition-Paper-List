@@ -155,6 +155,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [arXiv:2407.20920] **SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**,
+  Hao Tan, Zichang Tan, Jun Li, Jun Wan, Zhen Lei, Stan Z. Li
+  [[Paper](https://arxiv.org/abs/2407.20920)] 
 
 * [arXiv:2407.10374] **An Empirical Study of Mamba-based Pedestrian Attribute Recognition**, Xiao Wang, Weizhe Kong, Jiandong Jin, Shiao Wang, Ruichong Gao, Qingchuan Ma, Chenglong Li, Jin Tang
   [[Paper](https://arxiv.org/abs/2407.10374)]
