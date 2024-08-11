@@ -155,6 +155,12 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [ECCV 2024] **ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**,
+  William Y. Zhu, Keren Ye, Junjie Ke, Jiahui Yu, Leonidas Guibas, Peyman Milanfar, Feng Yang
+  [[Paper](https://arxiv.org/abs/2408.04102)]
+  [[Code](https://github.com/google-research/google-research/tree/master/attribute_with_prefixlm)]
+  [[Dataset](https://www.kaggle.com/datasets/googleai/vgarank)]
+  
 * [arXiv:2408.00096] **From Attributes to Natural Language: A Survey and Foresight on Text-based Person Re-identification**,
   Fanzhi Jiang, Su Yang, Mark W. Jones, Liumei Zhang
   [[Paper](https://arxiv.org/abs/2408.00096)] 
