@@ -155,6 +155,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [arXiv:2408.09720] **Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework**,
+  Jiandong Jin, Xiao Wang, Qian Zhu, Haiyang Wang, Chenglong Li, arXiv Pre-print arXiv:2408.09720, 2024
+  [[Paper](https://arxiv.org/abs/2408.09720)]
+  [[Code](https://github.com/Event-AHU/OpenPAR)]
+  
 * [ECCV 2024] **ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**,
   William Y. Zhu, Keren Ye, Junjie Ke, Jiahui Yu, Leonidas Guibas, Peyman Milanfar, Feng Yang
   [[Paper](https://arxiv.org/abs/2408.04102)]
