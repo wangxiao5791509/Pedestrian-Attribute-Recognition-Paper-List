@@ -18,6 +18,7 @@ Performance comparison on the PETA and RAP datasets from 2014 to 2020. We can fi
 
 ## Update Log：
 
+#### :fire: [Aug-20-2024] A new large-scale benchmark dataset for PAR [MSP60K] is released at [[MSP60K](https://github.com/Event-AHU/OpenPAR)]
 
 #### :fire: [Dec-20-2023] We maintain an open source PAR toolkit at [[OpenPAR](https://github.com/Event-AHU/OpenPAR)]
 
@@ -60,7 +61,9 @@ Please consider citing this paper, if you find this survey useful for your resea
 
 
 ## Dataset:
-1. PETA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
+
+0. **MSP60K Dataset**: [https://github.com/Event-AHU/OpenPAR](https://github.com/Event-AHU/OpenPAR)
+1. PETA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html 
 2. RAP Dataset: http://rap.idealtest.org/
 3. PA-100K Dataset: https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M
 4. WIDER Attribute Dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERAttribute.html
