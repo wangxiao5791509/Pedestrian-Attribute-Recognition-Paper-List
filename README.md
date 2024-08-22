@@ -158,6 +158,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [IJCAI 2024] **Cross-modal Generation and Alignment via Attribute-guided Prompt for Unsupervised Text-based Person Retrieval**,
+  Zongyi Li, Jianbo Li, Yuxuan Shi, Hefei Ling, Jiazhong Chen, Runsheng Wang, Shijuan Huang
+  [[Paper](https://www.ijcai.org/proceedings/2024/116)]
+  
 * [arXiv:2408.09720] **Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework**,
   Jiandong Jin, Xiao Wang, Qian Zhu, Haiyang Wang, Chenglong Li, arXiv Pre-print arXiv:2408.09720, 2024
   [[Paper](https://arxiv.org/abs/2408.09720)]
