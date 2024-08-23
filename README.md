@@ -158,6 +158,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [arXiv:2408.12086] **Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy**,
+  Hong Zhang, Yixuan Lyu, Qian Yu, Hanyang Liu, Huimin Ma, Ding Yuan, Yifan Yang
+  [[Paper](https://arxiv.org/abs/2408.12086)]
+  [[Code](https://github.com/lyu-yx/ACUMEN)] 
+
 * [arXiv:2408.12569, ECCV 2024 Oral] **Sapiens: Foundation for Human Vision Models**,
   Rawal Khirodkar, Timur Bagautdinov, Julieta Martinez, Su Zhaoen, Austin James, Peter Selednik, Stuart Anderson, Shunsuke Saito 
   [[Paper](https://arxiv.org/abs/2408.12569)]
