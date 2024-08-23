@@ -152,7 +152,7 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 
 
-## The paper list of person attribute recognition: 
+## Paper list for PAR/Attribute Related Tasks  
 
 
 
