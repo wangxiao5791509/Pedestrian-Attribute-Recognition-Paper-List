@@ -158,6 +158,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [arXiv:2408.12569, ECCV 2024 Oral] **Sapiens: Foundation for Human Vision Models**,
+  Rawal Khirodkar, Timur Bagautdinov, Julieta Martinez, Su Zhaoen, Austin James, Peter Selednik, Stuart Anderson, Shunsuke Saito 
+  [[Paper](https://arxiv.org/abs/2408.12569)]
+  [[Code](https://about.meta.com/realitylabs/codecavatars/sapiens)] 
+  
 * [IJCAI 2024] **Cross-modal Generation and Alignment via Attribute-guided Prompt for Unsupervised Text-based Person Retrieval**,
   Zongyi Li, Jianbo Li, Yuxuan Shi, Hefei Ling, Jiazhong Chen, Runsheng Wang, Shijuan Huang
   [[Paper](https://www.ijcai.org/proceedings/2024/116)]
