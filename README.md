@@ -19,6 +19,8 @@ Performance comparison on the PETA and RAP datasets from 2014 to 2020. We can fi
 ## Update Log：
 
 #### :fire: [Aug-20-2024] A new large-scale benchmark dataset for PAR [MSP60K] is released at [[MSP60K](https://github.com/Event-AHU/OpenPAR)]
+<img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/statics.jpg" width="800">
+
 
 #### :fire: [Dec-20-2023] We maintain an open source PAR toolkit at [[OpenPAR](https://github.com/Event-AHU/OpenPAR)]
 
