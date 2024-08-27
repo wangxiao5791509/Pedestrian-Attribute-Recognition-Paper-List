@@ -18,6 +18,11 @@ Performance comparison on the PETA and RAP datasets from 2014 to 2020. We can fi
 
 ## Update Log：
 
+
+#### :fire: [Aug-27-2024] Slides for the talk [Pedestrian Attribute Recognition in the Big Model Era] 
+<img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PARtalk.png" width="800">
+
+
 #### :fire: [Aug-20-2024] A new large-scale benchmark dataset for PAR [MSP60K] is released at [[MSP60K](https://github.com/Event-AHU/OpenPAR)]
 <img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/dataset_comparison.jpg" width="800">
 <img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/MSP60k_result.png" width="800">
