@@ -22,18 +22,12 @@ Performance comparison on the PETA and RAP datasets from 2014 to 2020. We can fi
 #### :fire: [Aug-27-2024] Slides for the talk [[Pedestrian Attribute Recognition in the Big Model Era](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PAR-CSIG-2024.08.27.pdf)] 
 <img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PARtalk.png" width="800">
 
-
 #### :fire: [Aug-20-2024] A new large-scale benchmark dataset for PAR [MSP60K] is released at [[MSP60K](https://github.com/Event-AHU/OpenPAR)]
 <img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/dataset_comparison.jpg" width="800">
 <img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/MSP60k_result.png" width="800">
 
-
-
 #### :fire: [Dec-20-2023] We maintain an open source PAR toolkit at [[OpenPAR](https://github.com/Event-AHU/OpenPAR)]
 <img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/openPARimg.png" width="800">
-
-
-
 
 #### :fire: [Sep-14-2023] Pedestrian Attribute Recognition and Person Retrieval Challenge at WACV-2024 [[Homepage](https://chalearnlap.cvc.uab.cat/challenge/57/description/)] 
 
@@ -171,6 +165,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+* [arXiv:2408.13898] **Evaluating Attribute Comprehension in Large Vision-Language Models**,
+  Haiwen Zhang, Zixi Yang, Yuanzhi Liu, Xinran Wang, Zheqi He, Kongming Liang, Zhanyu Ma
+  [[Paper](https://arxiv.org/abs/2408.13898)]
+  [[Code](https://github.com/ZHWWWWW/Attribute-Comprehension-of-VLMs)] 
+  
 * [arXiv:2408.12086] **Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy**,
   Hong Zhang, Yixuan Lyu, Qian Yu, Hanyang Liu, Huimin Ma, Ding Yuan, Yifan Yang
   [[Paper](https://arxiv.org/abs/2408.12086)]
