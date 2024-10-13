@@ -165,6 +165,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2024 
 
+
+* [arXiv:2410.07857] **SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**, Haiyang Wang, Qian Zhu, Mowen She, Yabo Li, Haoyu Song, Minghe Xu, Xiao Wang
+  [[Paper](https://arxiv.org/abs/2410.07857)]
+  [[Code](https://github.com/Event-AHU/OpenPAR)]
+  
 * [arXiv:2408.13898] **Evaluating Attribute Comprehension in Large Vision-Language Models**,
   Haiwen Zhang, Zixi Yang, Yuanzhi Liu, Xinran Wang, Zheqi He, Kongming Liang, Zhanyu Ma
   [[Paper](https://arxiv.org/abs/2408.13898)]
