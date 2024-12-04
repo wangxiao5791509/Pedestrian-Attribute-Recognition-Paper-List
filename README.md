@@ -166,6 +166,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2024 
 
 
+* **Cerberus: Attribute-based person re-identification using semantic IDs**,
+  Chanho Eom, Geon Lee, Kyunghwan Cho, Hyeonseok Jung, Moonsub Jin, Bumsub Ham
+  [[Paper](https://arxiv.org/abs/2412.01048)] 
+
 * [arXiv:2410.24148] **Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**, 
   Nouar AlDahoul, Myles Joshua Toledo Tan, Harishwar Reddy Kasireddy, Yasir Zaki
   [[Paper](https://arxiv.org/abs/2410.24148)] 
