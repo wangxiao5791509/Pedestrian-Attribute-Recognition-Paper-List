@@ -163,8 +163,15 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 
 
-### Year-2024 
+### Year-2025 
 
+* [arXiv:2501.01243] **Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**,
+  Lixiong Qin, Shilong Ou, Miaoxuan Zhang, Jiangning Wei, Yuhang Zhang, Xiaoshuai Song, Yuchen Liu, Mei Wang, Weiran Xu
+  [[Paper](https://arxiv.org/abs/2501.01243)] 
+
+
+
+### Year-2024 
 
 * [AAAI-2025] **Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework**, 
   Jiandong Jin, Xiao Wang, Qian Zhu, Haiyang Wang, Chenglong Li, arXiv Pre-print arXiv:2408.09720, 2024
