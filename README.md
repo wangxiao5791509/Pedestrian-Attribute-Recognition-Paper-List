@@ -1,7 +1,11 @@
 # A Comprehensive Survey on Pedestrian Attribute Recognition 
 > **Pedestrian attribute recognition: A survey**. Xiao Wang, Shaofei Zheng, Rui Yang, Aihua Zheng, Zhe Chen, Jin Tang, and Bin Luo (2022). Pattern Recognition, 121, 108220.
 
-![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png)
+![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/person-attribute-recognition.png) 
+
+![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PARmodels.jpg) 
+
+
 
 
 ![Illustration of PAR](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PETA_rap_results.jpg) 
