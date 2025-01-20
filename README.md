@@ -170,7 +170,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 * [MIR] **AdaGPAR: Generalizable Pedestrian Attribute Recognition via Test-time Adaptation**.
-  Li, D., Zhang, Z., Zhang, Y., Jia, Z., & Shan, C. (2025).  Machine Intelligence Research, 1-14.
+  Li, D., Zhang, Z., Zhang, Y., Jia, Z., & Shan, C. (2025).  Machine Intelligence Research, 1-14. 
+  [[Paper](https://www.mi-research.net/en/article/pdf/preview/10.1007/s11633-024-1504-6.pdf)] 
 
 * [arXiv:2501.01243] **Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**,
   Lixiong Qin, Shilong Ou, Miaoxuan Zhang, Jiangning Wei, Yuhang Zhang, Xiaoshuai Song, Yuchen Liu, Mei Wang, Weiran Xu
