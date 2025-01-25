@@ -169,6 +169,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2025 
 
+
+* Zhou, Yibo, et al. "**Heterogeneous Feature Re-sampling for Balanced Pedestrian Attribute Recognition.**" 
+  IEEE Transactions on Pattern Analysis & Machine Intelligence 01 (2025): 1-17.
+  [[Paper](https://www.computer.org/csdl/journal/tp/5555/01/10847947/23GxUN0B1MA)]
+
 * [MIR] **AdaGPAR: Generalizable Pedestrian Attribute Recognition via Test-time Adaptation**.
   Li, D., Zhang, Z., Zhang, Y., Jia, Z., & Shan, C. (2025).  Machine Intelligence Research, 1-14. 
   [[Paper](https://www.mi-research.net/en/article/pdf/preview/10.1007/s11633-024-1504-6.pdf)] 
