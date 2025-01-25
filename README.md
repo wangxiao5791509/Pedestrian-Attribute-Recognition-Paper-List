@@ -169,6 +169,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2025 
 
+
+* [AAAI-2025] **RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition**,
+  Chenye Wang,Saihui Hou,Aoqi Li,Qingyuan Cai, Yongzhen Huang
+
 * Yang, Y., Leng, J., Liu, F., Hu, Y., Xu, K., & Gao, C. (2024, August).
   **Recognition of Pedestrian Attributes based on Multimodal Features**.
   In Proceedings of the 2024 4th International Conference on Internet of Things and Machine Learning (pp. 167-174).
