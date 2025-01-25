@@ -169,7 +169,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2025 
 
-
+* Yang, Y., Leng, J., Liu, F., Hu, Y., Xu, K., & Gao, C. (2024, August).
+  **Recognition of Pedestrian Attributes based on Multimodal Features**.
+  In Proceedings of the 2024 4th International Conference on Internet of Things and Machine Learning (pp. 167-174).
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/3697467.3697631)]
+  
 * Zhou, Yibo, et al. "**Heterogeneous Feature Re-sampling for Balanced Pedestrian Attribute Recognition.**" 
   IEEE Transactions on Pattern Analysis & Machine Intelligence 01 (2025): 1-17.
   [[Paper](https://www.computer.org/csdl/journal/tp/5555/01/10847947/23GxUN0B1MA)]
