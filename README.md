@@ -169,7 +169,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2025 
 
-
+* [CVPR-2025] **Enhanced Visual-Semantic Interaction with Tailored Prompts for Pedestrian Attribute Recognition**,
+  Junyi Wu · Yan Huang · Min Gao · Yuzhen Niu · Yuzhong Chen · Qiang Wu
+  [[Paper]()]
+  
 * [AAAI-2025] **RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition**,
   Chenye Wang,Saihui Hou,Aoqi Li,Qingyuan Cai, Yongzhen Huang
 
