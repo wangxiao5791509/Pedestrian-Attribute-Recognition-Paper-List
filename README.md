@@ -22,6 +22,8 @@ Performance comparison on the PETA and RAP datasets from 2014 to 2020. We can fi
 
 ## Update Log：
 
+#### :fire: [April-10-2025]  PAR CONTEST 2025 at 21st International Conference on Computer Analysis of Images and Patterns - CAIP 2025 👇
+* [PAR CONTEST 2025](https://mivia.unisa.it/par2025/)
 
 #### :fire: [Aug-27-2024] Slides for the talk [[Pedestrian Attribute Recognition in the Big Model Era](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PAR-CSIG-2024.08.27.pdf)] 
 <img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PARtalk.png" width="800">
