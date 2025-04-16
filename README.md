@@ -22,18 +22,22 @@ Performance comparison on the PETA and RAP datasets from 2014 to 2020. We can fi
 
 ## Update Log：
 
+
+#### :fire: [April-16-2025] A new large-scale RGB-Event dataset for PAR [EventPAR] is released at [[EventPAR](https://github.com/Event-AHU/OpenPAR)]
+<img src="https://github.com/Event-AHU/OpenPAR/blob/main/EventPAR_Benchmark/figures/dataset_sample.jpg" width="800">
+
 #### :fire: [April-10-2025]  PAR CONTEST 2025 at 21st International Conference on Computer Analysis of Images and Patterns - CAIP 2025 👇
 * [PAR CONTEST 2025](https://mivia.unisa.it/par2025/)
 
 #### :fire: [Aug-27-2024] Slides for the talk [[Pedestrian Attribute Recognition in the Big Model Era](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PAR-CSIG-2024.08.27.pdf)] 
-<img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PARtalk.png" width="800">
+<img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/PARtalk.png" width="600">
 
 #### :fire: [Aug-20-2024] A new large-scale benchmark dataset for PAR [MSP60K] is released at [[MSP60K](https://github.com/Event-AHU/OpenPAR)]
-<img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/dataset_comparison.jpg" width="800">
-<img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/MSP60k_result.png" width="800">
+<img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/dataset_comparison.jpg" width="600">
+<img src="https://github.com/Event-AHU/OpenPAR/blob/main/MSP60K_Benchmark_Dataset/figures/MSP60k_result.png" width="600">
 
 #### :fire: [Dec-20-2023] We maintain an open source PAR toolkit at [[OpenPAR](https://github.com/Event-AHU/OpenPAR)]
-<img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/openPARimg.png" width="800">
+<img src="https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List/blob/master/openPARimg.png" width="600">
 
 #### :fire: [Sep-14-2023] Pedestrian Attribute Recognition and Person Retrieval Challenge at WACV-2024 [[Homepage](https://chalearnlap.cvc.uab.cat/challenge/57/description/)] 
 
