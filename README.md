@@ -176,6 +176,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [arXiv:2505.23313] **Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition**,
+  Weizhe Kong, Xiao Wang*, Ruichong Gao, Chenglong Li*, Yu Zhang, Xing Yang, Yaowei Wang, Jin Tang,  
+  [[Paper](https://arxiv.org/abs/2505.23313)]
+  [[Code](https://github.com/Event-AHU/OpenPAR)]
+
 * **RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework**, Xiao Wang, Haiyang Wang, Shiao Wang, Qiang Chen, Jiandong Jin, Haoyu Song, Bo Jiang*, Chenglong Li, arXiv:2504.10018
   [[Paper](https://arxiv.org/abs/2504.10018)]
   [[Code](https://github.com/Event-AHU/OpenPAR)]
