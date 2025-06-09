@@ -176,6 +176,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [CVPR-2025] **Compositional Caching for Training-free Open-vocabulary Attribute Detection**, 
+  Marco Garosi1 Alessandro Conti1 Gaowen Liu2 Elisa Ricci1,3 Massimiliano Mancini
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Garosi_Compositional_Caching_for_Training-free_Open-vocabulary_Attribute_Detection_CVPR_2025_paper.pdf)]
+  
 * [CVPR-2025] **FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**,
   Xiaoqin Wang1,2,3, Xusen Ma1,2,3, Xianxu Hou4, Meidan Ding1,2,3, Yudong Li5, Junliang Chen6, Wenting Chen7, Xiaoyang Peng8, Linlin Shen1,2,3,*
   [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FaceBench_A_Multi-View_Multi-Level_Facial_Attribute_VQA_Dataset_for_Benchmarking_CVPR_2025_paper.pdf)]
