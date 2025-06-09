@@ -176,6 +176,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [CVPR-2025] **Enhanced Visual-Semantic Interaction with Tailored Prompts for Pedestrian Attribute Recognition**,
+  Junyi Wu, Yan Huang, Min Gao, Yuzhen Niu, Yuzhong Chen, Qiang Wu
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Enhanced_Visual-Semantic_Interaction_with_Tailored_Prompts_for_Pedestrian_Attribute_Recognition_CVPR_2025_paper.pdf)] 
+
 * [ICIP-2025] **ViTA-PAR: Visual and Textual Attribute Alignment with Attribute Prompting for Pedestrian Attribute Recognition**,
   Minjeong Park, Hongbeen Park, Jinkyu Kim, arXiv:2506.01411 
   [[Paper](https://arxiv.org/abs/2506.01411)]
