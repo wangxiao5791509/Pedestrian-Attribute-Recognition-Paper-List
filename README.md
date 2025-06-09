@@ -197,13 +197,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 * **RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework**, Xiao Wang, Haiyang Wang, Shiao Wang, Qiang Chen, Jiandong Jin, Haoyu Song, Bo Jiang*, Chenglong Li, arXiv:2504.10018
   [[Paper](https://arxiv.org/abs/2504.10018)]
   [[Code](https://github.com/Event-AHU/OpenPAR)]
-
-* [CVPR-2025] **Enhanced Visual-Semantic Interaction with Tailored Prompts for Pedestrian Attribute Recognition**,
-  Junyi Wu · Yan Huang · Min Gao · Yuzhen Niu · Yuzhong Chen · Qiang Wu
-  [[Paper]()]
   
 * [AAAI-2025] **RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition**,
-  Chenye Wang,Saihui Hou,Aoqi Li,Qingyuan Cai, Yongzhen Huang
+  Chenye Wang, Saihui Hou, Aoqi Li, Qingyuan Cai, Yongzhen Huang 
 
 * Yang, Y., Leng, J., Liu, F., Hu, Y., Xu, K., & Gao, C. (2024, August).
   **Recognition of Pedestrian Attributes based on Multimodal Features**.
