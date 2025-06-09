@@ -176,6 +176,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [CVPR-2025] **FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**,
+  Xiaoqin Wang1,2,3, Xusen Ma1,2,3, Xianxu Hou4, Meidan Ding1,2,3, Yudong Li5, Junliang Chen6, Wenting Chen7, Xiaoyang Peng8, Linlin Shen1,2,3,*
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FaceBench_A_Multi-View_Multi-Level_Facial_Attribute_VQA_Dataset_for_Benchmarking_CVPR_2025_paper.pdf)]
+  
 * [CVPR-2025] **Enhanced Visual-Semantic Interaction with Tailored Prompts for Pedestrian Attribute Recognition**,
   Junyi Wu, Yan Huang, Min Gao, Yuzhen Niu, Yuzhong Chen, Qiang Wu
   [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Enhanced_Visual-Semantic_Interaction_with_Tailored_Prompts_for_Pedestrian_Attribute_Recognition_CVPR_2025_paper.pdf)] 
