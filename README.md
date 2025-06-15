@@ -192,7 +192,8 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 * [ICIP-2025] **ViTA-PAR: Visual and Textual Attribute Alignment with Attribute Prompting for Pedestrian Attribute Recognition**,
   Minjeong Park, Hongbeen Park, Jinkyu Kim, arXiv:2506.01411 
   [[Paper](https://arxiv.org/abs/2506.01411)]
-  
+  [[Code](https://github.com/mlnjeongpark/ViTA-PAR)] 
+    
 * [arXiv:2505.23313] **Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition**,
   Weizhe Kong, Xiao Wang*, Ruichong Gao, Chenglong Li*, Yu Zhang, Xing Yang, Yaowei Wang, Jin Tang,  
   [[Paper](https://arxiv.org/abs/2505.23313)]
