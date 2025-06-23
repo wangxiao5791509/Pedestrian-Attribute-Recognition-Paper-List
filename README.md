@@ -176,6 +176,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [ICML-2025] Chen Y, Hsu H, Hu S, et al. **PASS: Private Attributes Protection with Stochastic Data Substitution**[J]. arXiv preprint arXiv:2506.07308, 2025. 
+  [[Paper](https://arxiv.org/pdf/2506.07308)] 
+
 * [CVPR-2025] **Compositional Caching for Training-free Open-vocabulary Attribute Detection**, 
   Marco Garosi1 Alessandro Conti1 Gaowen Liu2 Elisa Ricci1,3 Massimiliano Mancini
   [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Garosi_Compositional_Caching_for_Training-free_Open-vocabulary_Attribute_Detection_CVPR_2025_paper.pdf)]
