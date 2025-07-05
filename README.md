@@ -176,6 +176,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [IEEE TCSVT 2025] J. Wu et al., "**Learning Comprehensive Representation via Selective Activation and Dual-Level Orthogonality for Pedestrian Attribute Recognition**," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2025.3545859.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10904896)]
+  
 * [PAA] **Multi-task model with attribute-specific heads for person re-identification**,
   [[Paper](https://link.springer.com/article/10.1007/s10044-025-01421-0)]
   
