@@ -176,6 +176,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [ICME 2025] **FOCUS: Fine-grained Optimization with Semantic Guided Understanding for Pedestrian Attributes Recognition**,
+  Hongyan An, Kuan Zhu, Xin He, Haiyun Guo, Chaoyang Zhao, Ming Tang, Jinqiao Wang
+  [[Paper](https://arxiv.org/abs/2506.22836)]
+  
 * [ICML-2025] Chen Y, Hsu H, Hu S, et al. **PASS: Private Attributes Protection with Stochastic Data Substitution**[J]. arXiv preprint arXiv:2506.07308, 2025. 
   [[Paper](https://arxiv.org/pdf/2506.07308)] 
 
