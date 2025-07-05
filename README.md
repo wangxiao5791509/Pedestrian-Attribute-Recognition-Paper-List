@@ -176,6 +176,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [PAA] **Multi-task model with attribute-specific heads for person re-identification**,
+  [[Paper](https://link.springer.com/article/10.1007/s10044-025-01421-0)]
+  
 * [ICME 2025] **FOCUS: Fine-grained Optimization with Semantic Guided Understanding for Pedestrian Attributes Recognition**,
   Hongyan An, Kuan Zhu, Xin He, Haiyun Guo, Chaoyang Zhao, Ming Tang, Jinqiao Wang
   [[Paper](https://arxiv.org/abs/2506.22836)]
