@@ -176,6 +176,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [arXiv:2506.04143] **Person Re-Identification System at Semantic Level based on Pedestrian Attributes Ontology**, 
+    Ngoc Q. Ly, Hieu N. M. Cao, Thi T. Nguyen
+    [[Paper](https://arxiv.org/abs/2506.04143)] 
+
 * [IEEE TCSVT 2025] J. Wu et al., "**Learning Comprehensive Representation via Selective Activation and Dual-Level Orthogonality for Pedestrian Attribute Recognition**," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2025.3545859.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10904896)]
   
