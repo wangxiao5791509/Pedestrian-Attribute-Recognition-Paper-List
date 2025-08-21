@@ -176,6 +176,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [WACV 2025] **CLIPping Imbalances: A Novel Evaluation Baseline and PEARL Dataset for Pedestrian Attribute Recognition**,
+  Kamalakar Vijay, Lalit Lohani, Kamakshya Prasad Nayak, Debi Prosad Dogra, Heeseung Choi, Hyungjoo Jung, Ig-Jae Kim
+  [[Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Vijay_CLIPping_Imbalances_A_Novel_Evaluation_Baseline_and_PEARL_Dataset_for_WACV_2025_paper.pdf)] [[Supple](https://openaccess.thecvf.com/content/WACV2025/supplemental/Vijay_CLIPping_Imbalances_A_WACV_2025_supplemental.pdf)]
+  
 * [arXiv:2506.04143] **Person Re-Identification System at Semantic Level based on Pedestrian Attributes Ontology**, 
     Ngoc Q. Ly, Hieu N. M. Cao, Thi T. Nguyen
     [[Paper](https://arxiv.org/abs/2506.04143)] 
