@@ -173,9 +173,49 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 
 
+
+
 ### Year-2025 
 
 
+* **Attribute-Aware Implicit Modality Alignment for text attribute person search**,
+  Fangfang Liu, Xin Wang, Zheng Li, Caili Guo, Yang Yang, Lin Hu
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010433)]
+  
+* "**ReID-FSAI: Person Re-Identification Network Fused With Semantic and Attribute Information,**" J. Xiao et al.,  
+  IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 6, pp. 8194-8208, June 2025, doi: 10.1109/TITS.2025.3553838.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10952377)]
+  
+* **An Experimental Evaluation of Smart Sensors for Pedestrian Attribute Recognition Using Multi-Task Learning and Vision Language Models**,
+  Antonio Greco 1,*,†ORCID,Alessia Saggese 1,†ORCID,Carlo Sansone 2,†ORCID andBruno Vento
+  [[Paper](https://www.mdpi.com/1424-8220/25/6/1736)]
+  
+* **AttriVision: Advancing Generalization in Pedestrian Attribute Recognition using CLIP**,
+  Mehran Adibi Sedeh, Assia Benbihi, Romain Martin, Marianne Clausel, Cédric Pradalier;
+  Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, 2025, pp. 354-365
+  [[Paper](https://openaccess.thecvf.com/content/WACV2025W/V3SC/html/Sedeh_AttriVision_Advancing_Generalization_in_Pedestrian_Attribute_Recognition_using_CLIP_WACVW_2025_paper.html)]
+  
+* "**Lightweight Attribute Localizing Models for Pedestrian Attribute Recognition**,"
+  A. Jha et al., IEEE Intelligent Systems, doi: 10.1109/MIS.2025.3588759.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11079280)]
+  
+* [arXiv:2306.09822] **Lightweight Attribute Localizing Models for Pedestrian Attribute Recognition**,
+  Ashish Jha, Dimitrii Ermilov, Konstantin Sobolev, Anh Huy Phan, Salman Ahmadi-Asl, Naveed Ahmed, Imran Junejo, Zaher AL Aghbari, Thar Baker, Ahmed Mohamed Khedr, Andrzej Cichocki
+  [[Paper](https://arxiv.org/abs/2306.09822)]
+  
+* "**AAPAR: CLIP-Based Adaptation and Alignment for Pedestrian Attribute Recognition**,"
+  X. Li, H. Ling, Y. Shi, Z. Li and P. Li, 
+  IEEE Transactions on Biometrics, Behavior, and Identity Science, doi: 10.1109/TBIOM.2025.3584107.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11059242)]
+  
+* [Neural Networks 2025] **Rethinking attention mechanism for enhanced pedestrian attribute recognition**,
+  Junyi Wu, Yan Huang, Min Gao, Yuzhen Niu, Yuzhong Chen, Qiang Wu
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231225009087)]
+  
+* [Neural Networks 2025] **High-order diversity feature learning for pedestrian attribute recognition**,
+  Junyi Wu , Yan Huang, Min Gao, Yuzhen Niu, Yuzhong Chen, Qiang Wu
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025003429)] 
+  
 * [WACV 2025] **CLIPping Imbalances: A Novel Evaluation Baseline and PEARL Dataset for Pedestrian Attribute Recognition**,
   Kamalakar Vijay, Lalit Lohani, Kamakshya Prasad Nayak, Debi Prosad Dogra, Heeseung Choi, Hyungjoo Jung, Ig-Jae Kim
   [[Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Vijay_CLIPping_Imbalances_A_Novel_Evaluation_Baseline_and_PEARL_Dataset_for_WACV_2025_paper.pdf)] [[Supple](https://openaccess.thecvf.com/content/WACV2025/supplemental/Vijay_CLIPping_Imbalances_A_WACV_2025_supplemental.pdf)]
