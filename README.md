@@ -178,6 +178,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [[arXiv:2509.26165]()] **Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**
+Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong He, Donghao Luo, Zhenye Gan, Junwei Zhu, Yunhang Shen, Chaoyou Fu, Chengjie Wang, Xiaobin Hu, Shuicheng Yan
+[[Paper](https://arxiv.org/abs/2509.26165)]
+[[Code](https://github.com/Yuan-Hou/Human-MME)] 
+
 * **Attribute-Aware Implicit Modality Alignment for text attribute person search**,
   Fangfang Liu, Xin Wang, Zheng Li, Caili Guo, Yang Yang, Lin Hu
   [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125010433)]
