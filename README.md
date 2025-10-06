@@ -178,6 +178,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [arXiv:2509.22331] **Pedestrian Attribute Recognition via Hierarchical Cross-Modality HyperGraph Learning**, arXiv 2025,
+  Xiao Wang, Shujuan Wu, Xiaoxia Cheng, Changwei Bi, Jin Tang, Bin Luo
+  [[Paper](https://arxiv.org/abs/2509.22331)]  
+  
 * [arXiv:2508.01389] **Open-Attribute Recognition for Person Retrieval: Finding People Through Distinctive and Novel Attributes**,
   Minjeong Park, Hongbeen Park, Sangwon Lee, Yoonha Jang, Jinkyu Kim
   [[Paper](https://arxiv.org/abs/2508.01389)] 
