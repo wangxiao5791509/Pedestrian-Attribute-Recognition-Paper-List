@@ -178,6 +178,19 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* **OpenTag: Open Attribute Value Extraction from Product Profiles**,
+  Guineng Zheng, Subhabrata Mukherjee, Xin Luna Dong, Feifei Li
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219839)]
+  
+* **Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach**,
+  Liyan Xu, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi
+  [[Paper](https://arxiv.org/abs/2305.18350)]
+  [[Code](https://github.com/lxucs/woam)] 
+  
+* **OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision**, Xinyang Zhang, Chenwei Zhang, Xian Li, Xin Luna Dong, Jingbo Shang, Christos Faloutsos, Jiawei Han 
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512035)]
+  [[Code](https://github.com/xinyangz/OAMine)] 
+  
 * [arXiv:2509.22331] **Pedestrian Attribute Recognition via Hierarchical Cross-Modality HyperGraph Learning**, arXiv 2025,
   Xiao Wang, Shujuan Wu, Xiaoxia Cheng, Changwei Bi, Jin Tang, Bin Luo
   [[Paper](https://arxiv.org/abs/2509.22331)]  
