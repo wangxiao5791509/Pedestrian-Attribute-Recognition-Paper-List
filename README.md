@@ -178,19 +178,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
-* **OpenTag: Open Attribute Value Extraction from Product Profiles**,
-  Guineng Zheng, Subhabrata Mukherjee, Xin Luna Dong, Feifei Li
-  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219839)]
-  
-* **Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach**,
-  Liyan Xu, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi
-  [[Paper](https://arxiv.org/abs/2305.18350)]
-  [[Code](https://github.com/lxucs/woam)] 
-  
-* **OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision**, Xinyang Zhang, Chenwei Zhang, Xian Li, Xin Luna Dong, Jingbo Shang, Christos Faloutsos, Jiawei Han 
-  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512035)]
-  [[Code](https://github.com/xinyangz/OAMine)] 
-  
+
+
+
 * [arXiv:2509.22331] **Pedestrian Attribute Recognition via Hierarchical Cross-Modality HyperGraph Learning**, arXiv 2025,
   Xiao Wang, Shujuan Wu, Xiaoxia Cheng, Changwei Bi, Jin Tang, Bin Luo
   [[Paper](https://arxiv.org/abs/2509.22331)]  
@@ -461,6 +451,11 @@ Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong
 
 ### Year-2023 
 
+* **Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach**,
+  Liyan Xu, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi
+  [[Paper](https://arxiv.org/abs/2305.18350)]
+  [[Code](https://github.com/lxucs/woam)] 
+
 * **"Evaluation of a Visual Question Answering Architecture for Pedestrian Attribute Recognition."** Castrillón-Santana, Modesto, et al.  International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2023.
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44237-7_2)]
 
@@ -574,7 +569,14 @@ Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006984)]
 
 
+
+
+
 ### Year-2022 
+
+* **OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision**, Xinyang Zhang, Chenwei Zhang, Xian Li, Xin Luna Dong, Jingbo Shang, Christos Faloutsos, Jiawei Han 
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512035)]
+  [[Code](https://github.com/xinyangz/OAMine)] 
 
 * "**YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition**." Roxo, Tiago, and Hugo Proença.  IEEE Access 10 (2022): 28122-28132.
 [[arXiv](https://arxiv.org/pdf/2107.06847v2.pdf)]
@@ -774,6 +776,10 @@ Li, Dangwei, Zhang Zhang, Xiaotang Chen, and Kaiqi Huang. "[A richly annotated p
 
 ### Year-2018 
 
+* **OpenTag: Open Attribute Value Extraction from Product Profiles**,
+  Guineng Zheng, Subhabrata Mukherjee, Xin Luna Dong, Feifei Li
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219839)]
+  
 * Jang, Jinhyeok, et al. "**Facial attribute recognition by recurrent learning with visual fixation.**" IEEE Transactions on Cybernetics 49.2 (2018): 616-625.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/8245865)] 
 
