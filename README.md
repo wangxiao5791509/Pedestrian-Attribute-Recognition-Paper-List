@@ -173,12 +173,56 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 
 
+### Open-World Attribute Mining 
+
+* **Open-World Attribute Mining for E-Commerce Products with Multimodal Self-Correction Instruction Tuning**,
+  Jiaqi Li1,3*, Yanming Li1,3*, Xiao li Shen3,4, Chuanyi Zhang2, Guilin Qi3,4†, Sheng Bi5
+  [[Paper](https://aclanthology.org/2025.acl-long.85.pdf)]
+
+* **Self-Refinement Strategies for LLM-based Product Attribute Value Extraction**,
+  Alexander Brinkmann, Christian Bizer
+  [[Paper](https://arxiv.org/abs/2501.01237)]
+  [[Code](https://github.com/wbsg-uni-mannheim/SelfRefinement4ExtractGPT)]
+
+* **An Empirical Comparison of Generative Approaches for Product Attribute-Value Identification**,
+  Kassem Sabeh, Robert Litschko, Mouna Kacimi, Barbara Plank, Johann Gamper 
+  [[Paper](https://arxiv.org/abs/2407.01137?)]
+
+* **Visual Zero-Shot E-Commerce Product Attribute Value Extraction**,
+  Jiaying Gong, Ming Cheng, Hongda Shen, Pierre-Yves Vandenbussche, Janet Jenq, Hoda Eldardiry
+  [[Paper](https://arxiv.org/abs/2502.15979)]
+
+* **Knowledge-Enhanced Multi-Label Few-Shot Product Attribute-Value Extraction**, Jiaying Gong et al.
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615142)]
+
+* **AtTGen: Attribute Tree Generation for Real-World Attribute Joint Extraction**,
+  Yanzeng Li1,2, Bingcong Xue1, Ruoyu Zhang1, Lei Zou
+  [[Paper](https://aclanthology.org/2023.acl-long.119.pdf)]
+
+* **Multi-Label Zero-Shot Product Attribute-Value Extraction**, Jiaying Gong et al.
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645649)]
+
+* **Exploring Large Language Models for Product Attribute Value Identification**,
+  Kassem Sabeh, Mouna Kacimi, Johann Gamper, Robert Litschko, Barbara Plank
+  [[Paper](https://arxiv.org/abs/2409.12695?)]
+
+* **Using LLMs for the Extraction and Normalization of Product Attribute Values**,
+  Alexander Brinkmann, Nick Baumann, Christian Bizer
+  [[Paper](https://arxiv.org/abs/2403.02130)]
+
+* **SMARTAVE: Structured Multimodal Transformer for Product Attribute Value Extraction**,
+  [[Paper](https://aclanthology.org/2022.findings-emnlp.20.pdf)]
+
+* **FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery**,
+  Changlong Yu, Weiqi Wang, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin
+  [[Paper](https://arxiv.org/abs/2211.08316)]
+
+* **MixPAVE: Mix-Prompt Tuning for Few-shot Product Attribute Value Extraction**, Li Yang1∗, Qifan Wang2∗, Jingang Wang3†, Xiaojun Quan4, Fuli Feng5, Yu Chen2, Madian Khabsa2, Sinong Wang2, Zenglin Xu6 and Dongfang Liu,
+  [[Paper](https://aclanthology.org/2023.findings-acl.633.pdf)]
+
 
 
 ### Year-2025 
-
-
-
 
 
 * [arXiv:2509.22331] **Pedestrian Attribute Recognition via Hierarchical Cross-Modality HyperGraph Learning**, arXiv 2025,
