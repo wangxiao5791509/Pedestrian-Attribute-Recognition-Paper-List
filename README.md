@@ -655,6 +655,10 @@ Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong
 
 ### Year-2021 
 
+* **Pedestrian re-identification based on attribute mining and reasoning**,
+  Chao Li Xiaoyu Yang Kangning Yin Yifan Chang Zhiguo WangGuangqiang Yin
+  [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ipr2.12225)]
+  
 * X. Shan, P. Peng, Y. Zhai, C. Zhang, T. Huang and Y. Tian, "**Generate And Adjust: A Novel Framework For Semi-Supervised Pedestrian Attribute Recognition**," 2021 IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2021, pp. 1-6, doi: 10.1109/ICMEW53276.2021.9455965. [[Paper](https://ieeexplore.ieee.org/abstract/document/9455965)]
 
 * Yang, Y., Tan, Z., Tiwari, P. et al. **Cascaded Split-and-Aggregate Learning with Feature Recombination for Pedestrian Attribute Recognition**. Int J Comput Vis 129, 2731–2744 (2021). https://doi.org/10.1007/s11263-021-01499-z
