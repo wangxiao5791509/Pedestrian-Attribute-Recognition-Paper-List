@@ -175,6 +175,18 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Open-World Attribute Mining 
 
+* **EAVE: Efficient Product Attribute Value Extraction via Lightweight Sparse-layer Interaction**,
+  Li Yang, Qifan Wang, Jianfeng Chi, Jiahao Liu, Jingang Wang, Fuli Feng, Zenglin Xu, Yi Fang, Lifu Huang, Dongfang Liu
+  [[Paper](https://arxiv.org/abs/2406.06839)] 
+  
+* **GAVEL: Generative Attribute-Value Extraction Using LLMs on LLM-Augmented Datasets**,
+  Pollawat Hongwimol, Dong Sheng, Li Zhang, Kai Liu, Xiufei Wang
+  [[Paper](https://aclanthology.org/2025.knowledgenlp-1.6/)] 
+
+* **TACLR: A Scalable and Efficient Retrieval-Based Method for Industrial Product Attribute Value Identification**,
+  Yindu Su1,2, Huike Zou1, Lin Sun3, Ting Zhang2, Haiyang Yang1, Liyu Chen1, David Lo2, Qingheng Zhang1, Shuguang Han1, Jufeng Chen
+  [[Paper](https://arxiv.org/pdf/2501.03835)]
+
 * **Open-World Attribute Mining for E-Commerce Products with Multimodal Self-Correction Instruction Tuning**,
   Jiaqi Li1,3*, Yanming Li1,3*, Xiao li Shen3,4, Chuanyi Zhang2, Guilin Qi3,4†, Sheng Bi5
   [[Paper](https://aclanthology.org/2025.acl-long.85.pdf)]
