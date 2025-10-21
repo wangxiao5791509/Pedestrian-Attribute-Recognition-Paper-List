@@ -234,9 +234,18 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 
 
+
+
+
+
+
 ### Year-2025 
 
 
+* **LVLM-Driven Attribute-Aware Modeling for Visible-Infrared Person Re-Identification**,
+  Zhiqi Pang · Lingling Zhao · Junjie Wang · Chunyu Wang
+  [[Paper](https://neurips.cc/virtual/2025/poster/118460)]
+  
 * [arXiv:2509.22331] **Pedestrian Attribute Recognition via Hierarchical Cross-Modality HyperGraph Learning**, arXiv 2025,
   Xiao Wang, Shujuan Wu, Xiaoxia Cheng, Changwei Bi, Jin Tang, Bin Luo
   [[Paper](https://arxiv.org/abs/2509.22331)]  
