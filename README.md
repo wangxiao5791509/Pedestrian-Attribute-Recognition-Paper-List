@@ -242,6 +242,12 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* **When Person Re-Identification Meets Event Camera: A Benchmark Dataset and An Attribute-guided Re-Identification Framework**,
+  Xiao Wang, Qian Zhu, Shujuan Wu, Bo Jiang, Shiliang Zhang, 
+  arXiv:2507.13659, The Fortieth AAAI Conference on Artificial Intelligence (AAAI) 2026
+  [[Paper](https://arxiv.org/abs/2507.13659)]
+  [[Code](https://github.com/Event-AHU/Neuromorphic_ReID)]
+  
 * **LVLM-Driven Attribute-Aware Modeling for Visible-Infrared Person Re-Identification**,
   Zhiqi Pang · Lingling Zhao · Junjie Wang · Chunyu Wang
   [[Paper](https://neurips.cc/virtual/2025/poster/118460)]
