@@ -79,6 +79,8 @@ Please consider citing this paper, if you find this survey useful for your resea
 
 ## Dataset:
 
+
+0. **EventPAR** : [[arXiv](https://arxiv.org/abs/2504.10018)] 
 0. **MSP60K Dataset**: [https://github.com/Event-AHU/OpenPAR](https://github.com/Event-AHU/OpenPAR)
 1. PETA Dataset: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html 
 2. RAP Dataset: http://rap.idealtest.org/
@@ -242,6 +244,11 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* [CVIU 2025] **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, IEEE Transactions on Intelligent Transportation Systems, arXiv:2404.17929, 
+  Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian 
+  [[Paper](https://arxiv.org/abs/2404.17929)] 
+  [[Code](https://github.com/Event-AHU/OpenPAR)] 
+  
 * **When Person Re-Identification Meets Event Camera: A Benchmark Dataset and An Attribute-guided Re-Identification Framework**,
   Xiao Wang, Qian Zhu, Shujuan Wu, Bo Jiang, Shiliang Zhang, 
   arXiv:2507.13659, The Fortieth AAAI Conference on Artificial Intelligence (AAAI) 2026
@@ -261,9 +268,9 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
   [[Paper](https://arxiv.org/abs/2508.01389)] 
   
 * [[arXiv:2509.26165]()] **Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**
-Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong He, Donghao Luo, Zhenye Gan, Junwei Zhu, Yunhang Shen, Chaoyou Fu, Chengjie Wang, Xiaobin Hu, Shuicheng Yan
-[[Paper](https://arxiv.org/abs/2509.26165)]
-[[Code](https://github.com/Yuan-Hou/Human-MME)] 
+  Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong He, Donghao Luo, Zhenye Gan, Junwei Zhu, Yunhang Shen, Chaoyou Fu, Chengjie Wang, Xiaobin Hu, Shuicheng Yan
+  [[Paper](https://arxiv.org/abs/2509.26165)]
+  [[Code](https://github.com/Yuan-Hou/Human-MME)] 
 
 * **Attribute-Aware Implicit Modality Alignment for text attribute person search**,
   Fangfang Liu, Xin Wang, Zheng Li, Caili Guo, Yang Yang, Lin Hu
@@ -307,10 +314,9 @@ Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong
   Kamalakar Vijay, Lalit Lohani, Kamakshya Prasad Nayak, Debi Prosad Dogra, Heeseung Choi, Hyungjoo Jung, Ig-Jae Kim
   [[Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Vijay_CLIPping_Imbalances_A_Novel_Evaluation_Baseline_and_PEARL_Dataset_for_WACV_2025_paper.pdf)] [[Supple](https://openaccess.thecvf.com/content/WACV2025/supplemental/Vijay_CLIPping_Imbalances_A_WACV_2025_supplemental.pdf)]
   
-* [arXiv:2506.04143] **Person Re-Identification System at Semantic Level based on Pedestrian Attributes Ontology**, 
-    Ngoc Q. Ly, Hieu N. M. Cao, Thi T. Nguyen
-    [[Paper](https://arxiv.org/abs/2506.04143)] 
-
+* [arXiv:2506.04143] **Person Re-Identification System at Semantic Level based on Pedestrian Attributes Ontology**, Ngoc Q. Ly, Hieu N. M. Cao, Thi T. Nguyen
+  [[Paper](https://arxiv.org/abs/2506.04143)] 
+  
 * [IEEE TCSVT 2025] J. Wu et al., "**Learning Comprehensive Representation via Selective Activation and Dual-Level Orthogonality for Pedestrian Attribute Recognition**," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2025.3545859.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10904896)]
   
@@ -441,7 +447,6 @@ Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong
   中文期刊名称：计算机辅助设计与图形学学报 
   [[Paper](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2024.2023-00362)]
   
-
 * [CVPR-2024] **Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability**, Yan Huang, Zhang Zhang, Qiang Wu, Yi Zhong, Liang Wang; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 17689-17699
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Attribute-Guided_Pedestrian_Retrieval_Bridging_Person_Re-ID_with_Internal_Attribute_Variability_CVPR_2024_paper.html)] 
 
@@ -468,11 +473,6 @@ Yuansen Liu, Haiming Tang, Jinlong Peng, Jiangning Zhang, Xiaozhong Ji, Qingdong
   Yibo Zhou, Hai-Miao Hu, Yirong Xiang, Xiaokang Zhang, Haotian Wu
   [[Paper](https://arxiv.org/abs/2405.04858)] 
   [[Code](https://github.com/SDret/Pedestrian-Attribute-Recognition-as-Label-balanced-Multi-label-Learning)] 
-
-* [IEEE T-ITS] **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, IEEE Transactions on Intelligent Transportation Systems, arXiv:2404.17929, 
-  Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian 
-  [[Paper](https://arxiv.org/abs/2404.17929)] 
-  [[Code](https://github.com/Event-AHU/OpenPAR)] 
   
 * **Private Attribute Inference from Images with Vision-Language Models**, arXiv:2404.10618, 
   Batuhan Tömekçe, Mark Vero, Robin Staab, Martin Vechev
