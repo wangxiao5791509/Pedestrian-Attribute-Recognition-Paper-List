@@ -244,6 +244,14 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* **Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data Generation: A Comparative Study with Image-To-Image Diffusion Models**, AVSS 2025 conference 
+  Pablo Ayuso-Albizu, Juan C. SanMiguel, Pablo Carballeira
+  [[Paper](https://arxiv.org/abs/2509.02161)]
+
+* **A Data-Centric Approach to Pedestrian Attribute Recognition: Synthetic Augmentation via Prompt-driven Diffusion Models**, AVSS 2025 conference 
+  Alejandro Alonso, Sawaiz A. Chaudhry, Juan C. SanMiguel, Álvaro García-Martín, Pablo Ayuso-Albizu, Pablo Carballeira
+  [[Paper](https://arxiv.org/abs/2509.02099)] 
+
 * [CVIU 2025] **Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**, IEEE Transactions on Intelligent Transportation Systems, arXiv:2404.17929, 
   Xiao Wang, Qian Zhu, Jiandong Jin, Jun Zhu, Futian Wang, Bo Jiang, Yaowei Wang, Yonghong Tian 
   [[Paper](https://arxiv.org/abs/2404.17929)] 
