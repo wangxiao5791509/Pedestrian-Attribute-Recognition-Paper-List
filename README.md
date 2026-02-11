@@ -244,6 +244,10 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 ### Year-2025 
 
 
+* **VLM-PAR: A Vision Language Model for Pedestrian Attribute Recognition**,
+  Abdellah Zakaria Sellam, Salah Eddine Bekhouche, Fadi Dornaika, Cosimo Distante, Abdenour Hadid
+  [[Paper](https://arxiv.org/abs/2512.22217)]
+  
 * **Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data Generation: A Comparative Study with Image-To-Image Diffusion Models**, AVSS 2025 conference 
   Pablo Ayuso-Albizu, Juan C. SanMiguel, Pablo Carballeira
   [[Paper](https://arxiv.org/abs/2509.02161)]
