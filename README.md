@@ -237,8 +237,17 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 
 
+### Year-2026 
 
+* Zhang, Yukang, et al. "**Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition.**" Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 40. No. 15. 2026.
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/38296/42258)]
 
+* **PFM-VEPAR: Prompting Foundation Models for RGB-Event Camera based Pedestrian Attribute Recognition**,
+  Minghe Xu, Rouying Wu, ChiaWei Chu, Xiao Wang*, Yu Li, Pattern Recognition 2026, arXiv:2603.19565
+  [[Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326006850)]
+  [[Github](https://github.com/Event-AHU/OpenPAR)]  
+
+  
 
 
 ### Year-2025 
