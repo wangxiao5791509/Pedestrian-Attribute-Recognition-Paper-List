@@ -239,6 +239,14 @@ DukeMTMC-reID-attribute dataset. https://github.com/hyk1996/Person-Attribute-Rec
 
 ### Year-2026 
 
+
+* J. Wu et al., "**FreqMamba: Frequency Enhancement and Mamba-Driven Representation Learning for Pedestrian Attribute Recognition**," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2026.3702340.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11557383)]
+  
+* [arXiv:2606.06020 [cs.CV]] **ReSAGE-PAR: Representational Similarity Assessment for Generative Expansion in Pedestrian Attribute Recognition**,
+  Pablo Ayuso-Albizu, Pablo Carballeira, Juan C. SanMiguel, Paula Moral
+  [[Paper](https://arxiv.org/abs/2606.06020)] 
+  
 * Zhang, Yukang, et al. "**Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition.**" Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 40. No. 15. 2026.
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/38296/42258)]
 
