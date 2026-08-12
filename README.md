@@ -1112,6 +1112,6 @@ Shao, Jing, Kai Kang, Chen Change Loy, and Xiaogang Wang. "Deeply learned attrib
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List&type=Date)](https://star-history.com/#wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List&type=Date)](https://star-history.dera.page/#wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List&Date)
 
 
